@@ -1,0 +1,11 @@
+enabled: true
+built_in_css: true
+date_display_format: 'F jS Y'
+show_count: true
+limit: 12
+order:
+  by: date
+  dir: desc
+filter_combinator: and
+filters:
+  - documentation

@@ -1,0 +1,19 @@
+enabled: true
+dropdown:
+  enabled: false
+google_prettify:
+  enabled: true
+mobilemenu_breakpoint: medium
+mobilemenu_position: left
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/course-companion-bv, user/themes/bones-vanilla]
+fontawesome:
+  enabled: true
+google_fonts_logo:
+  enabled: false
+css_custom:
+  enabled: true

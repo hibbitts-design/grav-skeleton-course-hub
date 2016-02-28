@@ -1,0 +1,13 @@
+enabled: true
+dropdown:
+  enabled: false
+google_prettify:
+  enabled: true
+mobilemenu_breakpoint: medium
+mobilemenu_position: left
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/bones-vanilla

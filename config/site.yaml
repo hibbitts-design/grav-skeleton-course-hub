@@ -1,0 +1,30 @@
+title: CPT-363
+metadata:
+    description: 'A short description of your course would go here'
+displaymenuentries:
+    enabled: true         # display of additional menu entries
+menu:                     # menu entry for adding external sites/tools
+    - text: Grav
+      icon: arrow-circle-right
+      url: http://getgrav.org/
+icon:                     # default font awesome icons for preparation and post entries
+    post: calendar-o
+github:
+    location: page         # menu | page | none
+    tree: https://github.com/hibbitts-design/grav-skeleton-course-companion/edit/master/
+rssbutton:
+    display: true
+# The below are required settings for the base theme, and should not be modified
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects:
+  /redirect-test: /
+  '/old/(.*)': /new/$1
+routes:
+  /something/else: /blog/sample-3
+  '/new/(.*)': /blog/$1
+blog:
+  route: /blog

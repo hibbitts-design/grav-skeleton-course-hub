@@ -1,0 +1,16 @@
+name: Course Hub Site
+version: 0.9.6
+description: "Grav Course Hub skeleton package, designed to support an open and collaborative flipped-LMS approach."
+icon: university
+author:
+ name: Paul Hibbitts
+ email: paul@paulhibbitts.org
+ url: http://hibbittsdesign.org
+homepage: https://github.com/hibbitts-design/grav-skeleton-course-hub
+demo: http://demo.hibbittsdesign.org/grav-course-hub/
+keywords: bones, theme, foundation, foundation6, core, simple, responsive, basic, course, lms
+bugs: https://github.com/hibbitts-design/grav-skeleton-course-hub/issues
+license: MIT
+
+dependencies:
+  - course-hub-bones

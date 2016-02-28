@@ -1,0 +1,15 @@
+enabled: true
+dropdown:
+  enabled: true
+google_prettify:
+  enabled: true
+mobilemenu_breakpoint: large
+mobilemenu_position: left
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/bones
+github_prettify:
+  enabled: true

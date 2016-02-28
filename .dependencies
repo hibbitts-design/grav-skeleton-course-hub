@@ -1,0 +1,150 @@
+git:
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
+        branch: master
+    archives:
+        url: https://github.com/getgrav/grav-plugin-archives
+        path: user/plugins/archives
+        branch: master
+    breadcrumbs:
+        url: https://github.com/getgrav/grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
+        branch: master
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    external_links:
+        url: https://github.com/Sommerregen/grav-plugin-external-links
+        path: user/plugins/external_links
+        branch: master
+    featherlight:
+        url: https://github.com/getgrav/grav-plugin-featherlight
+        path: user/plugins/featherlight
+        branch: master
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: master
+    page-inject:
+        url: https://github.com/getgrav/grav-plugin-page-inject
+        path: user/plugins/page-inject
+        branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    relatedpages:
+        url: https://github.com/getgrav/grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        branch: master
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: master
+    sitemap:
+        url: https://github.com/getgrav/grav-plugin-sitemap
+        path: user/plugins/sitemap
+        branch: master
+    taxonomylist:
+        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        branch: master
+    bones-vanilla:
+        url: https://github.com/smartgravity/grav-theme-bones-vanilla
+        path: user/themes/bones-vanilla
+        branch: master
+    course-companion-bv:
+        url: https://github.com/hibbitts-design/grav-theme-course-hub-bones
+        path: user/themes/course-hub-bones
+        branch: master
+links:
+    admin:
+        src: grav-plugin-admin
+        path: user/plugins/admin
+        scm: github
+    archives:
+        src: grav-plugin-archives
+        path: user/plugins/archives
+        scm: github
+    breadcrumbs:
+        src: grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
+        scm: github
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
+        scm: github
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    external_links:
+        src: grav-plugin-external_links
+        path: user/plugins/external_links
+        scm: github
+    featherlight:
+        src: grav-plugin-featherlight
+        path: user/plugins/featherlight
+        scm: github
+    feed:
+        src: grav-plugin-feed
+        path: user/plugins/feed
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
+        scm: github
+    login:
+        src: grav-plugin-login
+        path: user/plugins/login
+        scm: github
+    page-inject:
+        src: grav-plugin-page-inject
+        path: user/plugins/page-inject
+        scm: github
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
+        scm: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    relatedpages:
+        src: grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        scm: github
+    simplesearch:
+        src: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        scm: github
+    taxonomylist:
+        src: grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        scm: github
+    bones-vanilla:
+        src: grav-theme-bones-vanilla
+        path: user/themes/bones-vanilla
+        scm: github
+    course-companion-bv:
+        src: grav-theme-course-hub-bones
+        path: user/themes/course-hub-bones
+        scm: github
