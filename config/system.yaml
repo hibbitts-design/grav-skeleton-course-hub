@@ -66,7 +66,7 @@ pages:
   url_taxonomy_filters: true
   markdown_extra: false
 cache:
-  enabled: false
+  enabled: true
   check:
     method: file
   driver: auto
