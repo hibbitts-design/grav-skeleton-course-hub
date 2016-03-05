@@ -3,6 +3,8 @@ timezone: ''
 default_locale: null
 param_sep: ':'
 wrapped_site: false
+reverse_proxy_setup: false
+proxy_url: null
 languages:
   supported: {  }
   include_default_lang: true
