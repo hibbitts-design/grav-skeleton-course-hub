@@ -17,7 +17,7 @@ home:
   alias: /blog
   hide_in_urls: false
 pages:
-  theme: course-hub-bootstrap
+  theme: course-hub-bones
   order:
     by: default
     dir: asc
