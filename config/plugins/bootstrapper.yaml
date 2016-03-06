@@ -1,7 +1,7 @@
-enabled: false
-always_load: false
+enabled: true
+always_load: true
 use_cdn: false
 mode: production
 load_core_css: true
-load_theme_css: true
+load_theme_css: false
 load_core_js: true
