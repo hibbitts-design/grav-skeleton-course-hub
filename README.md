@@ -20,8 +20,8 @@ The **Course Hub** skeleton is intended to accompany a face-to-face, blended or 
 
 ## Why Flip your LMS with Grav?
 * To support pedagogical goals unmet by current LMS/platform
-* To increase capability of access, sharing and collaboration
 * To deliver a better student (and facilitator) experience
+* To increase capability of access, sharing and collaboration
 
 ## Why Use a Modern flat-file CMS?
 As an open source modern flat-file CMS, Grav offers a distinct set of advantages to Web-savvy educators looking to move beyond their institutional LMS:
