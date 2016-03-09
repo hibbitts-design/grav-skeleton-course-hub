@@ -4,13 +4,13 @@
 1. [](#new)
     * ChangeLog started...
 
-# v0.9.8
+# v0.9.7
 ## 03/05/2016
 
 1. [](#new)
     * Course Hub Bootstrap theme included (not set as default)
 
-# v0.9.9
+# v0.9.8
 ## 03/09/2016
 
 1. [](#improved)
