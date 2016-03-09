@@ -4,8 +4,14 @@
 1. [](#new)
     * ChangeLog started...
 
-# v0.9.7
+# v0.9.8
 ## 03/05/2016
 
 1. [](#new)
     * Course Hub Bootstrap theme included (not set as default)
+
+# v0.9.8
+## 03/05/2016
+
+1. [](#improved)
+    * Updated with Course Hub Bones and Bootstrap themes, which include checks for bootstrapper plugin status
