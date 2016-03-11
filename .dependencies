@@ -15,10 +15,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
         branch: master
-    error:
-        url: https://github.com/getgrav/grav-plugin-error
-        path: user/plugins/error
-        branch: master
     external_links:
         url: https://github.com/Sommerregen/grav-plugin-external-links
         path: user/plugins/external_links
@@ -46,10 +42,6 @@ git:
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
-        branch: master
-    problems:
-        url: https://github.com/getgrav/grav-plugin-problems
-        path: user/plugins/problems
         branch: master
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
@@ -92,10 +84,6 @@ links:
         src: grav-plugin-email
         path: user/plugins/email
         scm: github
-    error:
-        src: grav-plugin-error
-        path: user/plugins/error
-        scm: github
     external_links:
         src: grav-plugin-external_links
         path: user/plugins/external_links
@@ -123,10 +111,6 @@ links:
     pagination:
         src: grav-plugin-pagination
         path: user/plugins/pagination
-        scm: github
-    problems:
-        src: grav-plugin-problems
-        path: user/plugins/problems
         scm: github
     relatedpages:
         src: grav-plugin-relatedpages
