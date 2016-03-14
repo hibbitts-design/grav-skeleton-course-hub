@@ -68,7 +68,7 @@ pages:
   url_taxonomy_filters: true
   markdown_extra: false
 cache:
-  enabled: true
+  enabled: false
   check:
     method: file
   driver: auto
@@ -76,7 +76,7 @@ cache:
   lifetime: 604800
   gzip: false
 twig:
-  cache: true
+  cache: false
   debug: true
   auto_reload: true
   autoescape: false
