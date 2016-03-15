@@ -7,10 +7,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
         branch: master
-    breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
-        branch: master
     email:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
@@ -75,10 +71,6 @@ links:
     archives:
         src: grav-plugin-archives
         path: user/plugins/archives
-        scm: github
-    breadcrumbs:
-        src: grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
         scm: github
     email:
         src: grav-plugin-email
