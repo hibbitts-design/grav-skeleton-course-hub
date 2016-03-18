@@ -59,9 +59,13 @@ git:
         url: https://github.com/smartgravity/grav-theme-bones-vanilla
         path: user/themes/bones-vanilla
         branch: master
-    course-companion-bv:
+    course-hub-bones:
         url: https://github.com/hibbitts-design/grav-theme-course-hub-bones
         path: user/themes/course-hub-bones
+        branch: master
+    course-hub-bootstrap:
+        url: https://github.com/hibbitts-design/grav-theme-course-hub-bootstrap
+        path: user/themes/course-hub-bootstrap
         branch: master
 links:
     admin:
@@ -120,7 +124,11 @@ links:
         src: grav-theme-bones-vanilla
         path: user/themes/bones-vanilla
         scm: github
-    course-companion-bv:
+    course-hub-bones:
         src: grav-theme-course-hub-bones
         path: user/themes/course-hub-bones
+        scm: github
+    course-hub-bootstrap:
+        src: grav-theme-course-hub-bootstrap
+        path: user/themes/course-hub-bootstrap
         scm: github

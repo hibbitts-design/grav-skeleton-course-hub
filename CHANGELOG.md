@@ -3,6 +3,8 @@
 
 1. [](#improved)
     * Updated with newest Course Hub Bones and Bootstrap themes, which include checks for external links plugin status and addition of scripts.html.twig file to hold global JavaScript code
+1. [](#bugfix)
+    * Corrected Skeleton dependencies to include Course Hub Bones and Bootstrap themes
 
 # v0.9.8
 ## 03/09/2016
