@@ -19,7 +19,7 @@ The **Course Hub** skeleton is intended to accompany a face-to-face, blended or 
 [Configuration](#site-configuration)  
 [Blog Item Page Options](blog-item-page-options)
 
-## Flipping your LMS with the Grav Course Hub 
+## Flipping your LMS with the Grav Course Hub
 
 ### Why Flip your LMS with Grav?
 * To support pedagogical goals unmet by current LMS/platform
@@ -110,7 +110,7 @@ _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a 
 
 Once you have confirmed that Grav is running locally on your computer, the final step is to create a Git server repository to store your site files and setup an automatic deployment service to push any changed files to your Web server. An example step-by-step walkthrough this process is available in the article [Using Grav with GitHub Desktop (and Deploy)](http://hibbittsdesign.org/blog/posts/using-grav-with-github-and-deploy).
 
-## Grav Course Hub Configuration  
+## Grav Course Hub Details  
 
 ### Page Templates
 * Blog template (blog.html.twig)
