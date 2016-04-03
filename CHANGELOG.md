@@ -1,3 +1,9 @@
+# v1.0.0
+## 04/09/2016
+
+1. [](#improved)
+    * Updated with newest Bootstrapper plugin
+
 # v0.9.9
 ## 03/21/2016
 
@@ -10,7 +16,7 @@
 ## 03/09/2016
 
 1. [](#improved)
-    * Updated with newest Course Hub Bones and Bootstrap themes, which include checks for bootstrapper plugin status
+    * Updated with newest Course Hub Bones and Bootstrap themes, which include checks for Bootstrapper plugin status
 
 # v0.9.7
 ## 03/05/2016

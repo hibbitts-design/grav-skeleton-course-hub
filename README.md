@@ -17,13 +17,16 @@ The **Course Hub** skeleton is intended to accompany a face-to-face, blended or 
 [Page Templates](#page-templates)  
 [Site Structure](#site-structure)
 [Configuration](#site-configuration)  
+[Blog Item Page Options](blog-item-page-options)
 
-## Why Flip your LMS with Grav?
+## Flipping your LMS with the Grav Course Hub 
+
+### Why Flip your LMS with Grav?
 * To support pedagogical goals unmet by current LMS/platform
 * To deliver a better student (and facilitator) experience
 * To increase capability of access, sharing and collaboration
 
-## Why Use a Modern flat-file CMS?
+### Why Use a Modern flat-file CMS?
 As an open source modern flat-file CMS, Grav offers a distinct set of advantages to Web-savvy educators looking to move beyond their institutional LMS:
 * Modern means...
   * Modern PHP code (i.e. reliability, speed, extensibility, etc.)
@@ -37,11 +40,11 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
   * Increased portability, as moving a site now only requires simply copying files to another location
   * All template and content files are 100% version controllable
 
-## Course Hub Screenshot
+### Course Hub Screenshot
 ![Course Hub Screenshot](/assets/screenshot.jpg)  
 _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore the demo online at [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/)_
 
-## Course Hub Highlights
+### Course Hub Highlights
 * A complete ready-to-run Grav package (open source)
 * Blog-format, with 'featured' (sticky) posts
 * Important reminders & class preparations areas
@@ -55,7 +58,9 @@ _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editi
 
 To learn more about how to most effectively use the Grav Course Hub, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
 
-## Quick Install (Web server only)
+## Grav Course Hub Installation  
+
+### Quick Install (Web server only)
 **Pre-flight Checklist**  
 
 1. Confirm Web server PHP version (PHP 5.5.9 or higher)
@@ -70,7 +75,7 @@ To learn more about how to most effectively use the Grav Course Hub, visit [hibb
 5. Create your site administrator account when prompted  
 6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)
 
-## Recommended Install (Desktop + Server)
+### Recommended Install (Desktop + Server)
 With the flat-file (no database) nature of Grav, there are lots of benefits of installing Grav on your computer and then having your site files mirrored onto a Web server:
 * Always have access to your site, regardless of Web server status
 * Develop and test changes to your site privately without any downtime of the live site
@@ -105,7 +110,9 @@ _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a 
 
 Once you have confirmed that Grav is running locally on your computer, the final step is to create a Git server repository to store your site files and setup an automatic deployment service to push any changed files to your Web server. An example step-by-step walkthrough this process is available in the article [Using Grav with GitHub Desktop (and Deploy)](http://hibbittsdesign.org/blog/posts/using-grav-with-github-and-deploy).
 
-## Page Templates
+## Grav Course Hub Configuration  
+
+### Page Templates
 * Blog template (blog.html.twig)
 * Important reminders template (important_reminders.html.twig)
 * Weekly preparations template (preparations.html.twig)
@@ -114,7 +121,7 @@ Once you have confirmed that Grav is running locally on your computer, the final
 * Page template (page.html.twig)
 * Sidebar template (sidebar.html.twig)
 
-## Site Structure
+### Site Structure
 
 ```
 /user
@@ -141,7 +148,7 @@ Once you have confirmed that Grav is running locally on your computer, the final
         -/default.md
 ```
 
-## Site Configuration
+### Site Configuration
 The 'site.yaml' file located in the '/user/config/' folder contains the following default values:
 ```
 title: CPT-363
@@ -175,7 +182,7 @@ rssbutton:
 | github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
 
-#Blog Item Page Options
+##Blog Item Page Options
 
 In addition to standard page header options (i.e. 'Visible'), blog item pages support the following additional options:
 ```
