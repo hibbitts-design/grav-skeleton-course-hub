@@ -92,7 +92,7 @@ _Figure 2. Grav recommended install using Grav, GitHub, and and automatic deploy
 3. Download and install MAMP   ([https://www.mamp.info/](https://www.mamp.info/))  
 4. Git server account (e.g. GitHub ([https://github.com/](https://github.com)) or local GitLab or Gogs app, etc.)  
 5. Download and install GitHub Desktop ([https://desktop.github.com/](https://desktop.github.com/))  
-6. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)), Buddy([https://buddy.works/](https://buddy.works)), etc.)  
+6. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)) or Buddy ([https://buddy.works/](https://buddy.works)))  
 
 **Desktop Installation Steps**  
 
