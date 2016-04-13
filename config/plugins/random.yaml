@@ -1,6 +1,0 @@
-enabled: true
-route: /random
-redirect: true
-filters:
-  - documentation
-filter_combinator: and
