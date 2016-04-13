@@ -11,6 +11,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
         branch: master
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
     external_links:
         url: https://github.com/Sommerregen/grav-plugin-external-links
         path: user/plugins/external_links
@@ -38,6 +42,10 @@ git:
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
         branch: master
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
