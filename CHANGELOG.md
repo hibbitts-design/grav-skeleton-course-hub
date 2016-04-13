@@ -1,3 +1,9 @@
+# v1.0.1
+## 04/13/2016
+
+1. [](#improved)
+    * Updated with newest Course Hub Bones and Bootstrap themes, which include support for Sidebar plugin widgets display
+
 # v1.0.0
 ## 04/09/2016
 
