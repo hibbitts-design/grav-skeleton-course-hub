@@ -1,3 +1,9 @@
+# v1.1.0
+## 04/18/2016
+
+1. [](#improved)
+    * Updated with newest Course Hub Bones and Bootstrap themes, which include revised navbar styles
+
 # v1.0.1
 ## 04/13/2016
 
