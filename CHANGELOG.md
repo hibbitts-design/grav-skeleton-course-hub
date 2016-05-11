@@ -1,3 +1,9 @@
+# v1.1.1
+## 05/11/2016
+
+1. [](#improved)
+    * Updated with newest Grav plugin releases
+
 # v1.1.0
 ## 04/18/2016
 
