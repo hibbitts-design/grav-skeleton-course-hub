@@ -63,6 +63,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
+    youtube:
+        url: https://github.com/getgrav/grav-plugin-youtube
+        path: user/plugins/youtube
+        branch: master
     bones-vanilla:
         url: https://github.com/smartgravity/grav-theme-bones-vanilla
         path: user/themes/bones-vanilla
@@ -127,6 +131,10 @@ links:
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
+        scm: github
+    youtube:
+        src: grav-plugin-youtube
+        path: user/plugins/youtube
         scm: github
     bones-vanilla:
         src: grav-theme-bones-vanilla
