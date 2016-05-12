@@ -118,7 +118,8 @@ Once you have confirmed that Grav is running locally on your computer, the final
 * Weekly preparations template (preparations.html.twig)
 * Blog item template (blog_item.html.twig)
 * Item template (item.html.twig)
-* Page template (page.html.twig)
+* Page with Sidebar template (sidebarpage.html.twig)
+* Full width Page template (fullwidthpage.html.twig)
 * Sidebar template (sidebar.html.twig)
 
 ### Site Structure
@@ -132,10 +133,10 @@ Once you have confirmed that Grav is running locally on your computer, the final
       -/week-01 | item.html.twig
       -/week-02 | item.html.twig
       - etc..
-    - /02.resources | page.html.twig
-      -/page.md
-    - /03.syllabus | page.html.twig
-      -/page.md
+    - /02.resources | sidebarpage.html.twig
+      -/sidebarpage.md
+    - /03.syllabus | fullwidthpage.html.twig
+      -/fullwidthpage.md
     - /sidebar | sidebar.html.twig
         -/sidebar.md
     - /headerimage | default.html.twig

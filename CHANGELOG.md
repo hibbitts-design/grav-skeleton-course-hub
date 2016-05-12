@@ -1,3 +1,10 @@
+# v1.1.2
+## 05/12/2016
+
+1. [](#improved)
+    * Added support for sidebar and full-width page templates.
+    * Added Youtube plugin dependency
+
 # v1.1.1
 ## 05/11/2016
 
