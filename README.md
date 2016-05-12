@@ -16,7 +16,7 @@ The **Course Hub** skeleton is intended to accompany a face-to-face, blended or 
 [Recommended Install (Desktop + Server)](#recommended-install-desktop--server)  
 [Page Templates](#page-templates)  
 [Site Structure](#site-structure)  
-[Configuration](#site-configuration)  
+[Site Configuration](#site-configuration)  
 [Blog Item Page Options](blog-item-page-options)
 
 ## Flipping your LMS with the Grav Course Hub
