@@ -15,7 +15,7 @@ The **Course Hub** skeleton is intended to accompany a face-to-face, blended or 
 [Quick Install (Web server only)](#quick-install-web-server-only)  
 [Recommended Install (Desktop + Server)](#recommended-install-desktop--server)  
 [Page Templates](#page-templates)  
-[Site Structure](#site-structure)
+[Site Structure](#site-structure)  
 [Configuration](#site-configuration)  
 [Blog Item Page Options](blog-item-page-options)
 
