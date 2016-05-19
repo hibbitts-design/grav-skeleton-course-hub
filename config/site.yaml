@@ -10,7 +10,7 @@ menu:                     # menu entry for adding external sites/tools
 icon:                     # default font awesome icons for preparation and post entries
     post: calendar-o
 github:
-    location: page         # menu | page | none
+    location: none         # menu | page | none
     tree: https://github.com/hibbitts-design/grav-skeleton-course-hub/edit/master/
 rssbutton:
     display: true
