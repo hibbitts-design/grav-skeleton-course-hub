@@ -11,6 +11,7 @@ icon:                     # default font awesome icons for preparation and post 
     post: calendar-o
 github:
     location: none         # menu | page | none
+    icon: github
     tree: https://github.com/hibbitts-design/grav-skeleton-course-hub/edit/master/
 rssbutton:
     display: true

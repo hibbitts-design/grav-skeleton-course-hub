@@ -8,12 +8,12 @@ sitemap:
     priority: 1.03
 
 modular_content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         dir: desc
 
 content:
-    items: @self.children
+    items: '@self.children'
     order:
         by: date
         dir: desc
