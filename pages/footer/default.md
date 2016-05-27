@@ -5,7 +5,7 @@ visible: false
 markdown:
     extra: true
 ---
-<!---this is part of the Course Hub BV theme-->
+<!---this is part of the Course Hub Bones theme-->
 Powered by: [Grav](http://getgrav.org/)  
 Style framework: [Foundation 6](http://foundation.zurb.com/) by Zurb  
 Color Palette from RocketTheme's [Xenon Template](http://www.rockettheme.com/joomla/templates/xenon)  
