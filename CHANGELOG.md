@@ -1,10 +1,18 @@
+# v1.1.3
+## 05/27/2016
+
+1. [](#new)
+    * Added Twitter timeline settings in site config file
+
 # v1.1.2
 ## 05/27/2016
 
-1. [](#improved)
+1. [](#new)
     * Included example of modular content using the Page Inject plugin
     * Added support for sidebar and full-width page templates
     * Added Youtube plugin dependency
+1. [](#improved)
+    * Updated with newest Grav plugin releases
 1. [](#bugfix)
     * Changed GitHub page editing link display default setting to none
     * Turned off setting to automatically check for updates in Admin Panel
