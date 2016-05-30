@@ -5,7 +5,7 @@ body_classes: header-image fullwidth
 
 sitemap:
     changefreq: monthly
-    priority: '1.03'
+    priority: 1.03
 
 modular_content:
     items: '@self.modular'
