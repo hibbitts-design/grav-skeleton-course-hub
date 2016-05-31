@@ -156,7 +156,7 @@ title: CPT-363
 metadata:
     description: 'A short description of your course would go here'
 displaymenuentries:
-    enabled: false        # display of additional menu entries
+    enabled: true         # display of additional menu entries
 menu:                     # menu entry for adding external sites/tools
     - text: Grav
       icon: arrow-circle-right
@@ -165,9 +165,11 @@ icon:                     # default font awesome icons for preparation and post 
     post: calendar-o
 github:
     location: none         # menu | page | none
-    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-bones/edit/master/
-rssbutton:
-    display: true
+    icon: github
+    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub/edit/master/
+twittertimeline:
+    enabled: false         # display of Twitter timeline on sidebar
+    widgetid: '590941541406941184'
 ```
 
 | Setting | Child Setting | Description                                                                                                            |
@@ -179,9 +181,10 @@ rssbutton:
 | menu  |  icon | Font awesome icon code for external link (optional)                                        |
 | menu  |  url | URL for external link|                                    
 | icon  | post          | Change the default font awesome icon for the weekly blog posts (i.e. weekly summaries).           |
-| rssbutton  | display       | Can be set to `true` or `false`. When set to `true`, it displays RSS buttons on the sidebar for each page. |
 | github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
+| twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
+| twittertimeline  | widgetid       | The widget id of the Twiter timeline you want to embed on your sibebar |
 
 ##Blog Item Page Options
 
