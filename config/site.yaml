@@ -12,7 +12,7 @@ icon:                     # default font awesome icons for preparation and post 
 github:
     location: none         # menu | page | none
     icon: github
-    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub/edit/master/
+    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
 twittertimeline:
     enabled: false         # display of Twitter timeline on sidebar
     widgetid: '590941541406941184'
