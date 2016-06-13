@@ -17,7 +17,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: course-hub-bootstrap
+  theme: course-hub-bones
   order:
     by: default
     dir: asc
@@ -97,7 +97,7 @@ errors:
   display: true
   log: true
 debugger:
-  enabled: false
+  enabled: true
   shutdown:
     close_connection: true
   twig: true

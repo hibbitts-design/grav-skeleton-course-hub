@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 always_load: true
 use_cdn: false
 mode: production
