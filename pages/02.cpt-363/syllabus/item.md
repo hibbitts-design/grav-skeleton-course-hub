@@ -1,6 +1,9 @@
 ---
-title: 'Syllabus'
-published: true
+title: 'CPT-363 Course Syllabus'
+date: '04-01-2016 00:00'
+icon: users
+header_image: false
+continue_link: false
 ---
 
 ##### Course Description
@@ -23,5 +26,3 @@ Students must attain an overall passing grade on the weighted average of exams i
 
 ##### Required Textbook
 Are you kidding me, in 2016? All required readings will be available on-line.
-
-[plugin:content-inject](/sidebar)

@@ -14,10 +14,10 @@ languages:
   http_accept_language: false
   override_locale: false
 home:
-  alias: /blog
+  alias: /home
   hide_in_urls: false
 pages:
-  theme: course-hub-bones
+  theme: course-hub-bootstrap
   order:
     by: default
     dir: asc

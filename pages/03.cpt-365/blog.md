@@ -1,6 +1,6 @@
 ---
-title: Home
-blog_url: blog
+title: CPT-365
+blog_url: cpt-365
 body_classes: header-image fullwidth
 
 sitemap:
