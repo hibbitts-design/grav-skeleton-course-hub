@@ -1,8 +1,8 @@
-# v1.1.5
-## 06/13/2016
+# v1.2.0
+## 06/14/2016
 
 1. [](#new)
-    * Added initial multiple course (blog) support, including custom sidebars and header images
+    * Added experimental multiple course (blog) support, including custom sidebars and header images
 1. [](#improved)
     * Updated default home folder name to 'Home'
 
