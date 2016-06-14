@@ -5,6 +5,7 @@
     * Added experimental multiple course (blog) support, including custom sidebars and header images
 1. [](#improved)
     * Updated default home folder name to 'Home'
+    * Changed default skeleton theme to 'Course Hub Bootstrap'
 
 # v1.1.4
 ## 06/10/2016

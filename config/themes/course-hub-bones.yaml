@@ -1,0 +1,19 @@
+enabled: true
+site_title:
+  enabled: true
+google_fonts_logo:
+  enabled: false
+fontawesome:
+  enabled: true
+google_prettify:
+  enabled: true
+dropdown:
+  enabled: false
+mobilemenu_breakpoint: medium
+mobilemenu_position: left
+animate_css:
+  enabled: true
+wow_js:
+  enabled: true
+css_custom:
+  enabled: false

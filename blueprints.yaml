@@ -13,4 +13,5 @@ bugs: https://github.com/hibbitts-design/grav-skeleton-course-hub/issues
 license: MIT
 
 dependencies:
-  - course-hub-bones
+  - course-hub-bootstrap
+  - bootstrap
