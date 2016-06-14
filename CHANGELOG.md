@@ -1,3 +1,9 @@
+# v1.2.1
+## 06/14/2016
+
+1. [](#bugfix)
+    * Skeleton screenshot image restored
+
 # v1.2.0
 ## 06/14/2016
 
