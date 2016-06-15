@@ -8,7 +8,7 @@ fontawesome:
 google_prettify:
   enabled: true
 dropdown:
-  enabled: false
+  enabled: true
 mobilemenu_breakpoint: medium
 mobilemenu_position: left
 animate_css:
