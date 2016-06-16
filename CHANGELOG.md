@@ -1,3 +1,11 @@
+# v1.2.2
+## 06/16/2016
+
+1. [](#improved)
+    * Updated example single site sidebar
+    * Changed default for dropdown menus to true
+    * Improved experimental multiple course (blog) support, including additional pages within each course
+
 # v1.2.1
 ## 06/14/2016
 
