@@ -67,10 +67,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube
         branch: master
-    bones-vanilla:
-        url: https://github.com/smartgravity/grav-theme-bones-vanilla
-        path: user/themes/bones-vanilla
-        branch: master
     course-hub-bones:
         url: https://github.com/hibbitts-design/grav-theme-course-hub-bones
         path: user/themes/course-hub-bones
