@@ -14,5 +14,6 @@ github:
     icon: github
     tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
 twittertimeline:
-    enabled: true         # display of Twitter timeline on sidebar
-    widgetid: '590941541406941184'
+    enabled: false         # display of Twitter timeline on sidebar
+    url: https://twitter.com/hibbittsdesign/lists/cpt-363
+    widgetid: '684866063188676608'
