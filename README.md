@@ -17,7 +17,7 @@ The **Course Hub** skeleton is intended to accompany a face-to-face, blended or 
 [Page Templates](#page-templates)  
 [Site Structure](#site-structure)  
 [Site Configuration](#site-configuration)  
-[Page Header Options](page-header-options)
+[Page Header Options](#page-header-options)
 
 ## Flipping your LMS with the Grav Course Hub
 
