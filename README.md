@@ -17,7 +17,7 @@ The **Course Hub** skeleton is intended to accompany a face-to-face, blended or 
 [Page Templates](#page-templates)  
 [Site Structure](#site-structure)  
 [Site Configuration](#site-configuration)  
-[Blog Item Page Options](blog-item-page-options)
+[Page Header Options](page-header-options)
 
 ## Flipping your LMS with the Grav Course Hub
 
@@ -186,9 +186,10 @@ twittertimeline:
 | twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
 | twittertimeline  | widgetid       | The widget id of the Twiter timeline you want to embed on your sibebar |
 
-##Blog Item Page Options
+##Page Header Options
 
-In addition to standard page header options (i.e. 'Visible'), blog item pages support the following additional options:
+### Page Options for Blog Items
+Blog item pages support the following additional options:
 ```
 icon: users           # optional font awesome icon for page title
 header_image: false   # display of header image located within page folder
@@ -197,4 +198,10 @@ taxonomy:
   tag: Featured       # setting to make post 'sticky' (i.e. remain at top)
 ```
 
+### Page Options for All Pages
+All pages support the following additional options:
+```
+hidegithublink: true  # hide GitHub edit link for this page
+githublink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated GitHub URL
+```
 ---
