@@ -170,7 +170,7 @@ github:
 twittertimeline:
     enabled: false         # display of Twitter timeline on sidebar
     widgetid: '590941541406941184'
-hidehomemenulink: false   # suppress Home menu link (Course Hub Bootstrap theme only)
+hidehomemenulink: false   # suppress Home menu link
 ```
 
 | Setting | Child Setting | Description                                                                                                            |
@@ -186,7 +186,7 @@ hidehomemenulink: false   # suppress Home menu link (Course Hub Bootstrap theme 
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
 | twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
 | twittertimeline  | widgetid       | The widget id of the Twiter timeline you want to embed on your sibebar |
-| hidehomemenulink  | false       | Suppress Home menu link (Course Hub Bootstrap theme only) |
+| hidehomemenulink  | false       | Suppress Home menu link |
 
 ##Page Header Options
 
