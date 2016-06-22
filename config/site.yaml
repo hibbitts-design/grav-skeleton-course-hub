@@ -17,3 +17,4 @@ twittertimeline:
     enabled: false         # display of Twitter timeline on sidebar
     url: https://twitter.com/hibbittsdesign/lists/cpt-363
     widgetid: '684866063188676608'
+hidehomemenulink: false   # suppress Home menu link (Course Hub Bootstrap theme only)
