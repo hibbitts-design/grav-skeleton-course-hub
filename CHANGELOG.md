@@ -1,3 +1,10 @@
+# v1.2.4
+## 06/22/2016
+
+1. [](#new)
+    * Added flag to hide page titles
+    * Added setting to suppress the display of home menu link
+
 # v1.2.3
 ## 06/21/2016
 

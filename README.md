@@ -205,5 +205,6 @@ All pages support the following additional options:
 ```
 hidegithublink: true  # hide GitHub edit link for this page
 githublink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated GitHub URL
+hidepagetitle: true  # hide the display of the title of this page
 ```
 ---
