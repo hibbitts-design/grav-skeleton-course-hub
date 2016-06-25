@@ -10,11 +10,12 @@ menu:                     # menu entry for adding external sites/tools
 icon:                     # default font awesome icons for preparation and post entries
     post: calendar-o
 github:
-    location: none         # menu | page | none
+    location: none        # menu | page | none
     icon: github
     tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
 twittertimeline:
-    enabled: false         # display of Twitter timeline on sidebar
+    enabled: false        # display of Twitter timeline on sidebar
     url: https://twitter.com/hibbittsdesign/lists/cpt-363
-    widgetid: '684866063188676608'
+    text: A Twitter List by hibbittsdesign
+    height: 700
 hidehomemenulink: false   # suppress Home menu link
