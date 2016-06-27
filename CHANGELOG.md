@@ -1,15 +1,11 @@
-# v1.2.5
+# v1.3.0
 ## 06/27/2016
-
-1. [](#improved)
-    * Updated single and multi-course demo pages
-
-# v1.2.4
-## 06/22/2016
 
 1. [](#new)
     * Added flag to hide page titles
     * Added setting to suppress the display of home menu link
+1. [](#improved)
+    * Updated single and multi-course demo pages
 
 # v1.2.3
 ## 06/21/2016
