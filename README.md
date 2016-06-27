@@ -50,6 +50,7 @@ _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editi
 * Blog-format, with 'featured' (sticky) posts
 * Important reminders & class preparations areas
 * Site pages can be easily added/removed/changed
+* Uses [Markdown](https://daringfireball.net/projects/markdown/) for streamlined cross-platform content
 * Image header area above site navigation bar
 * Sidebar is a simple markdown file, which can also contain HTML
 * URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true)
