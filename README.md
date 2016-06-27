@@ -46,10 +46,10 @@ _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editi
 
 ### Course Hub Highlights
 * A complete ready-to-run Grav package (open source)
-* [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) or [multiple courses](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) per Course Hub site
+* [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) or [multiple courses](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) per site
 * Blog-format, with 'featured' (sticky) posts
 * Important reminders & class preparations areas
-* Course Hub site pages can be easily added/removed/changed
+* Site pages can be easily added/removed/changed
 * Image header area above site navigation bar
 * Sidebar is a simple markdown file, which can also contain HTML
 * URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true)
