@@ -45,15 +45,15 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
 _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore the demo online at [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/)_
 
 ### Course Hub Highlights
-* A complete ready-to-run Grav package (open source)
-* Blog-format, with 'featured' (sticky) posts
+* A complete ready-to-run Grav package ([Source on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub))
+* [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) or [multiple course](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) blog structure, with 'featured' (sticky) posts
 * Important reminders & class preparations areas
 * Site pages can be easily added/removed/changed
-* Image header area above site navbar
+* Image header area above site navigation bar
 * Sidebar is a simple markdown file, which can also contain HTML
-* URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-hub-bones/blog/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bones/blog/week-03/onlydisplaypagecontent:true)
+* URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true)
 * External links are automatically opened in a new Tab/Window
-* Built-in support for entire site to be collaboratively maintained on GitHub
+* Built-in support for entire site to be collaboratively maintained on GitHub/GitLab
 * Since everything is built with Grav it can be _entirely_ customized
 
 To learn more about how to most effectively use the Grav Course Hub, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
