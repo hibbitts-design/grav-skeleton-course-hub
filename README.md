@@ -45,8 +45,7 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
 _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore the demo online at [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/)_
 
 ### Course Hub Highlights
-### Course Hub Features
-* A complete ready-to-run Grav package ([Source on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub))
+* A complete ready-to-run Grav package (open source)
 * Blog-format, with 'featured' (sticky) posts
 * [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) per Hub, [multiple courses](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) (blog page per course) per Hub or even [multiple course sub-sites](http://hibbittsdesign.org/demo/grav-multi-course-pages-hub/) (blog + multiple pages per course) per Hub
 * Important reminders & class preparations areas
