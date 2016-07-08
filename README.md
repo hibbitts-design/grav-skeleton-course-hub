@@ -166,12 +166,14 @@ menu:                     # menu entry for adding external sites/tools
 icon:                     # default font awesome icons for preparation and post entries
     post: calendar-o
 github:
-    location: none         # menu | page | none
+    location: none        # menu | page | none
     icon: github
-    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub/edit/master/user/pages
+    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
 twittertimeline:
-    enabled: false         # display of Twitter timeline on sidebar
-    widgetid: '590941541406941184'
+    enabled: false        # display of Twitter timeline on sidebar
+    url: https://twitter.com/hibbittsdesign/lists/cpt-363
+    text: A Twitter List by hibbittsdesign
+    height: 700
 hidehomemenulink: false   # suppress Home menu link
 ```
 
@@ -187,7 +189,9 @@ hidehomemenulink: false   # suppress Home menu link
 | github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
 | twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
-| twittertimeline  | widgetid       | The widget id of the Twiter timeline you want to embed on your sibebar |
+| twittertimeline  | URL       | The URL of the Twitter timeline you want to embed on your sibebar |
+| twittertimeline  | text       | The text label of the Twitter timeline you want to embed on your sibebar |
+| twittertimeline  | height       | The height of the Twitter timeline you want to embed on your sibebar |
 | hidehomemenulink  | false       | Suppress Home menu link |
 
 ##Page Header Options
