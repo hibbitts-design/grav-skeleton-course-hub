@@ -187,6 +187,7 @@ hidehomemenulink: false   # suppress Home menu link
 | menu  |  url | URL for external link|                                    
 | icon  | post          | Change the default font awesome icon for the weekly blog posts (i.e. weekly summaries).           |
 | github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
+| github  | icon       | Set the font awesome icon for the 'Edit Page' menu or page link. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
 | twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
 | twittertimeline  | URL       | The URL of the Twitter timeline you want to embed on your sibebar |
