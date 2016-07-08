@@ -182,9 +182,9 @@ hidehomemenulink: false   # suppress Home menu link
 | title   |               | The course number/id, to be displayed at the top of every page.                                                      |
 | metadata  |  description | The short description of the course hub site                                       |
 | displaymenuentries  |  enabled | Can be set to `true` or `false`. When set to `true`, all defined menu items are added to the navbar.                                       |
-| menu  |  text | Text label for external links to be included on navbar                                       |
-| menu  |  icon | Font awesome icon code for external link (optional)                                        |
-| menu  |  url | URL for external link|                                    
+| menu  |  text | Text label for an external link to be included on navbar                                       |
+| menu  |  icon | Font awesome icon code for an external link (optional)                                        |
+| menu  |  url | URL for an external link|                                    
 | icon  | post          | Change the default font awesome icon for the weekly blog posts (i.e. weekly summaries).           |
 | github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
 | github  | icon       | Set the font awesome icon for the **Edit this page** menu or page link. |
