@@ -193,7 +193,7 @@ hidehomemenulink: false   # suppress Home menu link
 | twittertimeline  | URL       | The URL of the Twitter timeline you want to embed on your sibebar |
 | twittertimeline  | text       | The text label of the Twitter timeline you want to embed on your sibebar |
 | twittertimeline  | height       | The height of the Twitter timeline you want to embed on your sibebar |
-| hidehomemenulink  | false       | Suppress Home menu link |
+| hidehomemenulink  | false       | Suppress the Home menu link in the navbar|
 
 ##Page Header Options
 
