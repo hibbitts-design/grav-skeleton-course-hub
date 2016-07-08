@@ -47,7 +47,7 @@ _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editi
 ### Course Hub Highlights
 * A complete ready-to-run Grav package (open source)
 * Blog-format, with 'featured' (sticky) posts
-* [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) per Hub, [multiple courses](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) (blog page per course) per Hub or even [multiple course sub-sites](http://hibbittsdesign.org/demo/grav-multi-course-pages-hub/) (blog + multiple pages per course) per Hub
+* [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) per Hub, [multiple courses](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) per Hub or even [multiple course sub-sites](http://hibbittsdesign.org/demo/grav-multi-course-pages-hub/) (blog + multiple pages per course) per Hub
 * Important reminders & class preparations areas
 * Hub pages can be easily added/removed/changed
 * Uses [Markdown](https://daringfireball.net/projects/markdown/) for streamlined cross-platform content
