@@ -163,7 +163,7 @@ menu:                     # menu entry for adding external sites/tools
     - text: Grav
       icon: arrow-circle-right
       url: http://getgrav.org/
-icon:                     # default font awesome icons for preparation and post entries
+icon:                     # default Font Awesome icons for preparation and post entries
     post: calendar-o
 github:
     location: none        # menu | page | none
@@ -183,11 +183,11 @@ hidehomemenulink: false   # suppress Home menu link
 | metadata  |  description | The short description of the course hub site.                                       |
 | displaymenuentries  |  enabled | Can be set to `true` or `false`. When set to `true`, all defined menu items are added to the navbar.                                       |
 | menu  |  text | Text label for an external link to be included on navbar.                                       |
-| menu  |  icon | Font awesome icon code for an external link (optional).                                        |
+| menu  |  icon | Font Awesome icon code for an external link (optional).                                        |
 | menu  |  url | URL for an external link. |                                    
-| icon  | post          | Change the default font awesome icon for the weekly blog posts (i.e. weekly summaries).           |
+| icon  | post          | Change the default Font Awesome icon for the weekly blog posts (i.e. weekly summaries).           |
 | github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
-| github  | icon       | Set the font awesome icon for the **Edit this page** menu or page link. |
+| github  | icon       | Set the Font Awesome icon for the **Edit this page** menu or page link. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
 | twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
 | twittertimeline  | URL       | The URL of the Twitter timeline you want to embed on your sidebar. |
@@ -200,7 +200,7 @@ hidehomemenulink: false   # suppress Home menu link
 ### Page Options for Blog Items
 Blog item pages support the following additional options:
 ```
-icon: users           # optional font awesome icon for page title
+icon: users           # optional Font Awesome icon for page title
 header_image: false   # display of header image located within page folder
 continue_link: false  # display entire post on blog listing page
 taxonomy:
