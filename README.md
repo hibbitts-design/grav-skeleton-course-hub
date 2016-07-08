@@ -45,17 +45,18 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
 _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore the demo online at [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/)_
 
 ### Course Hub Highlights
-* A complete ready-to-run Grav package (open source)
-* [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) or [multiple courses](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) per site
+### Course Hub Features
+* A complete ready-to-run Grav package ([Source on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub))
 * Blog-format, with 'featured' (sticky) posts
+* [Single course](http://hibbittsdesign.org/demo/grav-course-hub-bootstrap/) per Hub, [multiple courses](http://hibbittsdesign.org/demo/grav-multi-course-blog-hub/) (blog page per course) per Hub or even [multiple course sub-sites](http://hibbittsdesign.org/demo/grav-multi-course-pages-hub/) (blog + multiple pages per course) per Hub
 * Important reminders & class preparations areas
-* Site pages can be easily added/removed/changed
+* Hub pages can be easily added/removed/changed
 * Uses [Markdown](https://daringfireball.net/projects/markdown/) for streamlined cross-platform content
-* Image header area above site navigation bar
+* Image header area above Hub navigation bar
 * Sidebar is a simple markdown file, which can also contain HTML
 * URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true)
 * External links are automatically opened in a new Tab/Window
-* Built-in support for entire site to be collaboratively maintained on GitHub/GitLab
+* Built-in support for entire Hub to be collaboratively maintained on GitHub or GitLab (for local hosting)
 * Since everything is built with Grav it can be _entirely_ customized
 
 To learn more about how to most effectively use the Grav Course Hub, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
