@@ -1,3 +1,10 @@
+# v1.3.1
+## 07/12/2016
+
+1. [](#improved)
+    * Updated with newest Grav Course Hub theme releases
+    * Updated ReadMe file
+
 # v1.3.0
 ## 06/27/2016
 
