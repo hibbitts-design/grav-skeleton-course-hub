@@ -4,7 +4,6 @@ default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
-proxy_url: null
 languages:
   supported: {  }
   include_default_lang: true
@@ -66,6 +65,10 @@ pages:
     - .idea
   ignore_hidden: true
   url_taxonomy_filters: true
+  frontmatter:
+    process_twig: false
+    ignore_fields:
+      - form
   markdown_extra: false
 cache:
   enabled: false
@@ -85,10 +88,14 @@ twig:
   umask_fix: false
 assets:
   css_pipeline: false
+  css_pipeline_include_externals: true
+  css_pipeline_before_excludes: true
   css_minify: true
   css_minify_windows: false
   css_rewrite: true
   js_pipeline: false
+  js_pipeline_include_externals: true
+  js_pipeline_before_excludes: true
   js_minify: true
   enable_asset_timestamp: false
   collections:
@@ -117,3 +124,7 @@ session:
   name: grav-site
   secure: false
   httponly: true
+gpm:
+  releases: stable
+  proxy_url: null
+proxy_url: null
