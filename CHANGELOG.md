@@ -2,7 +2,7 @@
 ## 07/15/2016
 
 1. [](#improved)
-    * Included Grav 1.1 and needed Bones Vanilla theme update
+    * Included Grav 1.1 and needed Course Hub Bones theme update
 
 # v1.3.1
 ## 07/12/2016
