@@ -1,8 +1,14 @@
+# v1.3.3
+## 07/18/2016
+
+1. [](#improved)
+    * Included Grav 1.1.1 and Course Hub Bones theme update
+
 # v1.3.2
 ## 07/15/2016
 
 1. [](#improved)
-    * Included Grav 1.1 and needed Course Hub Bones theme update
+    * Included Grav 1.1 and Course Hub Bones theme update
 
 # v1.3.1
 ## 07/12/2016
