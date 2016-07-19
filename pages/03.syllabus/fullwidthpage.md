@@ -1,12 +1,6 @@
 ---
 title: Syllabus
-google_prettify: use_global
-wow_js: use_global
-animate_css: use_global
-fontawesome: use_global
-page-inject:
-    active: true
-    processed_content: true
+published: true
 ---
 
 ##### Course Description

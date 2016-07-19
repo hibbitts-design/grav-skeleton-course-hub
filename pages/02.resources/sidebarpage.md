@@ -1,5 +1,6 @@
 ---
 title: 'Resources'
+published: true
 ---
 ##### UX Template Collections  
 *   [Templates & Downloadable Documents | Usability.gov](http://www.usability.gov/how-to-and-tools/resources/templates.html)
