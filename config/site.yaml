@@ -1,35 +1,21 @@
 title: CPT-363
-author:
-  name: 'John Appleseed'
-  email: john@email.com
-taxonomies:
-  - category
-  - tag
 metadata:
-  description: 'A short description of your course would go here'
-summary:
-  enabled: true
-  format: short
-  size: 300
-  delimiter: '==='
-blog:
-  route: /blog
+    description: 'A short description of your course would go here'
 displaymenuentries:
-  enabled: true
-menu:
-  -
-    text: Grav
-    icon: arrow-circle-right
-    url: 'http://getgrav.org/'
-icon:
-  post: calendar-o
+    enabled: true         # display of additional menu entries
+menu:                     # menu entry for adding external sites/tools
+    - text: Grav
+      icon: arrow-circle-right
+      url: http://getgrav.org/
+icon:                     # default font awesome icons for preparation and post entries
+    post: calendar-o
 github:
-  location: page
-  icon: github
-  tree: 'https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/'
+    location: none        # menu | page | none
+    icon: github
+    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
 twittertimeline:
-  enabled: false
-  url: 'https://twitter.com/hibbittsdesign/lists/cpt-363'
-  text: 'A Twitter List by hibbittsdesign'
-  height: 700
-hidehomemenulink: false
+    enabled: false        # display of Twitter timeline on sidebar
+    url: https://twitter.com/hibbittsdesign/lists/cpt-363
+    text: A Twitter List by hibbittsdesign
+    height: 700
+hidehomemenulink: false   # suppress Home menu link
