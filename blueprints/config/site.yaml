@@ -57,7 +57,7 @@ form:
                 menu:
                     name: menu
                     type: list
-                    label: Custom Menu Items
+                    label: Custom Menubar Items
                     fields:
                       .text:
                         type: text
@@ -77,7 +77,7 @@ form:
             fields:
                 github.location:
                     type: select
-                    label: GitHub Edit Link Location
+                    label: Display of GitHub Edit Page Link
                     default: None
                     size: small
                     options:
@@ -88,7 +88,7 @@ form:
                 github.icon:
                     type: text
                     size: small
-                    label: GitHub Edit Link Icon
+                    label: GitHub Edit Page Link Icon
                     default: 'github'
                     validate:
                         type: text
@@ -96,7 +96,7 @@ form:
                 github.tree:
                     type: text
                     size: large
-                    label: GitHub URL
+                    label: GitHub Repository URL
                     help: Enter the URL for the GitHub/GitLab repository that contains your Grav Course Hub files.
                     validate:
                         type: URL
@@ -107,7 +107,7 @@ form:
             underline: true
 
             fields:
-                icon:
+                icon.post:
                     type: text
                     size: small
                     label: Default Blog Post Icon
