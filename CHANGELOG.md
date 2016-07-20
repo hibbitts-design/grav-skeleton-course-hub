@@ -1,3 +1,9 @@
+# v1.3.4
+## 07/20/2016
+
+1. [](#improved)
+    * Included Course Hub specific site.yaml options in Admin Panel
+
 # v1.3.3
 ## 07/18/2016
 
