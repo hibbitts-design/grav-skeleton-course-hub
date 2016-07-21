@@ -69,7 +69,7 @@ form:
                         type: text
                         label: URL
 
-        sectionthree:
+        sectiontwo:
             type: section
             title: GitHub/GitLab Integration
             underline: true
@@ -101,7 +101,7 @@ form:
                     validate:
                         type: URL
 
-        sectiontwo:
+        sectionthree:
             type: section
             title: Blog Posts
             underline: true
