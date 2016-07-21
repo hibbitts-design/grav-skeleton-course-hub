@@ -16,6 +16,6 @@ github:
 twittertimeline:
     enabled: false        # display of Twitter timeline on sidebar
     url: https://twitter.com/hibbittsdesign/lists/cpt-363
-    text: A Twitter List by hibbittsdesign
+    text: A Twitter List by @hibbittsdesign
     height: 700
 hidehomemenulink: false   # suppress Home menu link
