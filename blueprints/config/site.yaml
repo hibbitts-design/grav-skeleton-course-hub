@@ -1,25 +1,3 @@
-title: CPT-363
-metadata:
-    description: 'A short description of your course would go here'
-displaymenuentries:
-    enabled: true         # display of additional menu entries
-menu:                     # menu entry for adding external sites/tools
-    - text: Grav
-      icon: arrow-circle-right
-      url: http://getgrav.org/
-icon:                     # default font awesome icons for preparation and post entries
-    post: calendar-o
-github:
-    location: none        # menu | page | none
-    icon: github
-    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/
-twittertimeline:
-    enabled: false        # display of Twitter timeline on sidebar
-    url: https://twitter.com/hibbittsdesign/lists/cpt-363
-    text: A Twitter List by hibbittsdesign
-    height: 700
-hidehomemenulink: false   # suppress Home menu link
-
 @extends:
     '@parent'
 
@@ -47,6 +25,7 @@ form:
                     type: toggle
                     label: Display Custom Menubar Items
                     help: Determines if any defined custom menubar entries are displayed in the menubar.
+                    default: 0
                     highlight: 1
                     options:
                         1:  Yes
@@ -97,6 +76,7 @@ form:
                     type: text
                     size: large
                     label: Repository URL
+                    default: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
                     help: Enter the URL for the GitHub/GitLab repository that contains your Grav Course Hub files.
                     validate:
                         type: URL
@@ -111,6 +91,7 @@ form:
                     type: text
                     size: small
                     label: Default Blog Post Icon
+                    default: 'calendar-o'
                     help: Determines the default Font Awesome icon used for the blog posts.
                     validate:
                         type: text
@@ -126,9 +107,10 @@ form:
                     type: toggle
                     label: Display Twitter Widget in Sidebar
                     highlight: 1
+                    default: 0
                     options:
-                        0:  No
                         1:  Yes
+                        0:  No
                     validate:
                         type: bool
 
@@ -143,7 +125,7 @@ form:
                 twittertimeline.text:
                     type: text
                     size: large
-                    label: Twitter Widget Title
+                    label: Twitter Widget Text
                     validate:
                         type: text
 
@@ -151,6 +133,7 @@ form:
                     type: text
                     size: small
                     label: Twitter Widget Height (px)
+                    default: 700
                     validate:
                         type: int
                         min: 100
