@@ -9,18 +9,6 @@ form:
             underline: true
 
             fields:
-                hidehomemenulink:
-                    type: toggle
-                    label: Display Homepage Link in Menubar
-                    help: Determines if the link to the Homepage is included in the menubar.
-                    default: 0
-                    highlight: 0
-                    options:
-                        0:  Yes
-                        1:  No
-                    validate:
-                        type: bool
-
                 displaymenuentries.enabled:
                     type: toggle
                     label: Display Custom Menubar Items
@@ -48,6 +36,18 @@ form:
                         type: text
                         label: URL
 
+                hidehomemenulink:
+                    type: toggle
+                    label: Include Homepage Link in Menubar
+                    help: Determines if the link to the Homepage is included in the menubar.
+                    default: 0
+                    highlight: 0
+                    options:
+                        0:  Yes
+                        1:  No
+                    validate:
+                        type: bool
+
         sectiontwo:
             type: section
             title: GitHub/GitLab Integration
@@ -67,8 +67,9 @@ form:
                 github.icon:
                     type: text
                     size: small
-                    label: Edit Page Link Icon
+                    label: Edit Page Link Font Awesome Icon
                     default: 'github'
+                    help: Determines the default Font Awesome icon used for Edit Page links.
                     validate:
                         type: text
 
@@ -90,7 +91,7 @@ form:
                 icon.post:
                     type: text
                     size: small
-                    label: Default Blog Post Icon
+                    label: Default Blog Post Font Awesome Icon
                     default: 'calendar-o'
                     help: Determines the default Font Awesome icon used for the blog posts.
                     validate:
