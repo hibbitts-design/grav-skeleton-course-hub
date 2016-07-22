@@ -3,8 +3,6 @@ title: 'Class Preparations'
 published: true
 ---
 
-<!--- Your class preparations, such as readings, quiz, etc. goes below here -->
-
 ### Jan 26th Class Preparations
 
 ##### Required Readings
