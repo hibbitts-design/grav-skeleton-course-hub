@@ -2,7 +2,7 @@
 ## 08/29/2016
 
 1. [](#new)
-    * Added flag to hide posts from blog index
+    * Added page header option to hide posts from blog index
 
 # v1.3.6
 ## 07/23/2016
