@@ -1,3 +1,9 @@
+# v1.3.7
+## 08/29/2016
+
+1. [](#new)
+    * Added flag to hide posts from blog index
+
 # v1.3.6
 ## 07/23/2016
 
