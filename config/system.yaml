@@ -4,6 +4,8 @@ default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
+force_ssl: false
+custom_base_url: ''
 languages:
   supported: {  }
   include_default_lang: true
@@ -124,6 +126,7 @@ session:
   name: grav-site
   secure: false
   httponly: true
+  path: null
 gpm:
   releases: stable
   proxy_url: null
