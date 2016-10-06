@@ -35,6 +35,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
         branch: master
+    markdown-fontawesome:
+        url: https://github.com/yoshikin/grav-plugin-markdown-fontawesome
+        path: user/plugins/markdown-fontawesome
+        branch: master
     page-inject:
         url: https://github.com/getgrav/grav-plugin-page-inject
         path: user/plugins/page-inject
@@ -108,6 +112,10 @@ links:
         src: grav-plugin-login
         path: user/plugins/login
         scm: github
+    markdown-fontawesome:
+        url: https://github.com/yoshikin/grav-plugin-markdown-fontawesome
+        path: user/plugins/markdown-fontawesome
+        branch: master
     page-inject:
         src: grav-plugin-page-inject
         path: user/plugins/page-inject
