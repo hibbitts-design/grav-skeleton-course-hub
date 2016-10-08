@@ -17,8 +17,8 @@ content:
     order:
         by: date
         dir: desc
-    limit: 14
-    pagination: true
+    limit: 0
+    pagination: false
 
 feed:
     description: Course Hub Description
