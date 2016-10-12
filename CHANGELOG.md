@@ -1,5 +1,5 @@
 # v1.3.8
-## 10/10/2016
+## 10/12/2016
 
 1. [](#new)
     * Added custom page Blueprints for Course Hub options
