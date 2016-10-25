@@ -5,11 +5,11 @@
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-skeleton-course-hub)
 
-### Grav Course Hub is an open source project intended to help tech-savvy instructors reach unmet pedagogical goals due to the constraints of their current LMS. In addition, it was designed from the ground up to deliver a better user experience for both students and instructors.
+### Grav Course Hub is an open source project intended to help tech-savvy instructors enhance the learning experience for their students by providing multi-device delivery and a collaborative workflow not present in their current Learning Management System (LMS). As an open platform under the full control of the instructor, a broader range of online course components can also be integrated into the Course Hub to help reach any unmet pedagogical goals.
 
-Built with the modern flat-file CMS [Grav](https://getgrav.org/), the multi-device ready Grav Course Hub was created to partner with your existing LMS, where it serves as an alternative and customizable front-end to any required LMS elements. While sensitive student data remains within the LMS, the open and non-proprietary nature of the Grav Course Hub means it can be used as a Web platform for a broad range of online course components.
+Built with the modern flat-file CMS Grav ([https://getgrav.org/](https://getgrav.org/)), the multi-device ready Grav Course Hub can partner with your existing LMS, where it serves as an alternative and customizable front-end to any required LMS elements. With this approach, instructors have the freedom to move beyond the confines of the LMS while sensitive student data remains safely stored within your institutional or organization’s LMS.
 
-Content in Grav is stored and maintained as individual files rather than inside a database, so industry-standard open and collaborative services like GitHub or GitLab (which can be hosted on an institutional server) are easily configured and integrated for use with your Course Hub. Being file-based also means that server installs or backups are only simple file copies.
+Content in Grav is stored and maintained as individual files rather than inside a database, so services such as [GitHub](https://github.com/) and [GitLab](https://gitlab.com/) (which can be hosted on your own server) can be easily integrated with your Course Hub for enhanced collaboration and version control. Being file-based also means that server installations, moves or even complete backups are only simple file copies.
 
 **Table of Contents**  
 [Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
