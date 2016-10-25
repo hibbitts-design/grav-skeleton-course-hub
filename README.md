@@ -14,6 +14,8 @@ Content in Grav is stored and maintained as individual files rather than inside 
 **Table of Contents**  
 [Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
 [Why Use a Modern flat-file CMS?](#why-use-a-modern-flat-file-cms)  
+[Student Experience Goals](#student-experience-goals)  
+[Instructor Experience Goals](#instructor-experience-goals)  
 [Course Hub Screenshot](#course-hub-screenshot)  
 [Course Hub Highlights](#course-hub-highlights)  
 [Quick Install (Web server only)](#quick-install-web-server-only)  
@@ -43,6 +45,20 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
   * Takes full advantage of the collaborative ecosystem now available (i.e. GitHub)
   * Increased portability, as moving a site now only requires simply copying files to another location
   * All template and content files are 100% version controllable
+
+### Student Experience Goals
+  * Engaging
+  * Organized
+  * Relevant
+  * Convenient
+  * Enjoyable
+
+### Student Experience Goals
+  * Controllable (i.e. manageable)
+  * Pliable (i.e. flexible)
+  * Efficient
+  * Portable (i.e. platform agnostic)
+  * Enjoyable (hey, instructors are people too...)
 
 ### Course Hub Screenshot
 ![Course Hub Screenshot](/assets/screenshot.jpg)  
