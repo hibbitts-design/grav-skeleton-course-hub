@@ -5,7 +5,11 @@
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-skeleton-course-hub)
 
-The **Course Hub** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
+Grav Course Hub is an open source project intended to help tech-savvy instructors reach unmet pedagogical goals due to the constraints of their current LMS. In addition, it was designed from the ground up to deliver a better user experience for both students and instructors.
+
+Built with the modern flat-file CMS [Grav](https://getgrav.org/), the multi-device ready Grav Course Hub was created to partner with your existing LMS, where it serves as an alternative and customizable front-end to any required LMS elements. While sensitive student data remains within the LMS, the open and non-proprietary nature of the Grav Course Hub means it can be used as a Web platform for a broad range of online course components.
+
+Content in Grav is stored and maintained as individual files rather than inside a database, so industry-standard open and collaborative services like GitHub or GitLab (which can be hosted on an institutional server) are easily configured and integrated for use with your Course Hub. Being file-based also means that server installs or backups are only simple file copies.
 
 **Table of Contents**  
 [Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
