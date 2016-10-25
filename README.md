@@ -5,7 +5,7 @@
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-skeleton-course-hub)
 
-##### Grav Course Hub is an open source project intended to help tech-savvy instructors reach unmet pedagogical goals due to the constraints of their current LMS. In addition, it was designed from the ground up to deliver a better user experience for both students and instructors.
+#### Grav Course Hub is an open source project intended to help tech-savvy instructors reach unmet pedagogical goals due to the constraints of their current LMS. In addition, it was designed from the ground up to deliver a better user experience for both students and instructors.
 
 Built with the modern flat-file CMS [Grav](https://getgrav.org/), the multi-device ready Grav Course Hub was created to partner with your existing LMS, where it serves as an alternative and customizable front-end to any required LMS elements. While sensitive student data remains within the LMS, the open and non-proprietary nature of the Grav Course Hub means it can be used as a Web platform for a broad range of online course components.
 
