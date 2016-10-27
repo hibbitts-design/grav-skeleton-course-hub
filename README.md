@@ -24,9 +24,9 @@ Content in Grav is stored and maintained as individual files rather than inside 
 [Site Configuration](#site-configuration)  
 [Page Header Options](#page-header-options)
 
-## Flipping your LMS with the Grav Course Hub
+## Partnering your LMS with the Grav Course Hub
 
-### Why Flip (aka 'Flip) your LMS with Grav?
+### Why Partner (aka 'Flip) your LMS with Grav?
 * To support pedagogical goals unmet by current LMS/platform
 * To deliver a better student (and facilitator) experience
 * To increase capability of access, sharing and collaboration
