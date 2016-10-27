@@ -12,7 +12,7 @@ Built with the modern flat-file CMS Grav ([https://getgrav.org/](https://getgrav
 Content in Grav is stored and maintained as individual files rather than inside a database, so services such as [GitHub](https://github.com/) and [GitLab](https://gitlab.com/) (which can be hosted on your own server) can be easily partnered with your Course Hub for open collaboration and version control. Being file-based also means that instructors have their choice of tools for editing their Course Hub content, and site updates can be performed in as little as one button press.
 
 **Table of Contents**  
-[Why Was the Grav Course Hub Project Created?](#why-was-the-grav-course-hub-created)  
+[Why Use the Grav Course Hub Project?](#why-use-the-grav-course-hub-project)  
 [Student Experience Goals](#student-experience-goals)  
 [Instructor Experience Goals](#instructor-experience-goals)  
 [Course Hub Screenshot](#course-hub-screenshot)  
