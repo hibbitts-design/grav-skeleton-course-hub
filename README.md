@@ -12,8 +12,7 @@ Built with the modern flat-file CMS Grav ([https://getgrav.org/](https://getgrav
 Content in Grav is stored and maintained as individual files rather than inside a database, so services such as [GitHub](https://github.com/) and [GitLab](https://gitlab.com/) (which can be hosted on your own server) can be easily partnered with your Course Hub for open collaboration and version control. Being file-based also means that instructors have their choice of tools for editing their Course Hub content, and site updates can be performed in as little as one button press.
 
 **Table of Contents**  
-[Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
-[Why Use a Modern flat-file CMS?](#why-use-a-modern-flat-file-cms)  
+[Why Partner (aka 'Flip') your LMS with Grav?](#why-flip-your-lms-with-grav)  
 [Student Experience Goals](#student-experience-goals)  
 [Instructor Experience Goals](#instructor-experience-goals)  
 [Course Hub Screenshot](#course-hub-screenshot)  
@@ -27,24 +26,10 @@ Content in Grav is stored and maintained as individual files rather than inside 
 
 ## Flipping your LMS with the Grav Course Hub
 
-### Why Flip your LMS with Grav?
+### Why Flip (aka 'Flip) your LMS with Grav?
 * To support pedagogical goals unmet by current LMS/platform
 * To deliver a better student (and facilitator) experience
 * To increase capability of access, sharing and collaboration
-
-### Why Use a Modern flat-file CMS?
-As an open source modern flat-file CMS, Grav offers a distinct set of advantages to Web-savvy educators looking to move beyond their institutional LMS:
-* Modern means...
-  * Modern PHP code (i.e. reliability, speed, extensibility, etc.)
-  * Use of current standards (i.e. Markdown, Twig, YAML, etc.)
-  * Modular/customizable content chunks (i.e. reuse of content)
-  * Further separation of content (i.e. files) from presentation
-* Flat-file means...
-  * No database means less (or no) IT involvement needed
-  * Content stored in text files rather than in a database
-  * Takes full advantage of the collaborative ecosystem now available (i.e. GitHub)
-  * Increased portability, as moving a site now only requires simply copying files to another location
-  * All template and content files are 100% version controllable
 
 ### Student Experience Goals
   * Engaging
