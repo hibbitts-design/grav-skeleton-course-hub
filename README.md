@@ -26,7 +26,7 @@ Content in Grav is stored and maintained as individual files rather than inside 
 
 ## Partnering your LMS with the Grav Course Hub
 
-### Why Was the Grav Course Hub Project Created?
+### Why Use the Grav Course Hub Project?
 * To make online course materials more open and accessible
 * To support collaborative editing of online course materials
 * To integrate a broader range of online course materials
