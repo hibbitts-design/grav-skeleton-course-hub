@@ -26,7 +26,7 @@ Content in Grav is stored and maintained as individual files rather than inside 
 
 ## Partnering your LMS with the Grav Course Hub
 
-### Why Partner (aka 'Flip) your LMS with Grav?
+### Why Partner (aka 'Flip') your LMS with Grav?
 * To support pedagogical goals unmet by current LMS/platform
 * To deliver a better student (and facilitator) experience
 * To increase capability of access, sharing and collaboration
