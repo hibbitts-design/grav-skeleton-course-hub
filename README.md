@@ -38,7 +38,7 @@ Content in Grav is stored and maintained as individual files rather than inside 
   * Convenient
   * Enjoyable
 
-### Student Experience Goals
+### Instructor Experience Goals
   * Controllable (i.e. manageable)
   * Pliable (i.e. flexible)
   * Efficient
