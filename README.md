@@ -45,7 +45,7 @@ Content in Grav is stored and maintained as individual files rather than inside 
   * Pliable (i.e. flexible)
   * Efficient
   * Portable (i.e. platform agnostic)
-  * Enjoyable (hey, instructors are people too...)
+  * Enjoyable (hey, us instructors are people too...)
 
 ### Course Hub Screenshot
 ![Course Hub Screenshot](/assets/screenshot.jpg)  
