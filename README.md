@@ -30,7 +30,7 @@ Content in Grav is stored and maintained as individual files rather than inside 
 * To make online course materials more open and accessible
 * To support collaboration and version control of online course materials
 * To integrate a broader range of online course materials
-* To provide multi-device access to online course materials
+* To provide multi-device access of online course materials
 * To more quickly and easily update online course materials
 
 ### Student Experience Goals
