@@ -80,6 +80,8 @@ cache:
   prefix: g
   lifetime: 604800
   gzip: false
+  redis:
+    socket: false
 twig:
   cache: false
   debug: true
@@ -115,6 +117,7 @@ images:
   cache_all: false
   cache_perms: '0755'
   debug: false
+  auto_fix_orientation: false
 media:
   enable_media_timestamp: false
   upload_limit: 0
@@ -126,8 +129,11 @@ session:
   name: grav-site
   secure: false
   httponly: true
+  split: true
   path: null
 gpm:
   releases: stable
   proxy_url: null
+  method: auto
+  verify_peer: true
 proxy_url: null
