@@ -1,3 +1,11 @@
+# v1.3.9
+## 12/09/2016
+
+1. [](#new)
+    * Added example weekly summary banner images
+1. [](#improved)
+    * Updated custom page Blueprints for Course Hub options, including additional GitHub/GitLab page header options
+
 # v1.3.8
 ## 10/12/2016
 
