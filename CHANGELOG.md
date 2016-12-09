@@ -1,5 +1,5 @@
 # v1.3.9
-## 12/09/2016
+## 12/08/2016
 
 1. [](#new)
     * Added example weekly summary banner images
