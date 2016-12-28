@@ -50,11 +50,11 @@ form:
 
         sectiontwo:
             type: section
-            title: GitHub/GitLab Integration
+            title: Git Repository Integration
             underline: true
 
             fields:
-                github.location:
+                gitrepo.editlinklocation:
                     type: select
                     label: Display of Edit Page Link
                     default: None
@@ -64,7 +64,14 @@ form:
                         'menu': Menu
                         'page': Page
 
-                github.icon:
+                gitrepo.editlinktext:
+                  type: input.text
+                  size: medium
+                  label: Edit Page Link Text
+                  default: 'Edit this Page'
+                  description: Customize the Edit Page link text.
+
+                gitrepo.editlinkicon:
                     type: text
                     size: small
                     label: Edit Page Link Font Awesome Icon
@@ -73,12 +80,12 @@ form:
                     validate:
                         type: text
 
-                github.tree:
+                gitrepo.edittreeurl:
                     type: text
                     size: large
-                    label: Repository URL
+                    label: Git Repository Tree URL
                     default: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
-                    help: Enter the URL for the GitHub/GitLab repository that contains your Grav Course Hub files.
+                    help: Enter the URL for the Git repository that contains your Grav site.
                     validate:
                         type: URL
 

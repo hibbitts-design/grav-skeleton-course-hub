@@ -172,7 +172,7 @@ menu:                     # menu entry for adding external sites/tools
       url: http://getgrav.org/
 icon:                     # default Font Awesome icons for preparation and post entries
     post: calendar-o
-github:
+gitrepo:
     location: none        # menu | page | none
     icon: github
     tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
@@ -193,9 +193,10 @@ hidehomemenulink: false   # suppress Home menu link
 | menu  |  icon | Font Awesome icon code for an external link (optional).                                        |
 | menu  |  url | URL for an external link. |                                    
 | icon  | post          | Change the default Font Awesome icon for the weekly blog posts (i.e. weekly summaries).           |
-| github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
-| github  | icon       | Set the Font Awesome icon for the **Edit this page** menu or page link. |
-| github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
+| gitrepo  | editlinklocation       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the Git repository edit page link to your Git repo in the indicated location. |
+| gitrepo  | editlinkicon       | Set the Font Awesome icon for the Git repository edit page link. |
+| gitrepo  | editlinktext       | Set the text for the Git repository edit page link. |
+| gitrepo  | edittreeurl          | Set the Git tree URL by which your site's content is based. Generally the Git repo your site's content is pulled from.            |
 | twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
 | twittertimeline  | URL       | The URL of the Twitter timeline you want to embed on your sidebar. |
 | twittertimeline  | text       | The text label of the Twitter timeline you want to embed on your sidebar. |
@@ -218,8 +219,8 @@ hidefrompostlist: true  # hide post from blog index
 ### Page Options for All Pages
 All pages support the following additional options:
 ```
-hidegithublink: true    # hide GitHub edit link for this page
-githublink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated GitHub URL
+hidegitrepolink: true    # hide Git Repository edit link for this page
+gitrepolink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated Git Repository URL
 hidepagetitle: true     # hide the display of the title of this page
 ```
 ---
