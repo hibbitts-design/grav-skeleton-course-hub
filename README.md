@@ -220,7 +220,7 @@ hidefrompostlist: true  # hide post from blog index
 All pages support the following additional options:
 ```
 hidegitrepolink: true    # hide Git Repository edit link for this page
-gitrepolink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated Git Repository URL
+gitrepoeditlinkurl: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated Git Repository URL
 hidepagetitle: true     # hide the display of the title of this page
 ```
 ---
