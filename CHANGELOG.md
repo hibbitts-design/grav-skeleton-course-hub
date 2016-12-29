@@ -1,8 +1,8 @@
 # v1.4.1
-## 12/28/2016
+## 12/29/2016
 
 1. [](#improved)
-    * Included Grav 1.1.9 update
+    * Included Grav 1.1.12 update
     * Updated Git-related variable name references
 
 # v1.4.0
