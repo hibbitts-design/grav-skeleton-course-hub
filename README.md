@@ -165,23 +165,24 @@ title: CPT-363
 metadata:
     description: 'A short description of your course would go here'
 displaymenuentries:
-    enabled: true         # display of additional menu entries
-menu:                     # menu entry for adding external sites/tools
+    enabled: true           # display of additional menu entries
+menu:                       # menu entry for adding external sites/tools
     - text: Grav
       icon: arrow-circle-right
       url: http://getgrav.org/
-icon:                     # default Font Awesome icons for preparation and post entries
+icon:                       # default Font Awesome icons for preparation and post entries
     post: calendar-o
 gitrepo:
-    location: none        # menu | page | none
-    icon: github
-    tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
+    editlinklocation: none    # menu | page | none
+    editlinkicon: github
+    editlinktext: Edit this Page
+    edittreeurl: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
 twittertimeline:
-    enabled: false        # display of Twitter timeline on sidebar
+    enabled: false          # display of Twitter timeline on sidebar
     url: https://twitter.com/hibbittsdesign/lists/cpt-363
     text: A Twitter List by hibbittsdesign
     height: 700
-hidehomemenulink: false   # suppress Home menu link
+hidehomemenulink: false     # suppress Home menu link
 ```
 
 | Setting | Child Setting | Description                                                                                                            |
