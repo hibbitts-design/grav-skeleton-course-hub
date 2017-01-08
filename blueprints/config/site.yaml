@@ -84,8 +84,8 @@ form:
                     type: text
                     size: large
                     label: Git Repository Tree URL
-                    default: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
-                    help: Enter the URL for the Git repository that contains your Grav site.
+                    help: Enter the URL for the 'pages' folder in your Git repository that contains your Grav site pages.
+                    description: URL path to the Git repository, up to but not including '/pages/...'.
                     validate:
                         type: URL
 
