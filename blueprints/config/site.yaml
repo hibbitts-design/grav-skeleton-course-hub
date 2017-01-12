@@ -50,47 +50,6 @@ form:
 
         sectiontwo:
             type: section
-            title: Git Repository Integration
-            underline: true
-
-            fields:
-                gitrepo.editlinklocation:
-                    type: select
-                    label: Display of Edit Page Link
-                    default: None
-                    size: small
-                    options:
-                        'none': None
-                        'menu': Menu
-                        'page': Page
-
-                gitrepo.editlinktext:
-                  type: input.text
-                  size: medium
-                  label: Edit Page Link Text
-                  default: 'Edit this Page'
-                  description: Customize the Edit Page link text.
-
-                gitrepo.editlinkicon:
-                    type: text
-                    size: small
-                    label: Edit Page Link Font Awesome Icon
-                    default: 'github'
-                    help: Determines the default Font Awesome icon used for Edit Page links.
-                    validate:
-                        type: text
-
-                gitrepo.edittreeurl:
-                    type: text
-                    size: large
-                    label: Git Repository Tree URL
-                    help: Enter the URL for the 'pages' folder in your Git repository that contains your Grav site pages.
-                    description: URL path to the Git repository, up to but not including '/pages/...'.
-                    validate:
-                        type: URL
-
-        sectionthree:
-            type: section
             title: Blog Posts
             underline: true
 
@@ -104,7 +63,7 @@ form:
                     validate:
                         type: text
 
-        sectionfour:
+        sectionthree:
             type: section
             title: Sidebar
             underline: true
@@ -146,3 +105,44 @@ form:
                         type: int
                         min: 100
                         max: 1000
+
+        sectionfour:
+            type: section
+            title: Git Repository Integration
+            underline: true
+
+            fields:
+                gitrepo.editlinklocation:
+                    type: select
+                    label: Display of Edit Page Link
+                    default: None
+                    size: small
+                    options:
+                        'none': None
+                        'menu': Menu
+                        'page': Page
+
+                gitrepo.editlinktext:
+                  type: input.text
+                  size: medium
+                  label: Edit Page Link Text
+                  default: 'Edit this Page'
+                  description: Customize the Edit Page link text.
+
+                gitrepo.editlinkicon:
+                    type: text
+                    size: small
+                    label: Edit Page Link Font Awesome Icon
+                    default: 'github'
+                    help: Determines the default Font Awesome icon used for Edit Page links.
+                    validate:
+                        type: text
+
+                gitrepo.edittreeurl:
+                    type: text
+                    size: large
+                    label: Git Repository Tree URL
+                    help: Enter the URL for the 'pages' folder in your Git repository that contains your Grav site pages.
+                    description: URL path to the Git repository, up to but not including '/pages/...'.
+                    validate:
+                        type: URL
