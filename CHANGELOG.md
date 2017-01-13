@@ -1,3 +1,9 @@
+# v1.4.2
+## 01/16/2016
+
+1. [](#new)
+    * Added configuration assistance to Edit in Git links
+
 # v1.4.1
 ## 12/29/2016
 
