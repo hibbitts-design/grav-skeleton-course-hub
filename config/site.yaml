@@ -15,7 +15,7 @@ summary:
 blog:
   route: /blog
 displaymenuentries:
-  enabled: true
+  enabled: false
 menu:
   -
     text: Grav
@@ -24,7 +24,7 @@ menu:
 icon:
   post: calendar-o
 gitrepo:
-  editlinklocation: none
+  editlinklocation: menu
   editlinkicon: github
   editlinktext: 'Edit this Page'
 twittertimeline:

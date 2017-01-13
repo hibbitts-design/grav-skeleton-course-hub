@@ -108,7 +108,7 @@ form:
 
         sectionfour:
             type: section
-            title: Git Repository Integration
+            title: Edit Page in Git Link
             underline: true
 
             fields:
