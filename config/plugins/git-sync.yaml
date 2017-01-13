@@ -1,2 +1,2 @@
-enabled: false
+enabled: true
 text_var: 'Custom Text added by the **Git Sync** plugin (disable plugin to remove)'
