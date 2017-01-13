@@ -31,6 +31,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
         branch: master
+    git-sync:
+        url: https://github.com/trilbymedia/grav-plugin-git-sync
+        path: user/plugins/git-sync
+        branch: master
     login:
         url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
@@ -79,76 +83,3 @@ git:
         url: https://github.com/hibbitts-design/grav-theme-course-hub-bootstrap
         path: user/themes/course-hub-bootstrap
         branch: master
-links:
-    admin:
-        src: grav-plugin-admin
-        path: user/plugins/admin
-        scm: github
-    archives:
-        src: grav-plugin-archives
-        path: user/plugins/archives
-        scm: github
-    email:
-        src: grav-plugin-email
-        path: user/plugins/email
-        scm: github
-    external_links:
-        src: grav-plugin-external_links
-        path: user/plugins/external_links
-        scm: github
-    featherlight:
-        src: grav-plugin-featherlight
-        path: user/plugins/featherlight
-        scm: github
-    feed:
-        src: grav-plugin-feed
-        path: user/plugins/feed
-        scm: github
-    form:
-        src: grav-plugin-form
-        path: user/plugins/form
-        scm: github
-    login:
-        src: grav-plugin-login
-        path: user/plugins/login
-        scm: github
-    markdown-fontawesome:
-        url: https://github.com/yoshikin/grav-plugin-markdown-fontawesome
-        path: user/plugins/markdown-fontawesome
-        branch: master
-    page-inject:
-        src: grav-plugin-page-inject
-        path: user/plugins/page-inject
-        scm: github
-    pagination:
-        src: grav-plugin-pagination
-        path: user/plugins/pagination
-        scm: github
-    relatedpages:
-        src: grav-plugin-relatedpages
-        path: user/plugins/relatedpages
-        scm: github
-    simplesearch:
-        src: grav-plugin-simplesearch
-        path: user/plugins/simplesearch
-        scm: github
-    taxonomylist:
-        src: grav-plugin-taxonomylist
-        path: user/plugins/taxonomylist
-        scm: github
-    youtube:
-        src: grav-plugin-youtube
-        path: user/plugins/youtube
-        scm: github
-    bones-vanilla:
-        src: grav-theme-bones-vanilla
-        path: user/themes/bones-vanilla
-        scm: github
-    course-hub-bones:
-        src: grav-theme-course-hub-bones
-        path: user/themes/course-hub-bones
-        scm: github
-    course-hub-bootstrap:
-        src: grav-theme-course-hub-bootstrap
-        path: user/themes/course-hub-bootstrap
-        scm: github
