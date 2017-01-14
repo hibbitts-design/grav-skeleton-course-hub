@@ -1,5 +1,5 @@
 # v1.4.2
-## 01/14/2016
+## 01/14/2017
 
 1. [](#new)
     * Added configuration assistance to Edit in Git links
