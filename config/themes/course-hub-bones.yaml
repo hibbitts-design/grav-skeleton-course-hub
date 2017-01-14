@@ -9,7 +9,7 @@ google_prettify:
   enabled: true
 dropdown:
   enabled: true
-mobilemenu_breakpoint: medium
+mobilemenu_breakpoint: large
 mobilemenu_position: left
 animate_css:
   enabled: true
