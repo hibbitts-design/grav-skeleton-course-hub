@@ -1,8 +1,12 @@
 # v1.4.2
-## 01/16/2016
+## 01/14/2016
 
 1. [](#new)
     * Added configuration assistance to Edit in Git links
+    * Added initial support for upcoming Git Sync plugin
+
+1. [](#improved)
+    * Revised site configuration settings layout
 
 # v1.4.1
 ## 12/29/2016
