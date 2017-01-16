@@ -134,6 +134,7 @@ form:
                     size: small
                     label: Edit Page Link Font Awesome Icon
                     default: 'github'
+                    description: Short name of icon (i.e. 'GitLab').
                     help: Determines the default Font Awesome icon used for Edit Page links.
                     validate:
                         type: text
