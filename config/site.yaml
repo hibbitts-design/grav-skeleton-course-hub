@@ -24,7 +24,7 @@ menu:
 icon:
   post: calendar-o
 gitrepo:
-  editlinklocation: none
+  editlinklocation: menu
   editlinkicon: github
   editlinktext: 'Edit this Page'
 twittertimeline:

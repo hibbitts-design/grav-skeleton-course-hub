@@ -127,14 +127,14 @@ form:
                   size: medium
                   label: Edit Page Link Text
                   default: 'Edit this Page'
-                  description: Customize the Edit Page link text.
+                  description: Customize the View/Edit Page in Git link text.
 
                 gitrepo.editlinkicon:
                     type: text
                     size: small
                     label: Edit Page Link Font Awesome Icon
                     default: 'github'
-                    description: Short name of icon (i.e. 'GitLab').
+                    description: Icon short name.
                     help: Determines the default Font Awesome icon used for Edit Page links.
                     validate:
                         type: text
