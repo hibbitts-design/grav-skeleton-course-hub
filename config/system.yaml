@@ -1,9 +1,13 @@
 absolute_urls: false
+timezone: ''
+default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
 force_ssl: false
+custom_base_url: ''
 languages:
+  supported: {  }
   include_default_lang: true
   translations: true
   translations_fallback: true
@@ -21,6 +25,7 @@ pages:
   list:
     count: 20
   dateformat:
+    default: null
     short: 'jS M Y'
     long: 'F jS \a\t g:ia'
   publish_dates: true
@@ -28,6 +33,7 @@ pages:
     markdown: true
     twig: false
   twig_first: false
+  never_cache_twig: false
   events:
     page: true
     twig: true
@@ -47,6 +53,7 @@ pages:
     - json
     - rss
     - atom
+  append_url_extension: ''
   expires: 604800
   last_modified: false
   etag: false
@@ -74,6 +81,8 @@ cache:
   prefix: g
   lifetime: 604800
   gzip: false
+  redis:
+    socket: false
 twig:
   cache: false
   debug: true
@@ -113,6 +122,8 @@ images:
 media:
   enable_media_timestamp: false
   upload_limit: 0
+  unsupported_inline_types: {  }
+  allowed_fallback_types: {  }
 session:
   enabled: true
   timeout: 1800
@@ -120,7 +131,9 @@ session:
   secure: false
   httponly: true
   split: true
+  path: null
 gpm:
   releases: testing
+  proxy_url: null
   method: auto
   verify_peer: true

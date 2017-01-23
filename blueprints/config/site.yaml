@@ -108,42 +108,75 @@ form:
 
         sectionfour:
             type: section
-            title: Edit Page in Git Link
+            title: Creative Commons (CC) License
             underline: true
 
             fields:
-                gitrepo.editlinklocation:
-                    type: select
-                    label: Display of Edit Page Link
-                    default: None
-                    size: small
+
+                cc_license.enabled:
+                    type: toggle
+                    label: Display Creative Commons License
+                    highlight: 1
+                    default: 0
                     options:
-                        'none': None
-                        'menu': Menu
-                        'page': Page
-
-                gitrepo.editlinktext:
-                  type: input.text
-                  size: medium
-                  label: Edit Page Link Text
-                  default: 'Edit this Page'
-                  description: Customize the View/Edit Page in Git link text.
-
-                gitrepo.editlinkicon:
-                    type: text
-                    size: small
-                    label: Edit Page Link Font Awesome Icon
-                    default: 'github'
-                    description: Icon short name.
-                    help: Determines the default Font Awesome icon used for Edit Page links.
+                        1:  Yes
+                        0:  No
                     validate:
+                        type: bool
+
+                cc_license.type:
+                  type: select
+                  label: CC License
+                  default: ccby
+                  size: long
+                  description: 'Looking for more info about Creative Commons (CC) Licenses?<br> Visit the <a href="https://creativecommons.org/" target="_blank">creativecommons.org</a> site.'
+                  options:
+                      ccby: 'CC Attribution'
+                      ccbysa: 'CC Attribution Share Alike'
+                      ccbynd: 'CC Attribution No Derivatives'
+                      ccbync: 'CC Attribution Non-Commercial'
+                      ccbyncsa: 'CC Attribution Non-Commercial Share Alike'
+                      ccbyncnd: 'CC Attribution Non-Commercial No Derivatives'
+
+
+        sectionfive:
+                type: section
+                title: Edit Page in Git Link
+                underline: true
+
+                fields:
+                    gitrepo.editlinklocation:
+                        type: select
+                        label: Display of Edit Page Link
+                        default: None
+                        size: small
+                        options:
+                            'none': None
+                            'menu': Menu
+                            'page': Page
+
+                    gitrepo.editlinktext:
+                      type: input.text
+                      size: medium
+                      label: Edit Page Link Text
+                      default: 'Edit this Page'
+                      description: Customize the View/Edit Page in Git link text.
+
+                    gitrepo.editlinkicon:
                         type: text
+                        size: small
+                        label: Edit Page Link Font Awesome Icon
+                        default: 'github'
+                        description: Icon short name.
+                        help: Determines the default Font Awesome icon used for Edit Page links.
+                        validate:
+                            type: text
 
-                gitrepo.edittreeurl:
-                    type: text
-                    size: large
-                    label: Git Repository Tree URL
-                    help: Enter the URL for the 'pages' folder in your Git repository that contains your Grav site pages.
-                    description: URL path to the Git repository, up to but not including '/pages/...'.
-                    validate:
-                        type: URL
+                    gitrepo.edittreeurl:
+                        type: text
+                        size: large
+                        label: Git Repository Tree URL
+                        help: Enter the URL for the 'pages' folder in your Git repository that contains your Grav site pages.
+                        description: URL path to the Git repository, up to but not including '/pages/...'.
+                        validate:
+                            type: URL

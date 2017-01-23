@@ -1,4 +1,5 @@
 title: CPT-363
+default_lang: en
 author:
   name: 'John Appleseed'
   email: john@email.com
@@ -33,3 +34,6 @@ twittertimeline:
   text: 'A Twitter List by @hibbittsdesign'
   height: 700
 hidehomemenulink: false
+cc_license:
+  enabled: true
+  type: ccby
