@@ -115,7 +115,7 @@ form:
 
                 cc_license.enabled:
                     type: toggle
-                    label: Display Creative Commons License
+                    label: Display CC License
                     highlight: 1
                     default: 0
                     options:
@@ -126,7 +126,7 @@ form:
 
                 cc_license.type:
                   type: select
-                  label: CC License
+                  label: CC License Type
                   default: ccby
                   size: long
                   description: 'Looking for more info about Creative Commons (CC) Licenses?<br> Visit the <a href="https://creativecommons.org/" target="_blank">creativecommons.org</a> site.'
