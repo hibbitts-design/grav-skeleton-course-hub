@@ -1,3 +1,10 @@
+# v1.4.3
+## 01/25/2017
+
+1. [](#new)
+    * Included Git Sync plugin
+    * Added optional display of Creative Commons (CC) License
+
 # v1.4.2
 ## 01/14/2017
 
