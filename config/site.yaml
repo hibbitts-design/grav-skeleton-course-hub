@@ -35,5 +35,5 @@ twittertimeline:
   height: 700
 hidehomemenulink: false
 cc_license:
-  enabled: true
+  enabled: false
   type: ccby
