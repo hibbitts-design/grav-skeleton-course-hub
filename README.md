@@ -87,8 +87,8 @@ On the far-right of your site menubar there will be a reminder displayed to comp
 If you would prefer to not use Git Sync with your Course Hub, in your Admin Panel go to the ```Site``` tab on the ```Configuration``` page and set the ```Display of Edit Page Link``` option to ```None``` and then tap ```Save```.
 
 ## Video Demo
-[![Course Hub Setup with GitHub Editing](/assets/video.png)](https://www.youtube.com/watch?v=6SWdIK6N-C0 "Grav CMS Course Hub Setup with GitHub Editing ")
-_Video 1. Course Hub Setup with GitHub Editing
+[![Course Hub Setup with GitHub Editing](/assets/video.png)](https://www.youtube.com/watch?v=6SWdIK6N-C0)  
+_Video 1. Course Hub Setup with GitHub Editing_
 
 ## Grav Course Hub Details  
 
