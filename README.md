@@ -69,16 +69,16 @@ To learn more about how to most effectively use the Grav Course Hub, visit [hibb
 ## Installing the Course Hub
 ### Web Install
 **Pre-flight Checklist**  
-1. Confirm Webserver PHP version (PHP 5.5.9 or higher)
-1. Webserver login credentials (username and password)
+1. Confirm Webserver PHP version (PHP 5.5.9 or higher)  
+1. Webserver login credentials (username and password)  
 
 **Installation Steps**
-1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)
-2. Unzip the package onto your desktop
-3. Copy the _entire_ Grav Course Hub folder to your Webserver
-4. Point your browser to the Webserver folder
-5. Create your site administrator account when prompted
-6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)
+1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)  
+2. Unzip the package onto your desktop  
+3. Copy the _entire_ Grav Course Hub folder to your Webserver  
+4. Point your browser to the Webserver folder  
+5. Create your site administrator account when prompted  
+6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)  
 
 ### Git Sync Configuration
 On the far-right of your site menubar there will be a reminder displayed to complete the two steps to enable GitHub/GitLab syncing and editing of your site content. First tap on the ```Setup Git Sync Plugin (Step 1 of 2)``` menubar link, complete the displayed setup wizard, then return to viewing your site and tap the ```Setup Edit Page in Git Link (Step of 2)``` menubar link and provide the base URL to your created Git repository.
