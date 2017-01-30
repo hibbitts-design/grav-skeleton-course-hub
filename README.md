@@ -67,57 +67,28 @@ _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editi
 
 To learn more about how to most effectively use the Grav Course Hub, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
 
-## Grav Course Hub Installation  
-
-### Quick Install (Web server only)
+## Installing the Course Hub
+### Web Install
 **Pre-flight Checklist**  
+1. Confirm Webserver PHP version (PHP 5.5.9 or higher)
+1. Webserver login credentials (username and password)
 
-1. Confirm Web server PHP version (PHP 5.5.9 or higher)
-2. Web server login credentials (username and password)
-
-**Installation Steps**  
-
+**Installation Steps**
 1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)
-2. Unzip the package onto your desktop  
-3. Copy the entire Grav Course Hub folder to your Web server  
-4. Point your browser to the Web server folder  
-5. Create your site administrator account when prompted  
+2. Unzip the package onto your desktop
+3. Copy the _entire_ Grav Course Hub folder to your Webserver
+4. Point your browser to the Webserver folder
+5. Create your site administrator account when prompted
 6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)
 
-### Recommended Install (Desktop + Server)
-With the flat-file (no database) nature of Grav, there are lots of benefits of installing Grav on your computer and then having your site files mirrored onto a Web server:
-* Always have access to your site, regardless of Web server status
-* Develop and test changes to your site privately without any downtime of the live site
-* Store your site files on a Git service (i.e. GitHub) to better track your development and enable anywhere, anytime editing of your site
-* Enable others (i.e. students, fellow instructors, colleagues, etc.) to collaboratively contribute to the site, including both site content _and_ code  
+### Git Sync Configuration
+On the far-right of your site menubar there will be a reminder displayed to complete the two steps to enable GitHub/GitLab syncing and editing of your site content. First tap on the ```Setup Git Sync Plugin (Step 1 of 2)``` menubar link, complete the displayed setup wizard, then return to viewing your site and tap the ```Setup Edit Page in Git Link (Step of 2)``` menubar link and provide the base URL to your created Git repository.
 
-![Grav recommended install using Grav, GitHub, and Deploy to support a flipped-LMS approach](/assets/flipped-lms-grav-github-automatic-deployments.png)  
-_Figure 2. Grav recommended install using Grav, GitHub, and and automatic deployment service to support a flipped-LMS approach._
+If you would prefer to not use Git Sync with your Course Hub, in your Admin Panel go to the ```Site``` tab on the ```Configuration``` page and set the ```Display of Edit Page Link``` option to ```None``` and then tap ```Save```.
 
-**Pre-flight Checklist**  
-
-1. Confirm Web server PHP version (PHP 5.5.9 or higher)  
-2. Web server login credentials (username and password)  
-3. Download and install MAMP   ([https://www.mamp.info/](https://www.mamp.info/))  
-4. Git server account (e.g. GitHub ([https://github.com/](https://github.com)) or local GitLab or Gogs app, etc.)  
-5. Download and install GitHub Desktop ([https://desktop.github.com/](https://desktop.github.com/))  
-6. Automatic deployment service (e.g. Deploy ([https://www.deployhq.com/](https://www.deployhq.com/)) or Buddy ([https://buddy.works/](https://buddy.works)))  
-
-**Desktop Installation Steps**  
-
-1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)
-2. Unzip the Grav package onto your desktop
-3. Create a folder called 'MAMP Websites' in your 'Documents' folder
-4. Copy the _entire_ Grav folder into your 'MAMP Websites' folder
-5. Launch MAMP
-6. Change the 'Document Root' MAMP preferences setting to the 'MAMP Websites' folder (within 'Documents')
-7. Press the MAMP 'Start Servers' button
-8. Enter 'localhost:8888' as the URL in your Web Browser
-9. Choose the displayed Grav folder name
-10. Create your site administrator account when prompted
-11. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)  
-
-Once you have confirmed that Grav is running locally on your computer, the final step is to create a Git server repository to store your site files and setup an automatic deployment service to push any changed files to your Web server. An example step-by-step walkthrough this process is available in the article [Using Grav with GitHub Desktop](http://hibbittsdesign.org/blog/posts/using-grav-with-github).
+## Video Demo
+[![Course Hub Setup with GitHub Editing](/assets/video.png)](https://www.youtube.com/watch?v=6SWdIK6N-C0 "Grav CMS Course Hub Setup with GitHub Editing ")
+_Video 1. Course Hub Setup with GitHub Editing
 
 ## Grav Course Hub Details  
 
