@@ -72,7 +72,7 @@ To learn more about how to most effectively use the Grav Course Hub, visit [hibb
 1. Confirm Webserver PHP version (PHP 5.5.9 or higher)  
 1. Webserver login credentials (username and password)  
 
-**Installation Steps**
+**Installation Steps**  
 1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)  
 2. Unzip the package onto your desktop  
 3. Copy the _entire_ Grav Course Hub folder to your Webserver  
