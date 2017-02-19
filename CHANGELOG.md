@@ -1,3 +1,10 @@
+# v1.4.4
+## 02/20/2017
+
+1. [](#new)
+    * Included two inherited Course Hub themes for additional customization
+    * Added two inherited Course Hub themes to default Git Sync settings
+
 # v1.4.3
 ## 01/25/2017
 
