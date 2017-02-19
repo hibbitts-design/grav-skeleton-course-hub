@@ -3,7 +3,7 @@
 
 1. [](#new)
     * Included two inherited Course Hub themes for additional customization
-    * Added two inherited Course Hub themes to default Git Sync settings
+    * Added experimental support for Git Sync to auto-sync example inherited Course Hub themes
 
 # v1.4.3
 ## 01/25/2017
