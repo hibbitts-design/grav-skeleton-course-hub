@@ -1,5 +1,5 @@
 # v1.4.4
-## 02/20/2017
+## 02/19/2017
 
 1. [](#new)
     * Included two inherited Course Hub themes for additional customization
