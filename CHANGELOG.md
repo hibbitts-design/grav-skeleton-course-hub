@@ -1,9 +1,9 @@
 # v1.4.4
-## 02/19/2017
+## 02/21/2017
 
 1. [](#new)
-    * Included two inherited Course Hub themes for additional customization
-    * Added experimental support for Git Sync to auto-sync example inherited Course Hub themes
+    * Included inherited Course Hub theme for easier additional customization
+    * Added experimental support for Git Sync plugin to auto-sync example inherited Course Hub theme
 
 # v1.4.3
 ## 01/25/2017
