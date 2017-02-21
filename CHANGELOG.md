@@ -3,7 +3,7 @@
 
 1. [](#new)
     * Included inherited Course Hub theme for easier additional customization
-    * Added experimental support for Git Sync plugin to auto-sync included themes
+    * Added experimental support for Git Sync plugin to auto-sync themes
 
 # v1.4.3
 ## 01/25/2017
