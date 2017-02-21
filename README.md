@@ -89,6 +89,9 @@ If you would prefer to not use Git Sync with your Course Hub, in your Admin Pane
 [![Course Hub Setup with GitHub Editing](/assets/video.png)](https://www.youtube.com/watch?v=6SWdIK6N-C0)  
 _Video 1. Course Hub Setup with GitHub Editing_
 
+![GitHub Repo](/assets/github.png)  
+_Figure 2. Example GitHub repository, with synced 'Pages' and 'Themes' folders._
+
 ## Grav Course Hub Details  
 
 ### Page Templates
