@@ -18,7 +18,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: my-course-hub-bootstrap-theme
+  theme: mytheme
   order:
     by: default
     dir: asc
