@@ -180,3 +180,25 @@ form:
                         description: URL path to the Git repository, up to but not including '/pages/...'.
                         validate:
                             type: URL
+
+        sectionsix:
+                type: section
+                title: Edit this Theme in Git Link
+                underline: true
+
+                fields:
+                    gitrepo.editthemelinklocation:
+                        type: select
+                        label: Display of Edit this Theme Link
+                        default: None
+                        size: small
+                        options:
+                            'none': None
+                            'footer': Footer
+
+                    gitrepo.editthemelinktext:
+                      type: input.text
+                      size: medium
+                      label: Edit this Theme Link Text
+                      default: 'Edit this Theme'
+                      description: Customize the Edit this Theme in Git link text.

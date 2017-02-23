@@ -28,6 +28,8 @@ gitrepo:
   editlinklocation: menu
   editlinkicon: github
   editlinktext: 'Edit this Page'
+  editthemelinklocation: none
+  editthemelinktext: 'Edit this Theme'
 twittertimeline:
   enabled: false
   url: 'https://twitter.com/hibbittsdesign/lists/cpt-363'
