@@ -1,3 +1,9 @@
+# v1.4.5
+## 02/23/2017
+
+1. [](#new)
+    * Added option to display Edit this Theme in Git link for inherited Course Hub customization
+
 # v1.4.4
 ## 02/21/2017
 
