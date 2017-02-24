@@ -100,7 +100,7 @@ form:
                     type: text
                     size: small
                     label: Twitter Widget Height (px)
-                    default: 700
+                    default: 600
                     validate:
                         type: int
                         min: 100
