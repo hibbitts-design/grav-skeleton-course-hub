@@ -3,7 +3,7 @@
 [![Demo](https://img.shields.io/badge/Demo-CourseHub-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-skeleton-course-hub)
+[![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
 ### Grav Course Hub is an open source project intended to help tech-savvy instructors enhance the learning experience for their students by providing multi-device delivery and a collaborative workflow not present in their current Learning Management System (LMS). As an open platform under the full control of the instructor, a broader choice of online course components can be integrated into the Course Hub to help reach unmet pedagogical goals.
 
