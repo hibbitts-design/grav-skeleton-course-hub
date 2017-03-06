@@ -86,7 +86,7 @@ cache:
   redis:
     socket: false
 twig:
-  cache: false
+  cache: true
   debug: true
   auto_reload: true
   autoescape: false
