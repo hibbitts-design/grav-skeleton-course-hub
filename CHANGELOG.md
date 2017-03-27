@@ -1,3 +1,10 @@
+# v1.4.6
+## 03/27/2017
+
+1. [](#improved)
+    * 	Updated default Twitter sidebar widget settings
+      * Added initial support for a page type default when creating child pages
+
 # v1.4.5
 ## 02/23/2017
 
