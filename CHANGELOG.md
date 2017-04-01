@@ -1,8 +1,8 @@
 # v1.4.7
-## 04/01/2017
+## 04/03/2017
 
 1. [](#improved)
-    * Finalized support for a page type default when creating child pages
+    * Further improved support for a page type default when creating root and child pages
 
 # v1.4.6
 ## 03/27/2017
