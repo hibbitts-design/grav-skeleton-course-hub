@@ -1,3 +1,10 @@
+# v1.4.8
+## 04/12/2017
+
+1. [](#improved)
+    * Revised skeleton package name to Open Course Hub
+    * Updated default settings
+
 # v1.4.7
 ## 04/01/2017
 
