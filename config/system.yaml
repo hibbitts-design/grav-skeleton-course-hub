@@ -139,3 +139,4 @@ gpm:
   proxy_url: null
   method: auto
   verify_peer: true
+  official_gpm_only: true

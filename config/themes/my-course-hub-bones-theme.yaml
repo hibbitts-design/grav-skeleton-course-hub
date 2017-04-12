@@ -1,0 +1,24 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/my-course-hub-bones-theme, user/themes/course-hub-bones]
+site_title:
+  enabled: true
+google_fonts_logo:
+  enabled: false
+fontawesome:
+  enabled: true
+animate_css:
+  enabled: true
+wow_js:
+  enabled: true
+google_prettify:
+  enabled: true
+dropdown:
+  enabled: false
+mobilemenu_breakpoint: medium
+mobilemenu_position: left
+css_custom:
+  enabled: false
