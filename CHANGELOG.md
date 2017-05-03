@@ -1,3 +1,9 @@
+# v1.5.0
+## 05/03/2017
+
+1. [](#new)
+    * Added automatic check for dynamically generated pages (i.e. Login, Search, etc.).
+
 # v1.4.9
 ## 04/21/2017
 
