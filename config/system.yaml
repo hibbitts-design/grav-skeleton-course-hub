@@ -6,6 +6,8 @@ wrapped_site: false
 reverse_proxy_setup: false
 force_ssl: false
 custom_base_url: ''
+username_regex: '^[a-z0-9_-]{3,16}$'
+pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
 languages:
   supported: {  }
   include_default_lang: true
