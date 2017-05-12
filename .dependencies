@@ -39,8 +39,12 @@ git:
         url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
         branch: master
-    markdown-fontawesome:
+    markdown-notices:
         url: https://github.com/yoshikin/grav-plugin-markdown-fontawesome
+        path: user/plugins/markdown-notices
+        branch: master
+    markdown-fontawesome:
+        url: https://github.com/getgrav/grav-plugin-markdown-notices
         path: user/plugins/markdown-fontawesome
         branch: master
     page-inject:
