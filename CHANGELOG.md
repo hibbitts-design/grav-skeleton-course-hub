@@ -1,5 +1,5 @@
 # v1.5.1
-## 05/13/2017
+## 05/14/2017
 
 1. [](#bugfix)
     * Fixed display issue within Admin Panel of theme-related plugin status messages
