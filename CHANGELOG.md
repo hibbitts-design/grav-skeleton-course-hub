@@ -1,3 +1,9 @@
+# v1.5.2
+## 05/15/2017
+
+1. [](#improved)
+    * Updated with newest Course Hub Bootstrap theme, which removed unneeded theme blueprint 
+
 # v1.5.1
 ## 05/14/2017
 
