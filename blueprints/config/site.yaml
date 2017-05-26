@@ -4,201 +4,199 @@
 form:
     fields:
         sectionone:
-            type: section
-            title: Menubar
-            underline: true
+            type:                              section
+            title:                             Edit Page in Git Link
+            underline:                         true
+
+            fields:
+                gitrepo.editlinklocation:
+                    type:                      select
+                    label:                     Display of Edit Page Link
+                    default:                   None
+                    size:                      small
+                    options:
+                        'none':                None
+                        'menu':                Menu
+                        'page':                Page
+
+                gitrepo.editlinktext:
+                  type:                        input.text
+                  size:                        medium
+                  label:                       Edit Page Link Text
+                  default:                     'Edit this Page'
+                  description:                 Customize the View/Edit Page in Git link text.
+
+                gitrepo.editlinkicon:
+                    type:                      text
+                    size:                      small
+                    label:                     Edit Page Link Font Awesome Icon
+                    default:                   'github'
+                    description:               Icon short name.
+                    help:                      Determines the default Font Awesome icon used for Edit Page links.
+                    validate:
+                        type:                  text
+
+                gitrepo.edittreeurl:
+                    type:                      text
+                    size:                      large
+                    label:                     Git Repository Tree URL
+                    help:                      Enter the URL for the 'pages' folder in your Git repository that contains your Grav site pages.
+                    description:               URL path to the Git repository, up to but not including '/pages/...'.
+                    validate:
+                        type:                  URL
+
+        sectiontwo:
+            type:                              section
+            title:                             Edit this Theme in Git Link
+            underline:                         true
+
+            fields:
+                gitrepo.editthemelinklocation:
+                    type:                      select
+                    label:                     Display of Edit this Theme Link
+                    default:                   None
+                    size:                      small
+                    options:
+                        'none':                None
+                        'footer':              Footer
+
+                gitrepo.editthemelinktext:
+                  type:                        input.text
+                  size:                        medium
+                  label:                       Edit this Theme Link Text
+                  default:                     'Edit this Theme'
+                  description:                 Customize the Edit this Theme in Git link text.
+
+        sectionthree:
+            type:                              section
+            title:                             Menubar
+            underline:                         true
 
             fields:
                 displaymenuentries.enabled:
-                    type: toggle
-                    label: Display Custom Menubar Items
-                    help: Determines if any defined custom menubar entries are displayed in the menubar.
-                    default: 0
-                    highlight: 1
+                    type:                      toggle
+                    label:                     Display Custom Menubar Items
+                    help:                      Determines if any defined custom menubar entries are displayed in the menubar.
+                    default:                   0
+                    highlight:                 1
                     options:
-                        1:  Yes
-                        0:  No
+                        1:                     Yes
+                        0:                     No
                     validate:
-                        type: bool
+                        type:                  bool
 
                 menu:
-                    name: menu
-                    type: list
-                    label: Custom Menubar Items
+                    name:                      menu
+                    type:                      list
+                    label:                     Custom Menubar Items
                     fields:
                       .text:
-                        type: text
-                        label: Text
+                        type:                  text
+                        label:                 Text
                       .icon:
-                        type: text
-                        label: Text
+                        type:                  text
+                        label:                 Text
                       .url:
-                        type: text
-                        label: URL
+                        type:                  text
+                        label:                 URL
 
                 hidehomemenulink:
-                    type: toggle
-                    label: Include Homepage Link in Menubar
-                    help: Determines if the link to the Homepage is included in the menubar.
-                    default: 0
-                    highlight: 0
+                    type:                      toggle
+                    label:                     Include Homepage Link in Menubar
+                    help:                      Determines if the link to the Homepage is included in the menubar.
+                    default:                   0
+                    highlight:                 0
                     options:
-                        0:  Yes
-                        1:  No
+                        0:                     Yes
+                        1:                     No
                     validate:
-                        type: bool
+                        type:                  bool
 
-        sectiontwo:
-            type: section
-            title: Blog Posts
-            underline: true
+        sectionfour:
+            type:                              section
+            title:                             Blog Posts
+            underline:                         true
 
             fields:
                 icon.post:
-                    type: text
-                    size: small
-                    label: Default Blog Post Font Awesome Icon
-                    default: 'calendar-o'
-                    help: Determines the default Font Awesome icon used for the blog posts.
+                    type:                      text
+                    size:                      small
+                    label:                     Default Blog Post Font Awesome Icon
+                    default:                   'calendar-o'
+                    help:                      Determines the default Font Awesome icon used for the blog posts.
                     validate:
-                        type: text
+                        type:                  text
 
-        sectionthree:
-            type: section
-            title: Sidebar
-            underline: true
+        sectionfive:
+            type:                              section
+            title:                             Sidebar
+            underline:                         true
 
             fields:
 
                 twittertimeline.enabled:
-                    type: toggle
-                    label: Display Twitter Widget in Sidebar
-                    highlight: 1
-                    default: 0
+                    type:                      toggle
+                    label:                     Display Twitter Widget in Sidebar
+                    highlight:                 1
+                    default:                   0
                     options:
-                        1:  Yes
-                        0:  No
+                        1:                     Yes
+                        0:                     No
                     validate:
-                        type: bool
+                        type:                  bool
 
                 twittertimeline.url:
-                    type: text
-                    size: large
-                    label: Twitter Widget URL
-                    help: Enter the URL for your embedable Twitter Widget.
+                    type:                      text
+                    size:                      large
+                    label:                     Twitter Widget URL
+                    help:                      Enter the URL for your embedable Twitter Widget.
                     validate:
-                        type: URL
+                        type:                  URL
 
                 twittertimeline.text:
-                    type: text
-                    size: large
-                    label: Twitter Widget Text
+                    type:                      text
+                    size:                      large
+                    label:                     Twitter Widget Text
                     validate:
-                        type: text
+                        type:                  text
 
                 twittertimeline.height:
-                    type: text
-                    size: small
-                    label: Twitter Widget Height (px)
-                    default: 600
+                    type:                      text
+                    size:                      small
+                    label:                     Twitter Widget Height (px)
+                    default:                   600
                     validate:
-                        type: int
-                        min: 100
-                        max: 1000
-
-        sectionfour:
-            type: section
-            title: Creative Commons (CC) License
-            underline: true
-
-            fields:
-
-                cc_license.enabled:
-                    type: toggle
-                    label: Display CC License
-                    highlight: 1
-                    default: 0
-                    options:
-                        1:  Yes
-                        0:  No
-                    validate:
-                        type: bool
-
-                cc_license.type:
-                  type: select
-                  label: CC License Type
-                  default: ccby
-                  size: long
-                  description: 'Looking for more info about Creative Commons (CC) Licenses?<br> Visit the <a href="https://creativecommons.org/" target="_blank">creativecommons.org</a> site.'
-                  options:
-                      ccby: 'CC Attribution'
-                      ccbysa: 'CC Attribution Share Alike'
-                      ccbynd: 'CC Attribution No Derivatives'
-                      ccbync: 'CC Attribution Non-Commercial'
-                      ccbyncsa: 'CC Attribution Non-Commercial Share Alike'
-                      ccbyncnd: 'CC Attribution Non-Commercial No Derivatives'
-
-
-        sectionfive:
-                type: section
-                title: Edit Page in Git Link
-                underline: true
-
-                fields:
-                    gitrepo.editlinklocation:
-                        type: select
-                        label: Display of Edit Page Link
-                        default: None
-                        size: small
-                        options:
-                            'none': None
-                            'menu': Menu
-                            'page': Page
-
-                    gitrepo.editlinktext:
-                      type: input.text
-                      size: medium
-                      label: Edit Page Link Text
-                      default: 'Edit this Page'
-                      description: Customize the View/Edit Page in Git link text.
-
-                    gitrepo.editlinkicon:
-                        type: text
-                        size: small
-                        label: Edit Page Link Font Awesome Icon
-                        default: 'github'
-                        description: Icon short name.
-                        help: Determines the default Font Awesome icon used for Edit Page links.
-                        validate:
-                            type: text
-
-                    gitrepo.edittreeurl:
-                        type: text
-                        size: large
-                        label: Git Repository Tree URL
-                        help: Enter the URL for the 'pages' folder in your Git repository that contains your Grav site pages.
-                        description: URL path to the Git repository, up to but not including '/pages/...'.
-                        validate:
-                            type: URL
+                        type:                  int
+                        min:                   100
+                        max:                   1000
 
         sectionsix:
-                type: section
-                title: Edit this Theme in Git Link
-                underline: true
+            type:                              section
+            title:                             Creative Commons (CC) License
+            underline:                         true
 
-                fields:
-                    gitrepo.editthemelinklocation:
-                        type: select
-                        label: Display of Edit this Theme Link
-                        default: None
-                        size: small
-                        options:
-                            'none': None
-                            'footer': Footer
+            fields:
+                cc_license.enabled:
+                    type:                      toggle
+                    label:                     Display CC License
+                    highlight:                 1
+                    default:                   0
+                    options:
+                        1:                     Yes
+                        0:                     No
+                    validate:
+                        type:                  bool
 
-                    gitrepo.editthemelinktext:
-                      type: input.text
-                      size: medium
-                      label: Edit this Theme Link Text
-                      default: 'Edit this Theme'
-                      description: Customize the Edit this Theme in Git link text.
+                cc_license.type:
+                  type:                        select
+                  label:                       CC License Type
+                  default:                     ccby
+                  size:                        long
+                  description:                 'Looking for more info about Creative Commons (CC) Licenses?<br> Visit the <a href="https://creativecommons.org/" target="_blank">creativecommons.org</a> site.'
+                  options:
+                      ccby:                    'CC Attribution'
+                      ccbysa:                  'CC Attribution Share Alike'
+                      ccbynd:                  'CC Attribution No Derivatives'
+                      ccbync:                  'CC Attribution Non-Commercial'
+                      ccbyncsa:                'CC Attribution Non-Commercial Share Alike'
+                      ccbyncnd:                'CC Attribution Non-Commercial No Derivatives'
