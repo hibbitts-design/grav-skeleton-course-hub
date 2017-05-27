@@ -1,6 +1,8 @@
 # v1.5.3
 ## XX/XX/2017
 
+1. [](#new)
+    * Added optional site config text to CC licenses
 1. [](#improved)
     * Re-ordered site config options
 
