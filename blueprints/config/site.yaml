@@ -200,3 +200,10 @@ form:
                       ccbync:                  'CC Attribution Non-Commercial'
                       ccbyncsa:                'CC Attribution Non-Commercial Share Alike'
                       ccbyncnd:                'CC Attribution Non-Commercial No Derivatives'
+
+                cc_license.text:
+                    type:                      text
+                    size:                      medium
+                    label:                     CC License Text
+                    validate:
+                        type:                  text
