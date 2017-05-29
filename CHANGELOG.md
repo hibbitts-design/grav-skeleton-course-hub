@@ -3,7 +3,7 @@
 
 1. [](#new)
     * Added optional site config text to CC licenses
-    * Added default subfolders to MyTheme Templates folder
+    * Added default subfolders to MyTheme templates folder
 1. [](#improved)
     * Re-ordered site config options
     * Adjusted edit this theme config wording
