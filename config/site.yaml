@@ -39,3 +39,4 @@ hidehomemenulink: false
 cc_license:
   enabled: true
   type: ccby
+  text: 'Except embedded content or where noted otherwise.'
