@@ -204,7 +204,7 @@ form:
                 cc_license.text:
                     type:                      text
                     size:                      long
-                    description:               'For example, ''Except where noted otherwise.'''
+                    description:               'For example, ''Except where otherwise noted.'''
                     label:                     CC License Text
                     validate:
                         type:                  text

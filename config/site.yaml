@@ -28,7 +28,7 @@ gitrepo:
   editlinklocation: menu
   editlinkicon: github
   editlinktext: 'Edit this Page'
-  editthemelinklocation: footer
+  editthemelinklocation: none
   editthemelinktext: 'Site Theme Files'
 twittertimeline:
   enabled: false
@@ -37,6 +37,5 @@ twittertimeline:
   height: 700
 hidehomemenulink: false
 cc_license:
-  enabled: true
+  enabled: false
   type: ccby
-  text: 'Except where noted otherwise.'
