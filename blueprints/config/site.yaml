@@ -64,7 +64,7 @@ form:
                   type:                        input.text
                   size:                        medium
                   label:                       Edit this Theme Link Text
-                  default:                     'Edit this Theme'
+                  default:                     'Edit this Site''s Theme'
                   description:                 Customize the Edit this Theme in Git link text.
 
         sectionthree:
