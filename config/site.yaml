@@ -29,7 +29,7 @@ gitrepo:
   editlinkicon: github
   editlinktext: 'Edit this Page'
   editthemelinklocation: footer
-  editthemelinktext: 'Edit this Site''s Theme.'
+  editthemelinktext: 'Site Theme Files'
 twittertimeline:
   enabled: false
   url: 'https://twitter.com/hibbittsdesign/lists/cpt-363'

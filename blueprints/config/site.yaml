@@ -47,13 +47,13 @@ form:
 
         sectiontwo:
             type:                              section
-            title:                             Edit this Theme in Git Link
+            title:                             Edit Site Theme Files in Git Link
             underline:                         true
 
             fields:
                 gitrepo.editthemelinklocation:
                     type:                      select
-                    label:                     Display of Edit this Theme Link
+                    label:                     Display of Edit Site Theme Files Link
                     default:                   None
                     size:                      small
                     options:
@@ -63,9 +63,9 @@ form:
                 gitrepo.editthemelinktext:
                   type:                        input.text
                   size:                        medium
-                  label:                       Edit this Theme Link Text
-                  default:                     'Edit this Site''s Theme'
-                  description:                 Customize the Edit this Theme in Git link text.
+                  label:                       Edit Site Theme Files Link Text
+                  default:                     'Site Theme Files'
+                  description:                 Customize the Edit Site Theme Files link text.
 
         sectionthree:
             type:                              section
