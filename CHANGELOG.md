@@ -5,6 +5,8 @@
     * Added optional site config text to CC licenses
 1. [](#improved)
     * Re-ordered site config options
+    * Adjusted edit this theme config wording
+    * Adjusted default footer text
 
 # v1.5.2
 ## 05/15/2017
