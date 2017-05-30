@@ -32,7 +32,7 @@ form:
                     label:                     Edit Page Link Font Awesome Icon
                     default:                   'github'
                     description:               Icon short name.
-                    help: Enter the short name of the Font Awesome icon for the link, for example 'gitlab'.
+                    help:                      Enter the short name of the Font Awesome icon for the link, for example 'gitlab'.
                     validate:
                         type:                  text
 
