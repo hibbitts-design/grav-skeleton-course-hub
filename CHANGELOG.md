@@ -1,5 +1,5 @@
 # v1.5.4
-## XX/XX/2017
+## 05/30/2017
 
 1. [](#improved)
     * Improved wording for 'Git Repository Tree URL' site config
