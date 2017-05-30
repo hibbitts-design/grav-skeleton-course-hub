@@ -40,8 +40,8 @@ form:
                     type:                      text
                     size:                      large
                     label:                     Git Repository Tree URL
-                    help:                      Enter the URL that points to one level above your 'pages' folder in your Git repository.
-                    description:               "URL to the Git Repository, but remove '/pages' and everything following it. For example, 'https://github.com/paulhibbitts/demo-grav-course-hub/tree/master'."
+                    help:                      Enter the URL that points to content within the pages folder in your Git repository.
+                    description:               "URL path to the pages folder, but with '/pages' and everything following it removed. For example, 'https://github.com/paulhibbitts/demo-grav-course-hub/tree/master'."
                     validate:
                         type:                  URL
 
