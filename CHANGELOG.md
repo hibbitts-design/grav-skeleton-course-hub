@@ -1,3 +1,9 @@
+# v1.5.5
+## XX/XX/XXXX
+
+1. [](#new)
+    * Added option to hide site navigation elements (useful when embedding pages into another system, e.g. LMS)
+
 # v1.5.4
 ## 05/30/2017
 

@@ -208,3 +208,21 @@ form:
                     label:                     CC License Text
                     validate:
                         type:                  text
+
+        sectionseven:
+            type:                              section
+            title:                             Chromeless Site Presentation
+            underline:                         true
+
+            fields:
+                chromeless.enabled:
+                    type:                      toggle
+                    label:                     Hide all Global Navigation Elements
+                    description:               'When enabled, only page content will be displayed. This is often useful when ''nesting'' Course Hub pages within another system (e.g. LMS)'
+                    highlight:                 0
+                    default:                   0
+                    options:
+                        1:                     Yes
+                        0:                     No
+                    validate:
+                        type:                  bool
