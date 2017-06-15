@@ -25,11 +25,13 @@ menu:
 icon:
   post: calendar-o
 gitrepo:
-  editlinklocation: page
+  editlinklocation: menu
   editlinkicon: github
   editlinktext: 'Edit this Page'
   editthemelinklocation: none
   editthemelinktext: 'Site Theme Files'
+  edittreeurl: 'https://github.com/'
+  editnotetext: 'Have a suggestion?'
 twittertimeline:
   enabled: false
   url: 'https://twitter.com/hibbittsdesign/lists/cpt-363'
@@ -40,4 +42,4 @@ cc_license:
   enabled: false
   type: ccby
 chromeless:
-  enabled: true
+  enabled: false

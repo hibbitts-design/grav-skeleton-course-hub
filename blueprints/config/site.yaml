@@ -19,6 +19,13 @@ form:
                         'menu':                Menu
                         'page':                Page
 
+                gitrepo.editnotetext:
+                  type:                        input.text
+                  size:                        long
+                  label:                       Text before Edit Page Link (on only Pages)
+                  default:                     'Have a suggestion or correction?'
+                  description:                 'The text before the View/Edit Git link (only when displayed on a Page). For example, ''Have a suggestion or correction?''.'
+
                 gitrepo.editlinktext:
                   type:                        input.text
                   size:                        medium
