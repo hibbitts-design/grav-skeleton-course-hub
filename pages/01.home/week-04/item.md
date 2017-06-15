@@ -1,6 +1,6 @@
 ---
 title: 'Week 4 (Jan 26th - Feb 1st)'
-date: 01/26/2016
+date: 01/26/2017
 published: false
 ---
 

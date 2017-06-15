@@ -22,6 +22,6 @@ Reading quizzes must be submitted no later than 10:00am class day - no exception
 Students must attain an overall passing grade on the weighted average of exams in the course in order to obtain a clear pass (C or better).  
 
 ##### Required Textbook
-Are you kidding me, in 2016? All required readings will be available on-line.
+Are you kidding me, in 2017? All required readings will be available on-line.
 
 [plugin:content-inject](/sidebar)

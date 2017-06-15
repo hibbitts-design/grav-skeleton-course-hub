@@ -1,6 +1,6 @@
 ---
 title: 'Week 3 (Jan 19th - 25th)'
-date: 01/19/2016
+date: 01/19/2017
 published: true
 ---
 

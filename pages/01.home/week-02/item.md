@@ -1,6 +1,6 @@
 ---
 title: 'Week 2 (Jan 12th - 18th)'
-date: 01/12/2016
+date: 01/12/2017
 published: true
 ---
 

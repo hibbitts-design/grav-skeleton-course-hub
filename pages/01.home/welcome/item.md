@@ -1,19 +1,20 @@
 ---
 title: 'Course Welcome'
-date: '04-01-2016 00:00'
+date: '04-01-2017 00:00'
 process:
+    markdown: true
     twig: true
-fontawesome: use_global
-animate_css: use_global
-wow_js: use_global
-google_prettify: use_global
 icon: users
 hidefrompostlist: false
 continue_link: false
 hidegitrepoeditlink: false
+fontawesome: use_global
+animate_css: use_global
+wow_js: use_global
+google_prettify: use_global
 ---
 
-Welcome to the multi-device friendly course hub for CPT-363 Spring 2016. To help orientate yourself to the course, explore the {% if not grav.uri.param('onlydisplaypagecontent')%}
+Welcome to the multi-device friendly course hub for CPT-363 Spring 2017. To help orientate yourself to the course, explore the {% if not grav.uri.param('onlydisplaypagecontent')%}
 [course syllabus](../../syllabus).{% else %}[course syllabus](../../syllabus/onlydisplaypagecontent:true).{% endif %}
         
 Any required preparations before each class will be posted here by Thursday of the previous week. Assigned weekly reading quizzes must be submitted before 10:00am the day of each class, and please bring a copy of your answers to class to help facilitate possible discussion.
