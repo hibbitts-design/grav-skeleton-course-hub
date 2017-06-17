@@ -30,7 +30,6 @@ gitrepo:
   editlinktext: 'Edit this Page'
   editthemelinklocation: none
   editthemelinktext: 'Site Theme Files'
-  edittreeurl: 'https://github.com/'
   editnotetext: 'Have a suggestion?'
 twittertimeline:
   enabled: false
