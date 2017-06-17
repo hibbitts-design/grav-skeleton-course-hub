@@ -141,6 +141,17 @@ form:
 
             fields:
 
+                hidesidebaronblogpages.enabled:
+                    type:                      toggle
+                    label:                     Display Sidebar on Blog Pages
+                    highlight:                 0
+                    default:                   0
+                    options:
+                        0:                     Yes
+                        1:                     No
+                    validate:
+                        type:                  bool
+
                 twittertimeline.enabled:
                     type:                      toggle
                     label:                     Display Twitter Widget in Sidebar

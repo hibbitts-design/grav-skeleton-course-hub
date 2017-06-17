@@ -4,6 +4,7 @@
 1. [](#new)
     * Added option to hide site navigation elements (useful when embedding pages into another system, e.g. LMS)
     * Added option to customize View/Edit in Git introductory text
+    * Added option to hide sidebar on blog pages
 1. [](#improved)
     * Broadened support for 'onlydisplaypagecontent' URL flag
 

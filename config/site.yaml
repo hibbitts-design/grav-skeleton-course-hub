@@ -43,3 +43,7 @@ cc_license:
   type: ccby
 chromeless:
   enabled: false
+hidesidebaronblog:
+  enabled: '0'
+hidesidebaronblogpages:
+  enabled: false
