@@ -5,6 +5,24 @@ form:
     fields:
         sectionone:
             type:                              section
+            title:                             Chromeless Pages
+            underline:                         true
+
+            fields:
+                chromeless.enabled:
+                    type:                      toggle
+                    label:                     Hide Global Navigation Elements on all Pages
+                    description:               'When enabled, only page content will be displayed. This is often useful when embedding Course Hub pages within another system (e.g. an LMS such as Canvas using the <a href="https://www.eduappcenter.com/apps/63#.WUWhaRPysXo" target="_blank">Redirect Tool</a> LTI).'
+                    highlight:                 0
+                    default:                   0
+                    options:
+                        1:                     Yes
+                        0:                     No
+                    validate:
+                        type:                  bool
+
+        sectionseven:
+            type:                              section
             title:                             Edit Page in Git Link
             underline:                         true
 
@@ -226,21 +244,3 @@ form:
                     label:                     CC License Text
                     validate:
                         type:                  text
-
-        sectionseven:
-            type:                              section
-            title:                             Chromeless Pages
-            underline:                         true
-
-            fields:
-                chromeless.enabled:
-                    type:                      toggle
-                    label:                     Hide Global Navigation Elements on all Pages
-                    description:               'When enabled, only page content will be displayed. This is often useful when embedding Course Hub pages within another system (e.g. an LMS such as Canvas using the <a href="https://www.eduappcenter.com/apps/63#.WUWhaRPysXo" target="_blank">Redirect Tool</a> LTI).'
-                    highlight:                 0
-                    default:                   0
-                    options:
-                        1:                     Yes
-                        0:                     No
-                    validate:
-                        type:                  bool
