@@ -7,6 +7,8 @@
 
 The **Course Hub** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
+> Detailed documentation for the project is now available at http://learn.hibbittsdesign.org/coursehub
+
 **Table of Contents**  
 [Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
 [Why Use a Modern flat-file CMS?](#why-use-a-modern-flat-file-cms)  
