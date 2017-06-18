@@ -1,8 +1,8 @@
 ---
 title: 'Course Welcome'
 date: 01/04/2017
+header_image: '0'
 icon: users
-header_image: false
 hidefrompostlist: false
 continue_link: false
 ---
