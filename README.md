@@ -5,9 +5,9 @@
 
 [![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
-The **Course Hub** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
-
 > Detailed documentation for this project is now available at http://learn.hibbittsdesign.org/coursehub
+
+The **Course Hub** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
 **Table of Contents**  
 [Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
