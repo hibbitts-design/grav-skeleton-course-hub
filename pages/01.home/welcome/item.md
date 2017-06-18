@@ -1,17 +1,10 @@
 ---
 title: 'Course Welcome'
-date: '04-01-2017 00:00'
-process:
-    markdown: true
-    twig: true
+date: 01/04/2017
 icon: users
+header_image: false
 hidefrompostlist: false
 continue_link: false
-hidegitrepoeditlink: false
-fontawesome: use_global
-animate_css: use_global
-wow_js: use_global
-google_prettify: use_global
 ---
 
 Welcome to the multi-device friendly course hub for CPT-363 Spring 2017. To help orientate yourself to the course, explore the [course syllabus](../../syllabus).
@@ -21,3 +14,6 @@ Any required preparations before each class will be posted here by Thursday of t
 A summary of presented materials will usually be posted the day after class.
 
 Please send your comments and feedback to <somename@somewhere.edu>.
+
+![Image of course hub on Apple iPhone](course-companion-iphone.jpg)  
+_Figure 1. Course hub viewed on an Apple iPhone_
