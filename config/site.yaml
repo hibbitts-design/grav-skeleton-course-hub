@@ -15,6 +15,15 @@ summary:
   delimiter: '==='
 blog:
   route: /blog
+chromeless:
+  enabled: '0'
+gitrepo:
+  editlinklocation: menu
+  editnotetext: 'Have a suggestion?'
+  editlinktext: 'Edit this Page'
+  editlinkicon: github
+  editthemelinklocation: none
+  editthemelinktext: 'Site Theme Files'
 displaymenuentries:
   enabled: false
 menu:
@@ -22,27 +31,20 @@ menu:
     text: Grav
     icon: arrow-circle-right
     url: 'http://getgrav.org/'
+hidehomemenulink: false
 icon:
   post: calendar-o
-gitrepo:
-  editlinklocation: menu
-  editlinkicon: github
-  editlinktext: 'Edit this Page'
-  editthemelinklocation: none
-  editthemelinktext: 'Site Theme Files'
-  editnotetext: 'Have a suggestion?'
+hidesidebaronblogpages:
+  enabled: false
 twittertimeline:
   enabled: false
   url: 'https://twitter.com/hibbittsdesign/lists/cpt-363'
   text: 'A Twitter List by @hibbittsdesign'
   height: 700
-hidehomemenulink: false
 cc_license:
   enabled: false
   type: ccby
-chromeless:
-  enabled: false
 hidesidebaronblog:
   enabled: '0'
-hidesidebaronblogpages:
+chromelesspages:
   enabled: false
