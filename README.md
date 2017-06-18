@@ -3,7 +3,7 @@
 [![Demo](https://img.shields.io/badge/Demo-CourseHub-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-course-hub-bones/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-skeleton-course-hub)
+[![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
 The **Course Hub** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
