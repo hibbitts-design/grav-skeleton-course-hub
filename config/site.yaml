@@ -16,7 +16,7 @@ summary:
 blog:
   route: /blog
 chromeless:
-  enabled: '0'
+  enabled: false
 gitrepo:
   editlinklocation: menu
   editnotetext: 'Have a suggestion?'

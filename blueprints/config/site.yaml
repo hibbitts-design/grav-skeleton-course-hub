@@ -9,7 +9,7 @@ form:
             underline:                         true
 
             fields:
-                chromelesspages.enabled:
+                chromeless.enabled:
                     type:                      toggle
                     label:                     Hide Global Navigation Elements on all Pages
                     description:               'When enabled, only page content will be displayed. This is often useful when embedding Course Hub pages within another system (e.g. an LMS such as Canvas using the <a href="https://www.eduappcenter.com/apps/63#.WUWhaRPysXo" target="_blank">Redirect Tool</a> LTI).'
