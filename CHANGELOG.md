@@ -1,5 +1,5 @@
 # v1.5.6
-## XX/XX/XX
+## 06/19/2017
 
 1. [](#improved)
     * Updated site config settings and associated YAML file
