@@ -1,7 +1,8 @@
 # v1.5.6
-## 06/19/2017
+## 06/26/2017
 
 1. [](#improved)
+    * Updated with most recent Course Hub Bootstrap theme
     * Updated site config settings and associated YAML file
 
 # v1.5.5
