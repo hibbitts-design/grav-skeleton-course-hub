@@ -1,3 +1,9 @@
+# v1.5.7
+## 07/03/2017
+
+1. [](#improved)
+    * Updated with most recent Course Hub Bootstrap and Bones themes
+
 # v1.5.6
 ## 06/26/2017
 
