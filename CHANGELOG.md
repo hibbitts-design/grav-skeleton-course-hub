@@ -1,3 +1,9 @@
+# v1.5.8
+## XX/XX/XXXX
+
+1. [](#improved)
+    * Added 'Author' taxonomy tag
+
 # v1.5.7
 ## 07/03/2017
 

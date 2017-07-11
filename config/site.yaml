@@ -6,6 +6,7 @@ author:
 taxonomies:
   - category
   - tag
+  - author
 metadata:
   description: 'A short description of your course would go here'
 summary:
