@@ -1,8 +1,10 @@
 # v1.5.8
-## XX/XX/XXXX
+## 08/02/2017
 
 1. [](#improved)
     * Added 'Author' taxonomy tag
+1. [](#bugfix)
+    * Fixed icon field label when editing custom menu items
 
 # v1.5.7
 ## 07/03/2017

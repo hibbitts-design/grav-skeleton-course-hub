@@ -120,7 +120,7 @@ form:
                         label:                 Text
                       .icon:
                         type:                  text
-                        label:                 Text
+                        label:                 Icon
                       .url:
                         type:                  text
                         label:                 URL
