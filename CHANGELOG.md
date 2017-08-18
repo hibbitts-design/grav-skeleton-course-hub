@@ -2,7 +2,7 @@
 ## 08/18/2017
 
 1. [](#improved)
-    * Updated with most recent Grav and plug versions (including Git Sync)
+    * Updated with most recent Grav and plugin releases (including Git Sync)
 
 # v1.5.8
 ## 08/02/2017
