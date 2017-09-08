@@ -1,3 +1,9 @@
+# v1.6.0
+## XX/XX/XXXX
+
+1. [](#improved)
+    * Added alphabetical as default ordering for home page modular content areas
+
 # v1.5.9
 ## 08/18/2017
 

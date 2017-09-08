@@ -11,6 +11,7 @@ sitemap:
 modular_content:
     items: '@self.modular'
     order:
+        by: folder
         dir: desc
 
 content:
