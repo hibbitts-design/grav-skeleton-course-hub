@@ -2,6 +2,7 @@ enabled: true
 route: /admin
 cache_enabled: false
 theme: grav
+content_padding: false
 sidebar:
   activate: tab
   hover_delay: 100
@@ -11,15 +12,19 @@ dashboard:
 widgets:
   dashboard-maintenance: true
   dashboard-statistics: true
-  dashboard-notifications: true
-  dashboard-feed: true
+  dashboard-notifications: false
+  dashboard-feed: false
   dashboard-pages: true
+pages:
+  show_parents: both
 session:
   timeout: 1800
 warnings:
   delete_page: true
 edit_mode: normal
+frontend_pages_target: _blank
 show_github_msg: true
+pages_list_display_field: title
 google_fonts: true
 enable_auto_updates_check: false
 notifications:
