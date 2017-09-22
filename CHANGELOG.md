@@ -1,3 +1,10 @@
+# v1.6.1
+## 09/22/2017
+
+1. [](#improved)
+    * Changed default Admin Panel widgets to Maintenance, Statistics and Page Updates (to make Page Updates more immediately visible) and removed Content Padding
+    * Added example Twitter Card metadata for Home page (in blog.md file)
+
 # v1.6.0
 ## 09/08/2017
 
