@@ -2,6 +2,7 @@
 ## 09/22/2017
 
 1. [](#improved)
+    * Improved global handling of 'chromeless' display mode for embedded pages (thanks Ricardo)
     * Changed default Admin Panel widgets to Maintenance, Statistics and Page Updates (to make Page Updates more immediately visible) and removed Content Padding
     * Added example Twitter Card metadata for Home page (in blog.md file)
 
