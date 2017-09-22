@@ -26,4 +26,11 @@ feed:
     limit: 10
 
 pagination: false
+
+metadata:
+    'twitter:card' : summary
+    'twitter:site' : @yourtwitteraccount
+    'twitter:title' : Course Hub Title
+    'twitter:description' : Course Hub Description
+    'twitter:image': full_URL_to_headerimage_file
 ---
