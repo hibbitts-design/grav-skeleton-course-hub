@@ -2,6 +2,8 @@
 title: 'Week 2 (Jan 12th - 18th)'
 date: 01/12/2017
 published: true
+header_image_credit: CannedTuna, Flickr.com
+header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/'
 ---
 
 ##### Summaries and Questions  

@@ -2,6 +2,8 @@
 title: 'Week 1 (Jan 5th - 11th)'
 date: 01/05/2017
 published: true
+header_image_credit: 'Amar Dhari, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/13202489@N04/17656394823/'
 ---
 
 ##### Summaries and Questions  

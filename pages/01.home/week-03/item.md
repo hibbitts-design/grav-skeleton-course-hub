@@ -2,6 +2,8 @@
 title: 'Week 3 (Jan 19th - 25th)'
 date: 01/19/2017
 published: true
+header_image_credit: adrian yee, Flickr.com
+header_image_creditlink: 'https://www.flickr.com/photos/135679646@N07/24155248976/in/dateposted/'
 ---
 
 ##### Summaries and Questions  
