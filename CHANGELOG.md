@@ -1,15 +1,25 @@
+# v1.6.2
+## 10/02/2017
+
+1. [](#new)
+    * Added examples of blog post page image headers (Weeks 1-3)
+    * Added example of a checkmarked list in Important Reminders area
+1. [](#bugfix)
+    * Restore 'featured' taxonomy tag in site.yaml file
+
 # v1.6.1
 ## 09/22/2017
 
+1. [](#new)
+    * Added example Twitter Card metadata for Home page (in blog.md file)
 1. [](#improved)
     * Improved global handling of 'chromeless' display mode for embedded pages (thanks Ricardo)
     * Changed default Admin Panel widgets to Maintenance, Statistics and Page Updates (to make Page Updates more immediately visible) and removed Content Padding
-    * Added example Twitter Card metadata for Home page (in blog.md file)
 
 # v1.6.0
 ## 09/08/2017
 
-1. [](#improved)
+1. [](#new)
     * Added alphabetical as default ordering for home page modular content areas
 
 # v1.5.9
@@ -21,7 +31,7 @@
 # v1.5.8
 ## 08/02/2017
 
-1. [](#improved)
+1. [](#new)
     * Added 'Author' taxonomy tag
 1. [](#bugfix)
     * Fixed icon field label when editing custom menu items
