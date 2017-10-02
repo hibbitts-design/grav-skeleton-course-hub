@@ -5,7 +5,7 @@
     * Added examples of blog post page image headers (Weeks 1-3)
     * Added example of a checkmarked list in Important Reminders area
 1. [](#bugfix)
-    * Restore 'featured' taxonomy tag in site.yaml file
+    * Restored 'featured' taxonomy tag in site.yaml file
 
 # v1.6.1
 ## 09/22/2017
