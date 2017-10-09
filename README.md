@@ -167,18 +167,19 @@ hidehomemenulink: false   # suppress Home menu link
 ### Page Options for Blog Items
 Blog item pages support the following additional options:
 ```
-icon: users           # optional Font Awesome icon for page title
-header_image: false   # display of header image located within page folder
-continue_link: false  # display entire post on blog listing page
+icon: users             # optional Font Awesome icon for page title
+header_image: false     # display of header image located within page folder
+continue_link: false    # display entire post on blog listing page
 taxonomy:
-  tag: Featured       # setting to make post 'sticky' (i.e. remain at top)
+  tag: Featured         # setting to make post 'sticky' (i.e. remain at top)
+hidefrompostlist: true  # hide this blog post from blog index
 ```
 
 ### Page Options for All Pages
 All pages support the following additional options:
 ```
-hidegithublink: true  # hide GitHub edit link for this page
-githublink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated GitHub URL
-hidepagetitle: true  # hide the display of the title of this page
+hidegithublink: true    # hide GitHub edit link for this page
+githublink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home     # to override the automatically calculated GitHub URL
+hidepagetitle: true   # hide the display of the title of this page
 ```
 ---

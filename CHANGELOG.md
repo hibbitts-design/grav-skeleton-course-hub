@@ -1,8 +1,17 @@
+# v1.6.3
+## 10/09/2017
+
+1. [](#new)
+    * Added support for image captions on blog post image headers
+    * Added examples of blog post page image headers (Weeks 1-3)
+    * Added support for image alt text on blog post image headers
+1. [](#improved)
+    * Revised Blog Item Image Captions layout in Blueprints
+
 # v1.6.2
 ## 10/02/2017
 
 1. [](#new)
-    * Added examples of blog post page image headers (Weeks 1-3)
     * Added example of a checkmarked list in Important Reminders area
 1. [](#bugfix)
     * Restored 'featured' taxonomy tag in site.yaml file
