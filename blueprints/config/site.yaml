@@ -148,6 +148,7 @@ form:
                     size:                      small
                     label:                     Default Blog Post Font Awesome Icon
                     default:                   'calendar-o'
+                    description:               Short name, e.g. 'calendar-o'.
                     help:                      Determines the default Font Awesome icon used for the blog posts.
                     validate:
                         type:                  text

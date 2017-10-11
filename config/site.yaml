@@ -33,8 +33,6 @@ menu:
     icon: arrow-circle-right
     url: 'http://getgrav.org/'
 hidehomemenulink: false
-icon:
-  post: calendar-o
 hidesidebaronblogpages:
   enabled: false
 twittertimeline:
@@ -49,3 +47,5 @@ hidesidebaronblog:
   enabled: '0'
 chromelesspages:
   enabled: false
+icon:
+  post: calendar-o

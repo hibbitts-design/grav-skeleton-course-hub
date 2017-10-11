@@ -1,3 +1,10 @@
+# v1.6.4
+## 10/11/2017
+
+1. [](#bugfix)
+    * Fixed title alignment issue when no blog post icon is assigned Fixed title alignment issue when no blog post icon is assigned
+    * 'featured' posts are now only displayed on their parent blog page (to support multiple blogs on one site)
+
 # v1.6.3
 ## 10/09/2017
 
@@ -13,8 +20,6 @@
 
 1. [](#new)
     * Added example of a checkmarked list in Important Reminders area
-1. [](#bugfix)
-    * Restored 'featured' taxonomy tag in site.yaml file
 
 # v1.6.1
 ## 09/22/2017
