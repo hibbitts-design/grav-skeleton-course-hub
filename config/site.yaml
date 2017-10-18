@@ -22,7 +22,6 @@ gitrepo:
   editlinklocation: menu
   editnotetext: 'Have a suggestion?'
   editlinktext: 'Edit this Page'
-  editlinkicon: github
   editthemelinklocation: none
   editthemelinktext: 'Site Theme Files'
 displaymenuentries:
