@@ -127,10 +127,10 @@ images:
   auto_fix_orientation: false
 media:
   enable_media_timestamp: false
-  upload_limit: 0
   unsupported_inline_types: {  }
   allowed_fallback_types: {  }
   auto_metadata_exif: false
+  upload_limit: 33554432
 session:
   enabled: true
   timeout: 1800

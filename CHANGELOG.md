@@ -1,3 +1,11 @@
+# v1.6.5
+## 10/20/2017
+
+1. [](#new)
+    * Further streamlined Git Sync setup by automating 'Edit this Page' and 'Site Theme Files' in Git URL calculations
+1. [](#improved)
+    * Updated Open Course Hub site config fields
+
 # v1.6.4
 ## 10/11/2017
 
