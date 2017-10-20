@@ -1,3 +1,9 @@
+# v1.6.6
+## 10/21/2017
+
+1. [](#improved)
+    * Updated 'Edit in Git' tree URL calculation to display page folders for pages with child pages
+
 # v1.6.5
 ## 10/20/2017
 
