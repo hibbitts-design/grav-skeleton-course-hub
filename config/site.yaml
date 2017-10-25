@@ -42,6 +42,7 @@ twittertimeline:
 cc_license:
   enabled: false
   type: ccby
+  icon: false
 hidesidebaronblog:
   enabled: '0'
 chromelesspages:

@@ -23,7 +23,7 @@ form:
 
         sectiontwo:
             type:                              section
-            title:                             Git Sync Link
+            title:                             Git Sync Link Setup
             underline:                         true
 
             fields:
@@ -47,6 +47,19 @@ form:
                         view: View Git Repository
                         edit: View/Edit Page in Git Repository
 
+        sectionthree:
+            type:                              section
+            title:                             Git Sync Link Options
+            underline:                         true
+
+            fields:
+                gitrepo.editnotetext:
+                  type:                        input.text
+                  size:                        long
+                  label:                       Text before Git Sync Link on Pages
+                  default:                     'Have a suggestion or correction?'
+                  description:                 'The text before the Git Sync link (only when displayed on a Page).'
+
                 gitrepo.editlinkicon:
                     type:                      text
                     size:                      small
@@ -62,13 +75,6 @@ form:
                   label:                       Custom Git Sync Link Text
                   description:                 Git Sync link text, e.g. 'View Page in GitHub'.
 
-                gitrepo.editnotetext:
-                  type:                        input.text
-                  size:                        long
-                  label:                       Text before Git Sync Link on Pages
-                  default:                     'Have a suggestion or correction?'
-                  description:                 'The text before the Git Sync link (only when displayed on a Page).'
-
                 gitrepo.edittreeurl:
                     type:                      text
                     size:                      long
@@ -78,9 +84,9 @@ form:
                     validate:
                         type:                  URL
 
-        sectionthree:
+        sectionfour:
             type:                              section
-            title:                             Edit Site Theme Files in Git Link
+            title:                             Site Theme Files in Git Link
             underline:                         true
 
             fields:
@@ -100,7 +106,7 @@ form:
                   default:                     'Site Theme Files'
                   description:                 Customize the Edit Site Theme Files link text.
 
-        sectionfour:
+        sectionfive:
             type:                              section
             title:                             Menubar
             underline:                         true
@@ -145,7 +151,7 @@ form:
                     validate:
                         type:                  bool
 
-        sectionfive:
+        sectionsix:
             type:                              section
             title:                             Blog Posts
             underline:                         true
@@ -161,7 +167,7 @@ form:
                     validate:
                         type:                  text
 
-        sectionsix:
+        sectionseven:
             type:                              section
             title:                             Sidebar
             underline:                         true
@@ -215,7 +221,7 @@ form:
                         min:                   100
                         max:                   1000
 
-        sectionseven:
+        sectioneight:
             type:                              section
             title:                             Creative Commons (CC) License
             underline:                         true
@@ -246,10 +252,21 @@ form:
                       ccbyncsa:                'CC Attribution Non-Commercial Share Alike'
                       ccbyncnd:                'CC Attribution Non-Commercial No Derivatives'
 
+                cc_license.icon:
+                    type:                      toggle
+                    label:                     Display Only CC License Icon
+                    highlight:                 0
+                    default:                   0
+                    options:
+                        0:                     Yes
+                        1:                     No
+                    validate:
+                        type:                  bool
+
                 cc_license.text:
                     type:                      text
                     size:                      long
-                    description:               'For example, ''Except where otherwise noted.'''
-                    label:                     CC License Text
+                    description:               'For example, ''Except for embedded content or elsewhere noted.'''
+                    label:                     Additional CC License Text
                     validate:
                         type:                  text
