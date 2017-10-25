@@ -1,3 +1,16 @@
+# v1.6.7
+## 10/25/2017
+
+1. [](#new)
+    * Added option to display Git Sync Link in Footer area
+    * Added option for Git Sync link to view git repository
+1. [](#improved)
+    * Improved display of 'Site Theme Files' links
+    * Improved display of Git Sync links within pages
+    * Placed 'edit theme' Twig into separate template file
+    * Renamed references of 'Edit Page in Git Link' to 'Git Sync Link'
+    * Revised site.yaml Blueprints to include Git Sync Link option of viewing Git repository
+
 # v1.6.6
 ## 10/21/2017
 
