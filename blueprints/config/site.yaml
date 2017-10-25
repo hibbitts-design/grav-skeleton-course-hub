@@ -23,46 +23,55 @@ form:
 
         sectiontwo:
             type:                              section
-            title:                             Edit Page in Git Link
+            title:                             Git Sync Link
             underline:                         true
 
             fields:
                 gitrepo.editlinklocation:
-                    type:                      select
-                    label:                     Display of Edit Page Link
-                    default:                   None
-                    size:                      small
+                    type: select
+                    size: medium
+                    label: Display of Git Sync Link
+                    default: menu
                     options:
-                        'none':                None
-                        'menu':                Menu
-                        'page':                Page
+                        menu: Menu
+                        page: Page (visible when 'Chromeless')
+                        footer: Footer
+                        none: None
 
-                gitrepo.editnotetext:
-                  type:                        input.text
-                  size:                        long
-                  label:                       Text before Edit Page Link (on only Pages)
-                  default:                     'Have a suggestion or correction?'
-                  description:                 'The text before the View/Edit Git link (only when displayed on a Page). For example, ''Have a suggestion or correction?''.'
-
-                gitrepo.editlinktext:
-                  type:                        input.text
-                  size:                        medium
-                  label:                       Edit Page Link Text
-                  default:                     'Edit this Page'
-                  description:                 Modify the View/Edit Page in Git link text.
+                gitrepo.typeofgitsyncrepolink:
+                    type: select
+                    size: medium
+                    label: Type of Git Sync Link
+                    default: edit
+                    options:
+                        view: View Git Repository
+                        edit: View/Edit Page in Git Repository
 
                 gitrepo.editlinkicon:
                     type:                      text
                     size:                      small
-                    label:                     Custom Edit Page Link Font Awesome Icon
-                    description:               Icon short name.
-                    help:                      Enter the short name of the Font Awesome icon for the link, for example 'gitlab'.
+                    label:                     Custom Git Sync Font Awesome Icon
+                    description:               Short name, e.g. 'code-fork'.
+                    help:                      Icon short name.
                     validate:
                         type:                  text
 
+                gitrepo.editlinktext:
+                  type:                        input.text
+                  size:                        medium
+                  label:                       Custom Git Sync Link Text
+                  description:                 Git Sync link text, e.g. 'View Page in GitHub'.
+
+                gitrepo.editnotetext:
+                  type:                        input.text
+                  size:                        long
+                  label:                       Text before Git Sync Link on Pages
+                  default:                     'Have a suggestion or correction?'
+                  description:                 'The text before the Git Sync link (only when displayed on a Page).'
+
                 gitrepo.edittreeurl:
                     type:                      text
-                    size:                      large
+                    size:                      long
                     label:                     Custom Git Repository Tree URL
                     help:                      Enter the URL that leads to the pages folder of your Git Repository.
                     description:               "URL path to the pages folder, but with '/pages' and everything following it removed. For example, 'https://github.com/paulhibbitts/demo-grav-course-hub/tree/master'."

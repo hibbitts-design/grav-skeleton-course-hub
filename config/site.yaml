@@ -19,11 +19,12 @@ blog:
 chromeless:
   enabled: false
 gitrepo:
-  editlinklocation: menu
-  editnotetext: 'Have a suggestion?'
-  editlinktext: 'Edit this Page'
+  editlinklocation: page
   editthemelinklocation: none
   editthemelinktext: 'Site Theme Files'
+  typeofgitsyncrepolink: edit
+  edittreeurl: 'https://github.com/paulhibbitts/test-grav-skeleton-course-hub-site/tree/master'
+  editnotetext: 'Have a suggestion?'
 displaymenuentries:
   enabled: false
 menu:
