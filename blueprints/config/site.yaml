@@ -96,8 +96,8 @@ form:
                     default:                   None
                     size:                      small
                     options:
-                        'none':                None
-                        'footer':              Footer
+                          'footer':            Footer
+                          'none':              None
 
                 gitrepo.editthemelinktext:
                   type:                        input.text
