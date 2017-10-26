@@ -1,3 +1,10 @@
+# v1.6.8
+## 10/26/2017
+
+1. [](#improved)
+    * Adjusted order of items in Footer area
+    * Updated site.yaml blueprints file
+
 # v1.6.7
 ## 10/25/2017
 
