@@ -19,6 +19,3 @@ Another Name
 [Quizzes](https://canvas.sfu.ca/courses/25492/quizzes)  
 [Class Discussions](https://canvas.sfu.ca/courses/25492/discussion_topics)  
 [Grades](https://canvas.sfu.ca/grades)  
-
-##### Twitter
-<a class="twitter-timeline" data-width="500" data-height="600" data-chrome="noscrollbar" href="https://twitter.com/hibbittsdesign/lists/cpt-363">A Twitter List by hibbittsdesign</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
