@@ -1,3 +1,9 @@
+# v1.6.9
+## 10/27/2017
+
+1. [](#improved)
+    * Updated single course demo pages
+
 # v1.6.8
 ## 10/26/2017
 
