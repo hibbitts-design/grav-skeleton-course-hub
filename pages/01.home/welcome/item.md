@@ -3,7 +3,7 @@ title: 'Course Welcome'
 date: 01/04/2017
 header_image: '0'
 icon: users
-hidefrompostlist: false
+hide_from_post_list: false
 continue_link: false
 ---
 
