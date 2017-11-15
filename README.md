@@ -172,14 +172,14 @@ header_image: false     # display of header image located within page folder
 continue_link: false    # display entire post on blog listing page
 taxonomy:
   tag: Featured         # setting to make post 'sticky' (i.e. remain at top)
-hidefrompostlist: true  # hide this blog post from blog index
+hide_from_post_list: true  # hide this blog post from blog index
 ```
 
 ### Page Options for All Pages
 All pages support the following additional options:
 ```
-hidegithublink: true    # hide GitHub edit link for this page
-githublink: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home     # to override the automatically calculated GitHub URL
-hidepagetitle: true   # hide the display of the title of this page
+hide_git_sync_repo_link: true    # hide GitHub edit link for this page
+git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home     # to override the automatically calculated GitHub URL
+hide_page_title: true   # hide the display of the title of this page
 ```
 ---
