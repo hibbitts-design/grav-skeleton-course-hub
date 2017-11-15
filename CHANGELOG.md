@@ -5,7 +5,7 @@
     * Revised page header settings for non-published pages to non-visible
     * Updated ReadMe file with revised page header option names
 
- v1.6.9
+# v1.6.9
 ## 10/27/2017
 
 1. [](#improved)
