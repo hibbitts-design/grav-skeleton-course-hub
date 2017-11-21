@@ -1,5 +1,5 @@
 ---
-title: 'Canvas Home'
+title: 'Mini Home'
 cache_enable: false
 visible: false
 page-inject:
