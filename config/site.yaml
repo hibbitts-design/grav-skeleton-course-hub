@@ -35,7 +35,7 @@ hidehomemenulink: false
 hidesidebaronblogpages:
   enabled: false
 twittertimeline:
-  enabled: true
+  enabled: false
   url: 'https://twitter.com/hibbittsdesign/lists/cpt-363'
   text: 'A Twitter Lists by @hibbittsdesign'
   height: 700
