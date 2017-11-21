@@ -57,8 +57,7 @@ form:
                   type:                        input.text
                   size:                        long
                   label:                       Text before Git Sync Link on Pages
-                  default:                     'Have a suggestion or correction?'
-                  description:                 'The text before the Git Sync link (only when displayed on a Page).'
+                  description:                 The text before the Git Sync link when displayed on a page, e.g. 'Have a suggestion or correction?'.
 
                 gitrepo.editlinkicon:
                     type:                      text
