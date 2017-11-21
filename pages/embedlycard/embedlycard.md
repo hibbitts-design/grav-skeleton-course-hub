@@ -1,6 +1,6 @@
 ---
 title: 'Embedly Card'
-embedly_card_title: 'What’s The Best Design Advice You’ve Ever Received?'
+embedly_card_title: 'Embedly makes your content more engaging and easier to share | Embedly'
 embedly_card_alignment: left
 embedly_card_url: 'http://embed.ly/'
 published: true
