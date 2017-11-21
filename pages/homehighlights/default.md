@@ -1,5 +1,5 @@
 ---
-title: 'Mini Home'
+title: 'Home Highlights'
 cache_enable: false
 visible: false
 page-inject:

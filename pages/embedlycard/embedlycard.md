@@ -1,5 +1,5 @@
 ---
-title: 'My Embedly Card'
+title: 'Embedly Card'
 embedly_card_title: 'What’s The Best Design Advice You’ve Ever Received?'
 embedly_card_alignment: left
 embedly_card_url: 'http://embed.ly/'
