@@ -19,3 +19,5 @@ Another Name
 [Quizzes](https://canvas.sfu.ca/courses/25492/quizzes)  
 [Class Discussions](https://canvas.sfu.ca/courses/25492/discussion_topics)  
 [Grades](https://canvas.sfu.ca/grades)  
+
+[plugin:page-inject](/twitterfeed)
