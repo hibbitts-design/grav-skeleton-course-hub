@@ -10,3 +10,6 @@ filter_combinator: and
 filters:
   category: blog
   0: documentation
+taxonomy_names:
+  month: archives_month
+  year: archives_year
