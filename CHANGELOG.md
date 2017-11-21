@@ -1,3 +1,14 @@
+# v1.7.1
+## 11/21/2017
+
+1. [](#new)
+    * Added example 'Accordion' page in theme '_demo' pages folder
+    * Added example 'Home Highlights' page for embedding into another system (i.e. LMS)
+    * Added example 'Twitter Feed' page for use with included Page Inject plugin
+    * Added example 'Embed.ly Card' page for use with included Page Inject plugin
+1. [](#improved)
+    * Removed default of text before 'Git Sync Link on Pages' link on Pages
+
 # v1.7.0
 ## 11/15/2017
 
