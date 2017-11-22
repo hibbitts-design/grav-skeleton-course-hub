@@ -7,6 +7,7 @@ form:
             type:                              section
             title:                             Chromeless Pages
             underline:                         true
+            ordering@:                         1
 
             fields:
                 chromeless.enabled:
@@ -25,6 +26,7 @@ form:
             type:                              section
             title:                             Git Sync Link Setup
             underline:                         true
+            ordering@:                         2
 
             fields:
                 gitrepo.editlinklocation:
@@ -51,6 +53,7 @@ form:
             type:                              section
             title:                             Git Sync Link Options
             underline:                         true
+            ordering@:                         3
 
             fields:
                 gitrepo.editnotetext:
@@ -85,13 +88,14 @@ form:
 
         sectionfour:
             type:                              section
-            title:                             Site Theme Files in Git Link
+            title:                             Git Sync Site Theme Files Link
             underline:                         true
+            ordering@:                         4
 
             fields:
                 gitrepo.editthemelinklocation:
                     type:                      select
-                    label:                     Display of Edit Site Theme Files Link
+                    label:                     Display of Site Theme Files Link
                     default:                   None
                     size:                      small
                     options:
@@ -101,14 +105,15 @@ form:
                 gitrepo.editthemelinktext:
                   type:                        input.text
                   size:                        medium
-                  label:                       Edit Site Theme Files Link Text
+                  label:                       Site Theme Files Link Text
                   default:                     'Site Theme Files'
-                  description:                 Customize the Edit Site Theme Files link text.
+                  description:                 Customize the Site Theme Files link text.
 
         sectionfive:
             type:                              section
             title:                             Menubar
             underline:                         true
+            ordering@:                         5
 
             fields:
                 displaymenuentries.enabled:
@@ -152,24 +157,9 @@ form:
 
         sectionsix:
             type:                              section
-            title:                             Blog Posts
+            title:                             Blog Options
             underline:                         true
-
-            fields:
-                icon.post:
-                    type:                      text
-                    size:                      small
-                    label:                     Default Blog Post Font Awesome Icon
-                    default:                   'calendar-o'
-                    description:               Short name, e.g. 'calendar-o'.
-                    help:                      Determines the default Font Awesome icon used for the blog posts.
-                    validate:
-                        type:                  text
-
-        sectionseven:
-            type:                              section
-            title:                             Sidebar
-            underline:                         true
+            ordering@:                         6
 
             fields:
 
@@ -184,46 +174,21 @@ form:
                     validate:
                         type:                  bool
 
-                twittertimeline.enabled:
-                    type:                      toggle
-                    label:                     Display Twitter Widget in Sidebar
-                    highlight:                 1
-                    default:                   0
-                    options:
-                        1:                     Yes
-                        0:                     No
-                    validate:
-                        type:                  bool
-
-                twittertimeline.url:
+                icon.post:
                     type:                      text
-                    size:                      large
-                    label:                     Twitter Widget URL
-                    help:                      Enter the URL for your embedable Twitter Widget.
-                    validate:
-                        type:                  URL
-
-                twittertimeline.text:
-                    type:                      text
-                    size:                      large
-                    label:                     Twitter Widget Text
+                    size:                      medium
+                    label:                     Default Blog Post Font Awesome Icon
+                    default:                   'calendar-o'
+                    description:               Short name, e.g. 'calendar-o'.
+                    help:                      Determines the default Font Awesome icon used for the blog posts.
                     validate:
                         type:                  text
 
-                twittertimeline.height:
-                    type:                      text
-                    size:                      small
-                    label:                     Twitter Widget Height (px)
-                    default:                   600
-                    validate:
-                        type:                  int
-                        min:                   100
-                        max:                   1000
-
-        sectioneight:
+        sectionseven:
             type:                              section
             title:                             Creative Commons (CC) License
             underline:                         true
+            ordering@:                         7
 
             fields:
                 cc_license.enabled:
