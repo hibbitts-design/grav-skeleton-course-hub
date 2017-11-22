@@ -1,8 +1,8 @@
 title: CPT-363
 default_lang: en
 author:
-  name: 'John Appleseed'
-  email: john@email.com
+  name: 'Site Author'
+  email: siteauthor@email.com
 taxonomies:
   - category
   - tag
