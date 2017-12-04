@@ -18,8 +18,8 @@ header_image_creditlink: 'https://www.flickr.com/photos/135679646@N07/2415524897
 [Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440792)
 
 ##### Presented Slides  
-User Research Slides ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder/) | [PDF Slides](http://1drv.ms/1PKX6bG))
-<div class="embed-responsive embed-responsive-4by3"><iframe class="embed-responsive-item" src="//slides.com/paulhibbitts/cpt-363-slides-placeholder/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+User Research Slides ([HTML Slides](https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/pub?start=false&loop=false&delayms=3000) | [PDF Slides](https://drive.google.com/file/d/1-2dE9_C5zepdHuzSLeZSuyRVWMYNmhmc/view?usp=sharing))
+<div class="embed-responsive embed-responsive-4by3"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ##### Supplemental Video  
 [What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
