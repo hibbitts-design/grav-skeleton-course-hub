@@ -10,7 +10,7 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/'
 [Jan 12th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440793)
 
 ##### Presented Slides  
-[The Process of UX Design Slides](https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/pub?start=false&loop=false&delayms=3000)  
+[The Process of UX Design Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#)  
 
 ===
 
@@ -18,8 +18,8 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/'
 [Jan 12th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440793)
 
 ##### Presented Slides  
-The Process of UX Design ([HTML Slides](https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/pub?start=false&loop=false&delayms=3000) | [PDF Slides](https://drive.google.com/file/d/1-2dE9_C5zepdHuzSLeZSuyRVWMYNmhmc/view?usp=sharing))  
-<div class="embed-responsive embed-responsive-4by3"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#) | [PDF Slides](https://1drv.ms/b/s!Aoj9Cstt0NJ0kf5mGIuGPuvI4haUbw))  
+<div class="embed-responsive embed-responsive-4by3"><iframe src="//slides.com/paulhibbitts/cpt-363-slides-placeholder/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ##### Assignments  
 [UI Assessment (Peer Reviews Required for Grade)](https://canvas.sfu.ca/courses/22099/assignments/112756)  
