@@ -10,7 +10,7 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/'
 [Jan 12th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440793)
 
 ##### Presented Slides  
-[The Process of UX Design Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#/)  
+[The Process of UX Design Slides](https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/pub?start=false&loop=false&delayms=3000)  
 
 ===
 

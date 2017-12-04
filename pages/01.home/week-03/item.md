@@ -10,7 +10,7 @@ header_image_creditlink: 'https://www.flickr.com/photos/135679646@N07/2415524897
 [Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440792)
 
 ##### Presented Slides  
-[User Research Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#/)  
+[User Research Slides](https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/pub?start=false&loop=false&delayms=3000)  
 
 ===
 

@@ -10,7 +10,7 @@ published: true
 
 #### [Week 2 (Jan 12th - 18th)](/home/week-02)
 **What does a holistic user experience design process look like?**  
-[The Process of UX Design Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#/)  
+[The Process of UX Design Slides](https://docs.google.com/presentation/d/e/2PACX-1vQmpVqGLyQHvH0sgZBJgMAzk2BOlKptIvNUMqmqn6BneVU8ItH3qMmthdEgc_23Wn-GlmdypqHr-_SY/pub?start=false&loop=false&delayms=3000)  
 [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
 #### [Week 3 (Jan 19th - 25th)](/home/week-03)
