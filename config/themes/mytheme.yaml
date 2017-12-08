@@ -1,0 +1,9 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/mytheme, user/themes/course-hub-bootstrap, user/themes/bootstrap]
+dropdown:
+  enabled: true
+bootstrapcss: default
