@@ -1,3 +1,12 @@
+# v1.7.2
+## 12/07/2017
+
+1. [](#new)
+    * Added experimental CSS styling option for Bootstrap Course Hub theme to better match Canvas LMS when embedding content
+1. [](#improved)
+    * Changed default new page type in Admin Panel to page with sidebar
+    * Updated example embedded slides and associated HTML and PDF links
+
 # v1.7.1
 ## 11/21/2017
 
