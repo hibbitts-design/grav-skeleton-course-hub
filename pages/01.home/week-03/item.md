@@ -18,7 +18,7 @@ header_image_creditlink: 'https://www.flickr.com/photos/135679646@N07/2415524897
 [Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440792)
 
 ##### Presented Slides  
-User Research Slides ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#) | [PDF Slides](https://1drv.ms/b/s!Aoj9Cstt0NJ0kf5mGIuGPuvI4haUbw))
+User Research Slides ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#) | [PDF Slides](#))
 <div class="embed-responsive embed-responsive-4by3"><iframe src="//slides.com/paulhibbitts/cpt-363-slides-placeholder/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ##### Supplemental Video  
