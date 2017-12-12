@@ -1,7 +1,7 @@
 ---
 title: 'Home for Embedding'
-cache_enable: false
 visible: false
+hide_page_title: true
 page-inject:
     processed_content: null
 ---
@@ -12,4 +12,4 @@ page-inject:
 
 <hr>
 
-[plugin:page-inject](/embedlycard)
+[plugin:page-inject](/twitter-feed)

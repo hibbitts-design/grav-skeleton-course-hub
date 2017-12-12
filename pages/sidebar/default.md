@@ -1,5 +1,5 @@
 ---
-title: 'Sidebar'
+title: Sidebar
 routable: false
 visible: false
 ---
@@ -20,4 +20,4 @@ Another Name
 [Class Discussions](https://canvas.sfu.ca/courses/25492/discussion_topics)  
 [Grades](https://canvas.sfu.ca/grades)  
 
-[plugin:page-inject](/twitterfeed)
+[plugin:page-inject](/twitter-feed)

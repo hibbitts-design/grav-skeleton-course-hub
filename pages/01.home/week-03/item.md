@@ -26,6 +26,4 @@ User Research Slides ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slide
 <div class="embed-responsive embed-responsive-4by3"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/7099570?title=0&byline=0&portrait=0" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ##### Required Reading  
-[A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/)  
-<a class="embedly-card" data-card-align="left" href="http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/">A Five-Step Process For Conducting User Research</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[plugin:page-inject](/required-readings/week-03)

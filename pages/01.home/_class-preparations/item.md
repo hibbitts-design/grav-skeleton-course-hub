@@ -6,7 +6,7 @@ published: true
 ### Jan 26th Class Preparations
 
 ##### Required Readings
-[Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
+[plugin:page-inject](/required-readings/week-04?template=embedlycardlinkonly)
 
 [Required Reading Quiz](https://canvas.sfu.ca/courses/25492/quizzes/34783?classes=btn,btn-primary)
 

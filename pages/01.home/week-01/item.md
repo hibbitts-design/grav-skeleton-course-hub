@@ -6,9 +6,6 @@ header_image_credit: 'Amar Dhari, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/13202489@N04/17656394823/'
 ---
 
-##### Summaries and Questions  
-[Jan 5th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440794)
-
 ##### Presented Slides  
 [Course Overview Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#)  
 [Introduction to UX Design Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#)
@@ -31,7 +28,5 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-
 ##### Assignments
 [UX Topic Summary](https://canvas.sfu.ca/courses/25492/assignments/142519)  
 
-##### Suggested Reading  
-[Five Ways to Become a Better Team Player](http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/)  
-<a class="embedly-card" data-card-align="left" href="http://www.forbes.com/sites/dorieclark/2012/03/28/five-ways-to-become-a-better-team-player/">Five Ways to Become a Better Team Player</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+##### Recommended Reading  
+[plugin:page-inject](/required-readings/week-01)

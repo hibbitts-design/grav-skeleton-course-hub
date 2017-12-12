@@ -26,8 +26,5 @@ The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-s
 
 ##### Handouts  
 [Microsoft Product Reaction Cards (DOC)](http://www.microsoft.com/usability/UEPostings/ProductReactionCards.doc)  
-
 ##### Required Readings  
-[Usability 101: Introduction to Usability](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
-<a class="embedly-card" data-card-align="left" href="http://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[plugin:page-inject](/required-readings/week-02)
