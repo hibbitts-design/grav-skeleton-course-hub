@@ -6,16 +6,13 @@ header_image_credit: adrian yee, Flickr.com
 header_image_creditlink: 'https://www.flickr.com/photos/135679646@N07/24155248976/in/dateposted/'
 ---
 
-##### Summaries and Questions  
-[Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440792)
-
 ##### Presented Slides  
 [User Research Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#)  
 
 ===
 
 ##### Summaries and Questions  
-[Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440792)
+[Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/707341)
 
 ##### Presented Slides  
 User Research Slides ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#) | [PDF Slides](#))
