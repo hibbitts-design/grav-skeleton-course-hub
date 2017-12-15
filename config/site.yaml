@@ -31,7 +31,7 @@ menu:
     text: Grav
     icon: arrow-circle-right
     url: 'http://getgrav.org/'
-hidehomemenulink: false
+hidehomemenulink: true
 hidesidebaronblogpages:
   enabled: false
 twittertimeline:
