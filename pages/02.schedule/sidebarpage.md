@@ -8,13 +8,13 @@ published: true
 :fa-pencil: Create [team project group](https://canvas.sfu.ca/courses/36662/users) by Sep 13th   
 :fa-desktop: [Course Overview](https://swipe.to/9967fp)  
 :fa-desktop: [Introduction to UX Design](https://swipe.to/9967fp)  
-:fa-book:[Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
+:fa-book: [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
 #### [:fa-calendar: Week 2 (Sep 13 - 19)](/home/week-02)
 **What does a holistic user experience design process look like?**  
 :fa-pencil: [Project Proposal](https://canvas.sfu.ca/courses/36662/assignments/267529) due Sep 19th  
 :fa-desktop: [The Process of UX Design](https://swipe.to/9967fp)  
-:fa-book: [pDesigning Digital Products with Mental Models](https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2)  
+:fa-book: [Designing Digital Products with Mental Models](https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2)  
 :fa-users: In-class office hours (tentative)  
 
 #### [:fa-calendar: Week 3 (Sep 20 - 26)](/home/week-03)
