@@ -6,7 +6,7 @@ published: true
 ### Oct 4th Class Preparations
 
 ##### Required Reading
-[plugin:page-inject](/required-readings/week-05)
+[A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
 
 [Required Reading Quiz](https://canvas.sfu.ca/courses/36662/quizzes/65506?classes=btn,btn-primary)
 

@@ -15,7 +15,8 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 [Sep 13th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267537)
 
 ##### Presented Slides  
-[plugin:page-inject](/slide-decks/week-02)
+The Process of UX Design ([Download slides as PDF](#))
+<div class="embed-responsive embed-responsive-16by9"><figure><iframe src="https://www.swipe.to/embed/9967fp" allowfullscreen></iframe></figure></div>
 
 ##### CMPT-363 UX Design Process/Toolkit
 ![CMPT-363 UX Design Process/Toolkit Diagram](/images/ux-design-process-v4.png)
@@ -27,9 +28,5 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 [Product Reaction Cards](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Product%20Reaction%20Cards)  
 
 ##### Recommended Reading  
-[plugin:page-inject](/required-readings/week-02)
-
-##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/user-centered-design)   
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).
+<a class="embedly-card" data-card-align="left" href="https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2">Designing Digital Products with Mental Models</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

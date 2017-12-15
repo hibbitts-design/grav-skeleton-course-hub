@@ -19,9 +19,13 @@ hide_from_post_list: false
 [Sep 6th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267528)
 
 ##### Presented Slides  
+Introduction to UX ([Download slides as PDF](#))
+<div class="embed-responsive embed-responsive-16by9"><figure><iframe src="https://www.swipe.to/embed/9967fp" allowfullscreen></iframe></figure></div>
+<br>
 
-[plugin:page-inject](/slide-decks/week-01-01)
-[plugin:page-inject](/slide-decks/week-01-02)
+Introduction to UX ([Download slides as PDF](#))
+<div class="embed-responsive embed-responsive-16by9"><figure><iframe src="https://www.swipe.to/embed/9967fp" allowfullscreen></iframe></figure></div>
+<br>
 
 ##### Assignments
 Create [team project group](https://canvas.sfu.ca/courses/36662/users)
@@ -30,11 +34,5 @@ Create [team project group](https://canvas.sfu.ca/courses/36662/users)
 [Course Overview](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Course%20Overview)  
 
 ##### Recommended Reading  
-[plugin:page-inject](/required-readings/week-01)
-
-##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques-guide/what-is-usability-and-user-experience-design/problem-statements)
-[plugin:content-inject](/ux-techniques-guide/what-is-usability-and-user-experience-design/usability)
-[plugin:content-inject](/ux-techniques-guide/what-is-usability-and-user-experience-design/user-experience-design)  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).
+<a class="embedly-card" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
