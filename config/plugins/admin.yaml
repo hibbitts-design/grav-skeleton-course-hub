@@ -3,6 +3,7 @@ route: /admin
 cache_enabled: false
 theme: grav
 content_padding: false
+twofa_enabled: true
 sidebar:
   activate: tab
   hover_delay: 100
@@ -41,3 +42,10 @@ popularity:
     daily: '30'
     monthly: '12'
     visitors: '20'
+hide_page_types:
+  - embedlycardlinkonly
+  - swipedecklinkonly
+  - page
+hide_modular_page_types:
+  - class-preparations
+  - important-reminders
