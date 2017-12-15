@@ -1,26 +1,34 @@
 ---
-title: 'Week 3 (Jan 19th - 25th)'
-date: 01/19/2017
+title: 'Week 3 (Sep 20 - 26)'
 published: true
-header_image_credit: adrian yee, Flickr.com
-header_image_creditlink: 'https://www.flickr.com/photos/135679646@N07/24155248976/in/dateposted/'
+date: '20-09-2017 00:00'
+header_image_credit: 'Emilio Küffer, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'
 ---
 
-##### Presented Slides  
-[User Research Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#)  
+##### Presented Slides
+[Strategic UX Design](https://swipe.to/9967fp)
 
 ===
 
 ##### Summaries and Questions  
-[Jan 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/707341)
+[Sep 20th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267536)
 
 ##### Presented Slides  
-User Research Slides ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#) | [PDF Slides](#))
-<div class="embed-responsive embed-responsive-4by3"><iframe src="//slides.com/paulhibbitts/cpt-363-slides-placeholder/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+[plugin:page-inject](/slide-decks/week-03)
 
-##### Supplemental Video  
-[What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
-<div class="embed-responsive embed-responsive-4by3"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/7099570?title=0&byline=0&portrait=0" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+##### Assignments
+[Project Proposal - Group Component](https://canvas.sfu.ca/courses/36662/assignments/240534)  
+[Project Proposal - Individual Component](https://canvas.sfu.ca/courses/36662/assignments/240533)  
 
 ##### Required Reading  
 [plugin:page-inject](/required-readings/week-03)
+
+##### Supplemental Readings  
+[plugin:content-inject](/ux-techniques-guide/how-to-make-more-strategic-design-decisions/journey-mapping)
+[plugin:content-inject](/ux-techniques-guide/what-is-usability-and-user-experience-design/problem-statements)  
+[plugin:content-inject](/ux-techniques-guide/how-to-make-more-strategic-design-decisions/design-principles-product)  
+[plugin:content-inject](/ux-techniques-guide/how-to-make-more-strategic-design-decisions/value-proposition)  
+[plugin:content-inject](/ux-techniques-guide/how-to-make-more-strategic-design-decisions/user-experience-strategy)  
+
+Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).

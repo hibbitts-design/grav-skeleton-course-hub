@@ -1,7 +1,10 @@
 ---
-title: 'Week 7 (Feb 16th - 22nd)'
-date: 02/16/2017
+title: 'Week 7 (Oct 18 - Oct 24)'
+date: 10/18/2017
 published: false
+hide_from_post_list: true
+header_image_credit: Samuel Mann, Flickr.com
+header_image_creditlink: 'https://www.flickr.com/photos/21218849@N03/6968244538/'
 ---
 
 <!--- Your weekly summary content goes below here -->

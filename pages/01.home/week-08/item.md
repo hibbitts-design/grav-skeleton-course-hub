@@ -1,7 +1,10 @@
 ---
-title: 'Week 8 (Feb 23rd - 29th)'
-date: 02/23/2017
+title: 'Week 8 (Oct 25 - Oct 31)'
+date: 10/25/2017
 published: false
+hide_from_post_list: true
+header_image_credit: Matt Cottam, Flickr.com
+header_image_creditlink: 'https://www.flickr.com/photos/mattcottam/6192507935/'
 ---
 
 <!--- Your weekly summary content goes below here -->

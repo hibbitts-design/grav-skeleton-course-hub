@@ -5,4 +5,5 @@ embedly_card_alignment: left
 embedly_card_url: 'http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/'
 published: true
 visible: false
+embedly_card_display: true
 ---

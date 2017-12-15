@@ -1,30 +1,35 @@
 ---
-title: 'Week 2 (Jan 12th - 18th)'
-date: 01/12/2017
+title: 'Week 2 (Sep 13 - 19)'
 published: true
-header_image_credit: CannedTuna, Flickr.com
-header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/'
+date: '13-09-2017 00:00'
+header_image_credit: 'CannedTuna, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 ---
 
-##### Summaries and Questions  
-[Jan 12th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440793)
-
-##### Presented Slides  
-[The Process of UX Design Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#)  
+##### Presented Slides
+[The Process of UX Design](https://swipe.to/9967fp)  
 
 ===
 
 ##### Summaries and Questions  
-[Jan 12th Class One-minute Summaries](https://canvas.sfu.ca/courses/25492/discussion_topics/440793)
+[Sep 13th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267537)
 
 ##### Presented Slides  
-The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#) | [PDF Slides](#))  
-<div class="embed-responsive embed-responsive-4by3"><iframe src="//slides.com/paulhibbitts/cpt-363-slides-placeholder/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+[plugin:page-inject](/slide-decks/week-02)
 
-##### Assignments  
-[UI Assessment (Peer Reviews Required for Grade)](https://canvas.sfu.ca/courses/22099/assignments/112756)  
+##### CMPT-363 UX Design Process/Toolkit
+![CMPT-363 UX Design Process/Toolkit Diagram](/images/ux-design-process-v4.png)
 
-##### Handouts  
-[Microsoft Product Reaction Cards (DOC)](http://www.microsoft.com/usability/UEPostings/ProductReactionCards.doc)  
-##### Required Readings  
+##### Assignments
+[Project Proposal](https://canvas.sfu.ca/courses/36662/assignments/267529)   
+
+##### Handouts
+[Product Reaction Cards](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Product%20Reaction%20Cards)  
+
+##### Recommended Reading  
 [plugin:page-inject](/required-readings/week-02)
+
+##### Supplemental Readings  
+[plugin:content-inject](/ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/user-centered-design)   
+
+Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).

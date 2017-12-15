@@ -1,8 +1,9 @@
 ---
-title: 'Week 1 - Five Ways to Become a Better Team Player'
-embedly_card_title: 'Five Ways to Become a Better Team Player'
+title: 'Week 1 - Usability 101: Introduction to Usability'
+embedly_card_title: 'Usability 101: Introduction to Usability'
 embedly_card_alignment: left
-embedly_card_url: 'https://www.forbes.com/sites/dorieclark/2012/03/28/five-ways-to-become-a-better-team-player/'
+embedly_card_url: 'https://www.nngroup.com/articles/usability-101-introduction-to-usability/'
 published: true
 visible: false
+embedly_card_display: true
 ---

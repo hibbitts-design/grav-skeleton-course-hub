@@ -5,4 +5,5 @@ embedly_card_alignment: left
 embedly_card_url: 'http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html'
 published: true
 visible: false
+embedly_card_display: true
 ---

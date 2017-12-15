@@ -1,30 +1,34 @@
 ---
-title: Week 4 (Jan 26th - Feb 1st)
-date: 01/26/2017
-process:
-    twig: true
+title: 'Week 4 (Sep 27 - Oct 3)'
 published: true
-hide_from_post_list: true
+date: '27-09-2017 00:00'
+header_image_credit: 'Rick Dolishny, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/rdolishny/2760207306/'
 ---
 
-##### Summaries and Questions
-*   [Oct 5th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
-
 ##### Presented Slides
-*   [User Modeling and Usage Stories Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)  
+[User Interface Inspections](https://swipe.to/9967fp)
 
 ===
 
-##### Summaries and Questions
-[Oct 5th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
+##### Summaries and Questions  
+[Sep 27th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267535)
 
 ##### Presented Slides  
-User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts/cpt-363-slides-placeholder#) | [PDF Slides](#))
-<div class="embed-responsive embed-responsive-4by3"><iframe src="//slides.com/paulhibbitts/cpt-363-slides-placeholder/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+[plugin:page-inject](/slide-decks/week-04)
 
-##### Assignments  
-[Needsfinding and Exploratory Sketches Assignment](https://canvas.sfu.ca/courses/22099/assignments/112758)  
-[Empathy Map Template (PNG)](http://www.innovationlabs.org.uk/wp-content/uploads/2014/04/Empathy-Map-No-Stickies.png)  
+##### Supplemental Materials  
+[plugin:youtube](https://www.youtube.com/watch?v=gSm6bOw-KcQ)
+
+##### Assignments
+[Usability Inspection (Peer Reviews Required for Grade)](https://canvas.sfu.ca/courses/36662/assignments/267545)   
+[Usability Inspection Report Template](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Usability%20Inspection%20Report%20Template#)
 
 ##### Required Reading  
 [plugin:page-inject](/required-readings/week-04)
+
+##### Supplemental Readings  
+[plugin:content-inject](/ux-techniques-guide/how-to-conduct-a-usability-inspection/cognitive-walkthroughs)  
+[plugin:content-inject](/ux-techniques-guide/how-to-conduct-a-usability-inspection/heuristic-evaluations)  
+
+Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).

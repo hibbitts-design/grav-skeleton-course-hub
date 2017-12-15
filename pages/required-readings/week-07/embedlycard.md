@@ -5,4 +5,5 @@ embedly_card_alignment: left
 embedly_card_url: 'https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/'
 published: true
 visible: false
+embedly_card_display: true
 ---

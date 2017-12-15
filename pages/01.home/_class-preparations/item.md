@@ -3,11 +3,14 @@ title: 'Class Preparations'
 published: true
 ---
 
-### Jan 26th Class Preparations
+### Oct 4th Class Preparations
 
-##### Required Readings
-[plugin:page-inject](/required-readings/week-04?template=embedlycardlinkonly)
+##### Required Reading
+[plugin:page-inject](/required-readings/week-05)
 
-[Required Reading Quiz](https://canvas.sfu.ca/courses/25492/quizzes/34783?classes=btn,btn-primary)
+[Required Reading Quiz](https://canvas.sfu.ca/courses/36662/quizzes/65506?classes=btn,btn-primary)
 
-Weekly quizzes are due by 10:00am the day of class. After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/25492/discussion_topics/440791) before midnight, January 26th.
+##### Slides to be Discussed
+[User Research](https://www.swipe.to/embed/9967fp)
+
+Did you attend this class? [Share your one-minute summary](https://canvas.sfu.ca/courses/36662/assignments/267534) before midnight, the day of class.

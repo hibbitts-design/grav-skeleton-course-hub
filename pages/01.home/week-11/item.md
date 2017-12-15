@@ -1,13 +1,12 @@
 ---
-title: 'Week 11 (Mar 15th - 21st)'
-date: 03/15/2017
+title: 'Week 11 (Nov 15 - 21)'
+date: 11/15/2017
 published: false
+hide_from_post_list: true
 ---
 
-<!--- Your weekly summary content goes below here -->
-
-<!--- Your weekly summary content goes above here -->
+#####  Instructor design review meetings, no regular class
 
 ===
 
-<!--- Your weekly materials content goes below here -->
+Instructor design review meetings, no regular class.

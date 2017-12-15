@@ -5,4 +5,5 @@ embedly_card_alignment: left
 embedly_card_url: 'http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/'
 published: true
 visible: false
+embedly_card_display: true
 ---

@@ -1,13 +1,14 @@
 ---
-title: 'Week 12 (Mar 22nd - 28th)'
-date: 03/22/2017
+title: 'Week 12 (Nov 22 - 28)'
+date: 11/22/2017
 published: false
+hide_from_post_list: true
 ---
 
-<!--- Your weekly summary content goes below here -->
-
-<!--- Your weekly summary content goes above here -->
+##### Special Topics/Guest Speakers
+TBD
 
 ===
 
-<!--- Your weekly materials content goes below here -->
+##### Special Topics/Guest Speakers
+TBD

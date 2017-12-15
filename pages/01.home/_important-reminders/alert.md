@@ -4,4 +4,4 @@ published: true
 ---
 
 ** Important Reminders **  
-* [Assignment #1](https://canvas.sfu.ca/courses/25492/assignments/142519) (UX Topic Summary) is due via Canvas at 5:30pm Apr 5th
+* [Usability inspection](https://canvas.sfu.ca/courses/36662/assignments/267545) peer reviews due Oct 17th.
