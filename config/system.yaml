@@ -22,7 +22,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: course-hub-bootstrap
+  theme: mytheme
   order:
     by: default
     dir: asc
