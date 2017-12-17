@@ -1,6 +1,6 @@
 name: Open Course Hub Site
 version: 1.7.3
-description: "Course Hub with Git Sync, designed to support an open, collaborative and flexible course space inside or outside of your LMS. Includes the Course Hub Bootstrap theme."
+description: "Course Hub with Git Sync, designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Includes the Course Hub Bootstrap theme."
 icon: university
 author:
  name: Paul Hibbitts
