@@ -23,5 +23,5 @@ Strategic UX Design ([Download slides as PDF](#))
 [Project Proposal - Individual Component](https://canvas.sfu.ca/courses/36662/assignments/240533)  
 
 ##### Required Reading  
-<a class="embedly-card" data-card-align="left" href="http://www.uxmatters.com/mt/archives/2012/09/3-keys-to-aligning-ux-with-business-strategy.php">3 Keys to Aligning UX with Business Strategy</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxmatters.com/mt/archives/2012/09/3-keys-to-aligning-ux-with-business-strategy.php">3 Keys to Aligning UX with Business Strategy</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

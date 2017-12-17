@@ -24,5 +24,5 @@ User Research ([Download slides as PDF](#))
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://player.vimeo.com/video/7099570" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ##### Required Reading  
-<a class="embedly-card" data-card-align="left" href="http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/">A Five-Step Process For Conducting User Research</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/">A Five-Step Process For Conducting User Research</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

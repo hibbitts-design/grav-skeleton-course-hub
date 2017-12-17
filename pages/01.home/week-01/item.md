@@ -34,5 +34,5 @@ Create [team project group](https://canvas.sfu.ca/courses/36662/users)
 [Course Overview](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Course%20Overview)  
 
 ##### Recommended Reading  
-<a class="embedly-card" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
