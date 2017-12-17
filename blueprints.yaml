@@ -1,6 +1,6 @@
 name: Open Course Hub Site
-version: 1.7.2
-description: "Course Hub with Git Sync, designed to support an open and collaborative flipped-LMS approach for one or more courses. Includes the Course Hub Bootstrap theme."
+version: 1.7.3
+description: "Course Hub with Git Sync, designed to support an open, collaborative and flexible course space inside or outside of your LMS. Includes the Course Hub Bootstrap theme."
 icon: university
 author:
  name: Paul Hibbitts
@@ -9,7 +9,7 @@ author:
 homepage: https://github.com/hibbitts-design/grav-skeleton-course-hub
 demo: http://demo.hibbittsdesign.org/grav-course-hub/
 docs: http://learn.hibbittsdesign.org/coursehub
-keywords: bones, theme, foundation, foundation6, core, simple, responsive, basic, course, lms
+keywords: open, collaborative, flexbible, git, responsive, basic, course, lms
 bugs: https://github.com/hibbitts-design/grav-skeleton-course-hub/issues
 license: MIT
 
