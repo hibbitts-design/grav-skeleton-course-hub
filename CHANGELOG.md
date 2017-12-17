@@ -1,3 +1,13 @@
+# v1.7.3
+## 12/18/2017
+
+1. [](#new)
+    * Added new (advanced) single course demo site, including extensive use of custom content types and modular content, in Course Hub Bootstrap theme '_demo' pages folder
+1. [](#improved)
+    * Updated single course (basic) demo pages
+1. [](#bugfix)
+    * Fixed example embedded slides and associated HTML and PDF links
+
 # v1.7.2
 ## 12/07/2017
 
