@@ -3,28 +3,28 @@ title: Schedule
 published: true
 ---
 
-#### [:fa-calendar: Week 1 (Sep 6 - 12)](/home/week-01)
+#### [:fa-calendar: Week 1 (Sep 6 - 12)](/home/module-01)
 **What is usability and user experience design?**  
 :fa-pencil: Create [team project group](https://canvas.sfu.ca/courses/36662/users) by Sep 13th   
 :fa-desktop: [Course Overview](https://swipe.to/9967fp)  
 :fa-desktop: [Introduction to UX Design](https://swipe.to/9967fp)  
 :fa-book: [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
-#### [:fa-calendar: Week 2 (Sep 13 - 19)](/home/week-02)
+#### [:fa-calendar: Week 2 (Sep 13 - 19)](/home/module-02)
 **What does a holistic user experience design process look like?**  
 :fa-pencil: [Project Proposal](https://canvas.sfu.ca/courses/36662/assignments/267529) due Sep 19th  
 :fa-desktop: [The Process of UX Design](https://swipe.to/9967fp)  
 :fa-book: [Designing Digital Products with Mental Models](https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2)  
 :fa-users: In-class office hours (tentative)  
 
-#### [:fa-calendar: Week 3 (Sep 20 - 26)](/home/week-03)
+#### [:fa-calendar: Week 3 (Sep 20 - 26)](/home/module-03)
 **How to make more strategic design decisions?**   
 :fa-pencil: [Project Brief](https://canvas.sfu.ca/courses/36662/assignments/267543) and [Reflective Log](https://canvas.sfu.ca/courses/36662/assignments/267544) due Sep 26th  
 :fa-desktop: [Strategic UX Design](https://swipe.to/9967fp)  
 :fa-book: [3 Keys to Aligning UX with Business Strategy](https://www.uxmatters.com/mt/archives/2012/09/3-keys-to-aligning-ux-with-business-strategy.php)  
 :fa-users: In-class office hours (tentative)  
 
-#### [:fa-calendar: Week 4 (Sep 27 - Oct 3)](/home/week-04)
+#### [:fa-calendar: Week 4 (Sep 27 - Oct 3)](/home/module-04)
 **How to conduct a usability inspection?**   
 :fa-pencil: [Usability Inspection](https://canvas.sfu.ca/courses/36662/assignments/267545) assignment due Oct 10th  
 :fa-file: [Usability Inspection Report Template](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Usability%20Inspection%20Report%20Template)  
@@ -32,13 +32,13 @@ published: true
 :fa-book: [An Overview of Expert Heuristic Evaluations ](https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php)  
 :fa-users: In-class office hours (tentative)  
 
-#### [:fa-calendar: Week 5 (Oct 4 - 10)](/home/week-05)
+#### [:fa-calendar: Week 5 (Oct 4 - 10)](/home/module-05)
 **How to understand and communicate people's needs and behaviors?**   
 :fa-desktop: [User Research](https://swipe.to/9967fp)  
 :fa-book: [A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
 :fa-users: In-class office hours (tentative)  <br>
 
-#### [:fa-calendar: Week 6 (Oct 11 - 17)](/home/week-06)
+#### [:fa-calendar: Week 6 (Oct 11 - 17)](/home/module-06)
 **How to plan, conduct, and summarize usability tests?**  
 :fa-pencil: [Usability Inspection](https://canvas.sfu.ca/courses/36662/assignments/267545) assignment peer reviews due Oct 17th  
 :fa-desktop: [Usability Inspection](https://swipe.to/9967fp)  

@@ -1,7 +1,7 @@
 ---
 title: 'Class Preparations'
 published: true
-header_image_file: /home/week-01/17656394823_b85f45795c_k.jpg
+header_image_file: /home/module-05/13966760787_2d0975e6bc_k.jpg
 ---
 
 ### Oct 4th Class Preparations
