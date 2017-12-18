@@ -7,9 +7,9 @@ header_image_credit: Pat Armstrong, Flickr.com
 header_image_creditlink: 'https://www.flickr.com/photos/poisontofu/4762082009/'
 ---
 
-<!--- Your weekly summary content goes below here -->
+<!--- Your module summary content goes below here -->
 
-<!--- Your weekly summary content goes above here -->
+<!--- Your module summary content goes above here -->
 
 ===
 

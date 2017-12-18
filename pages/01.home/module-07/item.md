@@ -7,9 +7,9 @@ header_image_credit: Samuel Mann, Flickr.com
 header_image_creditlink: 'https://www.flickr.com/photos/21218849@N03/6968244538/'
 ---
 
-<!--- Your weekly summary content goes below here -->
+<!--- Your module summary content goes below here -->
 
-<!--- Your weekly summary content goes above here -->
+<!--- Your module summary content goes above here -->
 
 ===
 

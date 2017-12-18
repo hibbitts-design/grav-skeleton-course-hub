@@ -7,9 +7,9 @@ header_image_credit: Matt Cottam, Flickr.com
 header_image_creditlink: 'https://www.flickr.com/photos/mattcottam/6192507935/'
 ---
 
-<!--- Your weekly summary content goes below here -->
+<!--- Your module summary content goes below here -->
 
-<!--- Your weekly summary content goes above here -->
+<!--- Your module summary content goes above here -->
 
 ===
 

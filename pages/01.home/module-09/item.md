@@ -7,9 +7,9 @@ header_image_credit: Blake Patterson, Flickr.com
 header_image_creditlink: 'https://www.flickr.com/photos/blakespot/16230041026/'
 ---
 
-<!--- Your weekly summary content goes below here -->
+<!--- Your module summary content goes below here -->
 
-<!--- Your weekly summary content goes above here -->
+<!--- Your module summary content goes above here -->
 
 ===
 
