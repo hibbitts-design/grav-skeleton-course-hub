@@ -1,3 +1,11 @@
+# v1.7.4
+## 12/19/2017
+
+1. [](#new)
+    * Added MediaPicker functionality for (blog) item header images
+1. [](#improved)
+    * Updated embed.ly script examples
+
 # v1.7.3
 ## 12/18/2017
 
