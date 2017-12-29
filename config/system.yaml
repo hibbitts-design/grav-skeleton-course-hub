@@ -108,7 +108,7 @@ errors:
   display: '1'
   log: true
 debugger:
-  enabled: true
+  enabled: false
   shutdown:
     close_connection: true
   twig: true
