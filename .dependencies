@@ -75,13 +75,13 @@ git:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
+    twigfeeds:
+        url: https://github.com/OleVik/grav-plugin-twigfeeds
+        path: user/plugins/twigfeeds
+        branch: master
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube
-        branch: master
-    course-hub-bones:
-        url: https://github.com/hibbitts-design/grav-theme-course-hub-bones
-        path: user/themes/course-hub-bones
         branch: master
     course-hub-bootstrap:
         url: https://github.com/hibbitts-design/grav-theme-course-hub-bootstrap
