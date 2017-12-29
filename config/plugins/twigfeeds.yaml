@@ -1,0 +1,20 @@
+enabled: true
+cache: true
+static_cache: false
+debug: false
+cache_time: 900
+pass_headers: false
+silence_security: false
+twig_feeds:
+  -
+    source: 'http://blog.usabilla.com/feed/'
+    name: 'Usabilla Blog'
+    start: 0
+    end: 6
+    cache_time: 3600
+  -
+    source: 'http://feedpress.me/uxbooth'
+    name: 'UX Booth'
+    start: 0
+    end: 6
+    cache_time: 3600
