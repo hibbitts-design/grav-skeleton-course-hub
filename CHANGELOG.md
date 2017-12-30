@@ -1,3 +1,14 @@
+# v1.7.5
+## 12/30/2017
+
+1. [](#new)
+    * Added experimental support for Twig Feeds Plugin (RSS aggregator)
+    * Added example RSS aggregation page to 'advanced' single course example
+    * Added page header variable to override Git Sync link display location
+    * Added display options for RSS aggregation page
+1. [](#improved)
+    * Updated single and multi-course demo pages in theme '_demo' folder
+
 # v1.7.4
 ## 12/19/2017
 
