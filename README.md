@@ -136,11 +136,6 @@ github:
     location: none        # menu | page | none
     icon: github
     tree: https://github.com/hibbitts-design/grav-skeleton-course-hub-site/edit/master/user/pages/
-twittertimeline:
-    enabled: false        # display of Twitter timeline on sidebar
-    url: https://twitter.com/hibbittsdesign/lists/cpt-363
-    text: A Twitter List by hibbittsdesign
-    height: 700
 hidehomemenulink: false   # suppress Home menu link
 ```
 
@@ -153,13 +148,9 @@ hidehomemenulink: false   # suppress Home menu link
 | menu  |  icon | Font Awesome icon code for an external link (optional).                                        |
 | menu  |  url | URL for an external link. |                                    
 | icon  | post          | Change the default Font Awesome icon for the weekly blog posts (i.e. weekly summaries).           |
-| github  | location       | Can be set to `page`, `menu` or `none`. When set to `page` or `menu`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
+| github  | location       | Can be set to `page`, `menu`, or `footer` or `none`. When set to `page`, `menu` or `footer`, it will display the **Edit this page** link to your GitHub repo in the indicated location. |
 | github  | icon       | Set the Font Awesome icon for the **Edit this page** menu or page link. |
 | github  | tree          | Sets the tree by which your site's content is based. Generally the repo your site's content is pulled from.            |
-| twittertimeline  | enabled       | Can be set to `true` or `false`. When set to `true`, it displays the Twitter timeline on your sidebar. |
-| twittertimeline  | URL       | The URL of the Twitter timeline you want to embed on your sidebar. |
-| twittertimeline  | text       | The text label of the Twitter timeline you want to embed on your sidebar. |
-| twittertimeline  | height       | The height of the Twitter timeline you want to embed on your sidebar. |
 | hidehomemenulink  |       | Can be set to `true` or `false`. When set to `true`, the Home menu link in the navbar is not displayed.|
 
 ## Page Header Options
