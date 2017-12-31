@@ -45,7 +45,3 @@ popularity:
 hide_page_types:
   - embedlycardlinkonly
   - swipedecklinkonly
-  - page
-hide_modular_page_types:
-  - class-preparations
-  - important-reminders
