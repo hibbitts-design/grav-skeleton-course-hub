@@ -162,14 +162,12 @@ hidehomemenulink: false   # suppress Home menu link
 | twittertimeline  | height       | The height of the Twitter timeline you want to embed on your sidebar. |
 | hidehomemenulink  |       | Can be set to `true` or `false`. When set to `true`, the Home menu link in the navbar is not displayed.|
 
-##Page Header Options
+## Page Header Options
 
 ### Page Options for Blog Items
 Blog item pages support the following additional options:
 ```
 icon: users             # optional Font Awesome icon for page title
-header_image: false     # display of header image located within page folder
-continue_link: false    # display entire post on blog listing page
 taxonomy:
   tag: Featured         # setting to make post 'sticky' (i.e. remain at top)
 hide_from_post_list: true  # hide this blog post from blog index
