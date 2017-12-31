@@ -1,3 +1,9 @@
+# v1.7.6
+## 12/31/2017
+
+1. [](#improved)
+    * Updated default Admin Panel settings
+
 # v1.7.5
 ## 12/30/2017
 
