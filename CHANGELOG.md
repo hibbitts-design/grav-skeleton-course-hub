@@ -1,3 +1,10 @@
+# v1.7.7
+## 01/02/2018
+
+1. [](#improved)
+    * Updated single and multi-course demo pages in theme '_demo' folder
+    * Updated Skeleton dependencies
+
 # v1.7.6
 ## 12/31/2017
 
