@@ -1,6 +1,6 @@
 ---
 title: 'Week 13 (Nov 29)'
-date: '29-11-2017 00:00'
+date: 11/29/2017
 published: false
 hide_from_post_list: true
 ---

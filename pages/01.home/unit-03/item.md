@@ -1,7 +1,7 @@
 ---
 title: 'Week 3 (Sep 20 - 26)'
+date: 09/20/2017
 published: true
-date: '20-09-2017 00:00'
 header_image_credit: 'Emilio Küffer, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'
 ---

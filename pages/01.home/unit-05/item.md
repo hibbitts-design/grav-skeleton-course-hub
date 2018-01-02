@@ -1,7 +1,7 @@
 ---
 title: 'Week 5 (Oct 4 - 10)'
+date: 10/04/2017
 published: true
-date: '04-10-2017 00:00'
 header_image_credit: 'Nicholas Wang, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/cloneofsnake/13966760787/'
 hide_from_post_list: true

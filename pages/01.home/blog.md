@@ -14,8 +14,10 @@ sitemap:
 modular_content:
     items: '@self.modular'
     order:
-        by: folder
-        dir: dsc
+      by: default
+      custom:
+          - _important-reminders
+          - _unit-preparations
 feed:
     description: 'Course Hub Description'
     limit: 10

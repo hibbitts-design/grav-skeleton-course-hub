@@ -7,6 +7,6 @@ page-inject:
     processed_content: null
 ---
 
-[plugin:page-inject](/home/_class-preparations)
+[plugin:page-inject](/home/_unit-preparations)
 
 [plugin:content-inject](/home/_important-reminders)

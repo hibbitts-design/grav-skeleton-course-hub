@@ -1,7 +1,7 @@
 ---
 title: 'Week 6 (Oct 11 - Oct 17)'
+date: 10/11/2017
 published: true
-date: '11-10-2017 00:00'
 header_image_credit: 'K2_UX, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/k2_ux/8447614292/'
 hide_from_post_list: true
