@@ -3,10 +3,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-admin
         path: user/plugins/admin
         branch: master
-    archives:
-        url: https://github.com/getgrav/grav-plugin-archives
-        path: user/plugins/archives
-        branch: master
     email:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
@@ -18,10 +14,6 @@ git:
     external_links:
         url: https://github.com/Sommerregen/grav-plugin-external-links
         path: user/plugins/external_links
-        branch: master
-    featherlight:
-        url: https://github.com/getgrav/grav-plugin-featherlight
-        path: user/plugins/featherlight
         branch: master
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
@@ -39,10 +31,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
         branch: master
-    markdown-notices:
-        url: https://github.com/yoshikin/grav-plugin-markdown-fontawesome
-        path: user/plugins/markdown-notices
-        branch: master
     markdown-fontawesome:
         url: https://github.com/getgrav/grav-plugin-markdown-notices
         path: user/plugins/markdown-fontawesome
@@ -58,22 +46,6 @@ git:
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: master
-    relatedpages:
-        url: https://github.com/getgrav/grav-plugin-relatedpages
-        path: user/plugins/relatedpages
-        branch: master
-    simplesearch:
-        url: https://github.com/getgrav/grav-plugin-simplesearch
-        path: user/plugins/simplesearch
-        branch: master
-    sitemap:
-        url: https://github.com/getgrav/grav-plugin-sitemap
-        path: user/plugins/sitemap
-        branch: master
-    taxonomylist:
-        url: https://github.com/getgrav/grav-plugin-taxonomylist
-        path: user/plugins/taxonomylist
         branch: master
     twigfeeds:
         url: https://github.com/OleVik/grav-plugin-twigfeeds
