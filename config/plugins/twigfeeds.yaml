@@ -3,7 +3,7 @@ cache: true
 static_cache: true
 debug: false
 cache_time: 900
-pass_headers: true
+pass_headers: false
 silence_security: false
 twig_feeds:
   -
