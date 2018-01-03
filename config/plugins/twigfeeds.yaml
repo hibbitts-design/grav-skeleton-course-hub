@@ -1,26 +1,26 @@
 enabled: true
 cache: true
-static_cache: false
+static_cache: true
 debug: false
 cache_time: 900
-pass_headers: false
+pass_headers: true
 silence_security: false
 twig_feeds:
   -
     source: 'http://blog.usabilla.com/feed/'
     name: 'Usabilla Blog'
     start: 0
-    end: 4
-    cache_time: 3600
-  -
-    source: 'http://feedpress.me/uxbooth'
-    name: 'UX Booth'
-    start: 0
-    end: 4
+    end: 2
     cache_time: 3600
   -
     source: 'http://uxmatters.com/index.xml'
     name: 'UX Matters'
     start: 0
-    end: 4
+    end: 2
+    cache_time: 3600
+  -
+    source: 'https://feeds.feedburner.com/MeasuringUsability'
+    name: 'MeasuringU'
+    start: 0
+    end: 2
     cache_time: 3600
