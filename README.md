@@ -28,7 +28,7 @@ Grav Course Hub Highlights
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
 					<li>Single or multiple courses per hub installation</li>
 					<li>Global 'Chromeless Pages' setting for all pages (for embedding entire site within LMS)
-					<li>Optional 'chromeless' URL flag (for displaying specific pages within LMS)
+					<li>Optional 'chromeless' URL flag (for embedding specific pages within LMS)
 	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for cross-platform content</li>				
 					<li>Full access to <a href="https://www.w3schools.com/html/default.asp">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">Javascript</a>, <a href="https://twig.symfony.com/doc/2.x/">Twig Templates</a>, <a href="http://www.yaml.org/">YAML</a>, etc.</li>
 				</ul>
