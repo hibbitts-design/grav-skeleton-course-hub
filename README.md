@@ -24,7 +24,7 @@ Grav Course Hub Highlights
 			<td width="50%">
 				<ul>
 					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
-					<li>Minimal server requirements (PHP 5.5.9 or higher, no SQL)</li>
+					<li>Minimal server requirements (PHP 5.5.9 or higher, no database required)</li>
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
 					<li>Single or multiple courses per hub installation</li>
 					<li>Global 'Chromeless Pages' site setting for all pages (for embedding entire site within LMS)
@@ -41,8 +41,8 @@ Grav Course Hub Highlights
 					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>, <a href="http://embed.ly/">embed.ly card</a>, <a href="https://www.swipe.to/">swipe.to</a> and <a href="https://twitter.com/">Twitter feed</a> pages</li>
 					<li>Hub pages can be easily added/removed/changed</li>
 					<li>External links can be automatically opened in a new Tab/Window</li>
-          <li>Custom links can be added to site menubar</li>
-					<li>Image header area above Hub navigation bar</li>
+          <li>Custom links can be added to site navigation bar</li>
+					<li>Image header area above site navigation bar</li>
 					<li>Sidebar is customizable (Markdown or HTML)</li>
 				</ul>
 			</td>
