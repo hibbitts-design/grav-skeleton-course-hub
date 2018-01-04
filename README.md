@@ -34,7 +34,7 @@ Course Hub Highlights
 			</td>
 			<td width="50%">
 				<ul>
-					<li>Blog-format, with 'featured' (sticky) posts</li>
+					<li>Blog-format list of course units (e.g. classes, modules, etc)</li>
 					<li>Optional important reminders & class preparations areas</li>
 					<li>Supports custom page types and modular content</li>
 					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>, <a href="http://embed.ly/">embed.ly card</a>, <a href="https://www.swipe.to/">swipe.to</a> and <a href="https://twitter.com/">Twitter feed</a> pages</li>
