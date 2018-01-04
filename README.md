@@ -28,7 +28,7 @@ Course Hub Highlights
 					<li>Enables use inside of LMS via `chromeless` mode</li>
 					<li>Single or multiple courses per hub install</li>
 					<li>Optional important reminders & class preparations areas</li>
-          <li>Uses Markdown for streamlined cross-platform content</li>
+          <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for streamlined cross-platform content</li>
 				</ul>
 			</td>
 			<td width="50%">
