@@ -23,19 +23,20 @@ Course Hub Highlights
 		<tr>
 			<td width="50%">
 				<ul>
-					<li>Ready-to-run Grav package (open source)</li>
+					<li>Ready-to-run open source Grav package</li>
+					<li>Minimal server requirements (PHP 5.5.9 or higher, no SQL)</li>
 					<li>Built-in support for automatic Git Sync</li>
 					<li>Single or multiple courses per hub installation</li>
 					<li>Supports use inside of LMS via `chromeless` mode</li>
 	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for cross-platform content</li>				
-					<li>Supports custom page types and modular content</li>
-					<li>Since everything is built with Grav it can be entirely customized</li>
+					<li>Full access to HTML, CSS, Javascript, Twig Templates, YAML, etc.</li>
 				</ul>
 			</td>
 			<td width="50%">
 				<ul>
 					<li>Blog-format, with 'featured' (sticky) posts</li>
 					<li>Optional important reminders & class preparations areas</li>
+					<li>Supports custom page types and modular content</li>
 					<li>Hub pages can be easily added/removed/changed</li>
           <li>Image header area above Hub navigation bar</li>
 					<li>Sidebar is a simple markdown file, which can also contain HTML</li>
