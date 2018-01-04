@@ -25,7 +25,7 @@ Course Hub Highlights
 				<ul>
 					<li>Ready-to-run open source Grav package</li>
 					<li>Minimal server requirements (PHP 5.5.9 or higher, no SQL)</li>
-					<li>Built-in support for automatic Git Sync</li>
+					<li>Built-in support for automatic [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) plugin</li>
 					<li>Single or multiple courses per hub installation</li>
 					<li>Supports use inside of LMS via `chromeless` mode</li>
 	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for cross-platform content</li>				
