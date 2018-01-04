@@ -37,7 +37,6 @@ Course Hub Highlights
 					<li>Hub pages can be easily added/removed/changed</li>
           <li>Image header area above Hub navigation bar</li>
 					<li>Sidebar is a simple markdown file, which can also contain HTML</li>
-					<li>External links are automatically opened in a new Tab/Window</li>
 					<li>Since everything is built with Grav it can be entirely customized</li>
 				</ul>
 			</td>
