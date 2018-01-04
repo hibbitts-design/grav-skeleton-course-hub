@@ -164,6 +164,14 @@ taxonomy:
 hide_from_post_list: true  # hide this blog post from blog index
 ```
 
+### Page Options for RSS Feed Items
+RSS Feed pages support the following additional options:
+```
+rss_feed_display_order: date  # sort order for items (can also be `source`)
+rss_feed_header_images: true  # display of RSS Feed item header images
+rss_feed_preview_paragraphs: two  # number of preview paragraphs displayed (can also be `one` or `all`)
+```
+
 ### Page Options for All Pages
 All pages support the following additional options:
 ```
