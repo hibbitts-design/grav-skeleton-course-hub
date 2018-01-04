@@ -11,12 +11,12 @@ Information and Documentation
 ---
 http://learn.hibbittsdesign.org/coursehub
 
-Course Hub Screenshot
+Grav Course Hub Screenshot
 ---
 ![Course Hub Screenshot](/assets/screenshot.jpg)  
 _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore an example **single** course site at [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/) and a **multiple** course site at [demo.hibbittsdesign.org/grav-multi-course-hub/](http://demo.hibbittsdesign.org/grav-multi-course-hub/)._
 
-Course Hub Highlights
+Grav Course Hub Highlights
 ---
 <table cellpadding="2" cellspacing="2" width="100%">
 	<tbody>
