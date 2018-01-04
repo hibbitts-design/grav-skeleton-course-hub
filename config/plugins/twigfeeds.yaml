@@ -19,8 +19,8 @@ twig_feeds:
     end: 2
     cache_time: 3600
   -
-    source: 'https://feeds.feedburner.com/MeasuringUsability'
-    name: 'MeasuringU'
+    source: 'https://uxdesign.cc/feed'
+    name: 'UX Design Collective'
     start: 0
     end: 2
     cache_time: 3600
