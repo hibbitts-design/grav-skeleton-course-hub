@@ -13,7 +13,7 @@ http://learn.hibbittsdesign.org/coursehub
 
 Grav Course Hub Screenshot
 ---
-![Course Hub Screenshot](/assets/screenshot.jpg)  
+![Course Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/course-hub-screenshot.jpg?raw=true)  
 _Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore an example **single** course site at [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/) and a **multiple** course site at [demo.hibbittsdesign.org/grav-multi-course-hub/](http://demo.hibbittsdesign.org/grav-multi-course-hub/)._
 
 Grav Course Hub Highlights
