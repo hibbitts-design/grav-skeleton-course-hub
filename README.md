@@ -24,10 +24,10 @@ Course Hub Highlights
 			<td width="50%">
 				<ul>
 					<li>Ready-to-run Grav package (open source)</li>
-					<li>Single or multiple courses per hub installation</li>
 					<li>Built-in support for automatic Git Sync</li>
-					<li>Enables use inside of LMS via `chromeless` mode</li>
-	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for streamlined cross-platform content</li>				
+					<li>Single or multiple courses per hub installation</li>
+					<li>Supports use inside of LMS via `chromeless` mode</li>
+	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for cross-platform content</li>				
 					<li>Supports custom page types and modular content</li>
 					<li>Since everything is built with Grav it can be entirely customized</li>
 				</ul>
