@@ -29,11 +29,11 @@ Course Hub Highlights
 					<li>Enables use inside of LMS via `chromeless` mode</li>
 					<li>Optional important reminders & class preparations areas</li>
 					<li>Hub pages can be easily added/removed/changed</li>
+          <li>Uses Markdown for streamlined cross-platform content</li>
 				</ul>
 			</td>
 			<td width="50%">
 				<ul>
-          <li>Uses Markdown for streamlined cross-platform content</li>
           <li>Image header area above Hub navigation bar</li>
 					<li>Sidebar is a simple markdown file, which can also contain HTML</li>
 					<li>External links are automatically opened in a new Tab/Window</li>
