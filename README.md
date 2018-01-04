@@ -29,7 +29,7 @@ Course Hub Highlights
 					<li>Single or multiple courses per hub installation</li>
 					<li>Supports use inside of LMS via `chromeless` mode</li>
 	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for cross-platform content</li>				
-					<li>Full access to <a href="https://www.w3schools.com/html/default.asp">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">Javascript</a>, <a href="https://twig.symfony.com/doc/2.x/">Twig Templates</a>, <a href="http://www.yaml.org/spec/1.2/spec.html#id2708649">YAML card</a>YAML, etc.</li>
+					<li>Full access to <a href="https://www.w3schools.com/html/default.asp">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">Javascript</a>, <a href="https://twig.symfony.com/doc/2.x/">Twig Templates</a>, <a href="http://www.yaml.org/spec/1.2/spec.html#id2708649">YAML</a>, etc.</li>
 				</ul>
 			</td>
 			<td width="50%">
