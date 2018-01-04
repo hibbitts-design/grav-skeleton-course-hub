@@ -23,7 +23,7 @@ Grav Course Hub Highlights
 		<tr>
 			<td width="50%">
 				<ul>
-					<li>Ready-to-run open source Grav package</li>
+					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
 					<li>Minimal server requirements (PHP 5.5.9 or higher, no SQL)</li>
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
 					<li>Single or multiple courses per hub installation</li>
