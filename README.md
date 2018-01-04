@@ -40,7 +40,7 @@ Course Hub Highlights
 					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>, <a href="http://embed.ly/">embed.ly card</a>, <a href="https://www.swipe.to/">swipe.to</a> and <a href="https://twitter.com/">Twitter feed</a> pages</li>
 					<li>Hub pages can be easily added/removed/changed</li>
           <li>Image header area above Hub navigation bar</li>
-					<li>Sidebar is a simple markdown file, which can also contain HTML</li>
+					<li>Sidebar is customizable (Markdown or HTML)</li>
 				</ul>
 			</td>
 		</tr>
