@@ -28,6 +28,7 @@ Course Hub Highlights
 					<li>Enables use inside of LMS via `chromeless` mode</li>
 	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for streamlined cross-platform content</li>				
 					<li>Single or multiple courses per hub installation</li>
+					<li>Since everything is built with Grav it can be entirely customized</li>
 				</ul>
 			</td>
 			<td width="50%">
@@ -37,7 +38,6 @@ Course Hub Highlights
 					<li>Hub pages can be easily added/removed/changed</li>
           <li>Image header area above Hub navigation bar</li>
 					<li>Sidebar is a simple markdown file, which can also contain HTML</li>
-					<li>Since everything is built with Grav it can be entirely customized</li>
 				</ul>
 			</td>
 		</tr>
