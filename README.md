@@ -36,7 +36,7 @@ Course Hub Highlights
 				<ul>
 					<li>Blog-style list of course units (e.g. classes, modules, etc)</li>
 					<li>Optional important reminders and unit preparations areas</li>
-					<li>Supports custom page types and use of modular content</li>
+					<li>Supports custom page types and modular content</li>
 					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>, <a href="http://embed.ly/">embed.ly card</a>, <a href="https://www.swipe.to/">swipe.to</a> and <a href="https://twitter.com/">Twitter feed</a> pages</li>
 					<li>Hub pages can be easily added/removed/changed</li>
           <li>Image header area above Hub navigation bar</li>
