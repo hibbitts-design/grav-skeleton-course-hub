@@ -5,7 +5,7 @@
 
 [![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
-**Grav Course Hub** with Git Sync is designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Includes the Course Hub Bootstrap theme.
+**Grav Course Hub** with Git Sync is designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Built with the open source modern file-based CMS [Grav](http://getgrav.org).
 
 Information and Documentation
 ---
