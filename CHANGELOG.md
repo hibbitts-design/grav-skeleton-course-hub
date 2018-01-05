@@ -1,3 +1,9 @@
+# v1.7.9
+## 01/05/2018
+
+1. [](#improved)
+    * Updated single and multi-course demo pages in theme '_demo' folder
+
 # v1.7.8
 ## 01/04/2018
 
