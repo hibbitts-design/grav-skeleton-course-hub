@@ -29,7 +29,7 @@ Grav Course Hub Highlights
 					<li>Single or multiple courses per hub installation</li>
 					<li>Global 'Chromeless Pages' site setting for all pages (for embedding entire site within LMS)
 					<li>Optional 'chromeless' page URL flag (for embedding specific pages within LMS)
-	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> and HTML for cross-platform content</li>				
+	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> and HTML files for cross-platform content</li>				
 					<li>Full access to <a href="https://www.w3schools.com/html/default.asp">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">Javascript</a>, <a href="https://twig.symfony.com/doc/2.x/">Twig Templates</a>, <a href="http://www.yaml.org/">YAML</a>, etc.</li>
 				</ul>
 			</td>
