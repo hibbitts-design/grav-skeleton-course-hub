@@ -10,3 +10,7 @@ page-inject:
 [plugin:page-inject](/home/_unit-preparations)
 
 [plugin:content-inject](/home/_important-reminders)
+
+<hr>
+
+[plugin:page-inject](/web-pick-of-the-week)
