@@ -3,6 +3,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-admin
         path: user/plugins/admin
         branch: master
+    auto-date:
+        url: https://github.com/getgrav/grav-plugin-auto-date
+        path: user/plugins/auto-date
+        branch: master
     email:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
@@ -54,6 +58,10 @@ git:
     twigpcre:
         url: https://github.com/kesslernetworks/grav-plugin-twigpcre
         path: user/plugins/twigpcre
+        branch: master
+    sitemap:
+        url: https://github.com/getgrav/grav-plugin-sitemap
+        path: user/plugins/sitemap
         branch: master
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube
