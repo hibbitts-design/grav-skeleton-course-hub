@@ -1,3 +1,11 @@
+# v1.8.0
+## 01/08/2018
+
+1. [](#new)
+    * Added further simplified 'basic' course demo page in theme '_demo' folder
+1. [](#improved)
+    * Renamed previous 'basic' course example to 'intermediate' and 'intermediate' course example to 'advanced' in theme '_demo' folder
+
 # v1.7.9
 ## 01/05/2018
 
