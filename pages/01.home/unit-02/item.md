@@ -19,7 +19,7 @@ The Process of UX Design ([Download slides as PDF](#))
 <div class="embed-responsive embed-responsive-16by9"><figure><iframe src="https://www.swipe.to/embed/9967fp" allowfullscreen></iframe></figure></div>
 
 ##### CMPT-363 UX Design Process/Toolkit
-![CMPT-363 UX Design Process/Toolkit Diagram](/images/ux-design-process-v4.png)
+![CMPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
 
 ##### Assignments
 [Project Proposal](https://canvas.sfu.ca/courses/36662/assignments/267529)   
