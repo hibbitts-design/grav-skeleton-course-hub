@@ -1,3 +1,9 @@
+# v1.8.1
+## 01/11/2018
+
+1. [](#bugfix)
+    * Restored missing example page image in demo pages
+
 # v1.8.0
 ## 01/08/2018
 
