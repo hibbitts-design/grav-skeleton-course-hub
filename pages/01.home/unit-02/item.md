@@ -30,3 +30,6 @@ The Process of UX Design ([Download slides as PDF](#))
 ##### Recommended Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2">Designing Digital Products with Mental Models</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+##### Supplemental Readings  
+[plugin:content-inject](/ux-techniques/what-does-a-holistic-user-experience-design-process-look-like/user-centered-design)   

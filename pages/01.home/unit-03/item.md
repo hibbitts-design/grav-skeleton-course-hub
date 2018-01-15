@@ -25,3 +25,10 @@ Strategic UX Design ([Download slides as PDF](#))
 ##### Required Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxmatters.com/mt/archives/2012/09/3-keys-to-aligning-ux-with-business-strategy.php">3 Keys to Aligning UX with Business Strategy</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+##### Supplemental Readings  
+[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/journey-mapping)
+[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/problem-statements)  
+[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/design-principles-product)  
+[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/value-proposition)  
+[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/user-experience-strategy)  

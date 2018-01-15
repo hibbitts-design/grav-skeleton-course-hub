@@ -33,3 +33,8 @@ Create [team project group](https://canvas.sfu.ca/courses/36662/users)
 ##### Recommended Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+##### Supplemental Readings  
+[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/problem-statements)
+[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/usability)
+[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/user-experience-design)  

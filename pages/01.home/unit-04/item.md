@@ -28,3 +28,7 @@ User Interface Inspections ([Download slides as PDF](#))
 ##### Required Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php">An Overview of Expert Heuristic Evaluations</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+##### Supplemental Readings  
+[plugin:content-inject](/ux-techniques/how-to-conduct-a-usability-inspection/cognitive-walkthroughs)  
+[plugin:content-inject](/ux-techniques/how-to-conduct-a-usability-inspection/heuristic-evaluations)  
