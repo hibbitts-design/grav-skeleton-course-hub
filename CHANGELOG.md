@@ -1,3 +1,9 @@
+# v1.8.2
+## 01/15/2018
+
+1. [](#improved)
+    * Updated course demo pages
+
 # v1.8.1
 ## 01/11/2018
 
