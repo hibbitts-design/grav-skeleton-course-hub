@@ -1,0 +1,31 @@
+form:
+  validation: loose
+  fields:
+    section:
+        type: section
+        title: Add Blog Page Item
+
+    title:
+      type: text
+      label: Blog Item Title
+      validate:
+        required: true
+
+    folder:
+      type: hidden
+      default: '@slugify-title'
+
+    route:
+      type: hidden
+      default: /home
+
+    name:
+      type: hidden
+      default: 'item'
+
+    visible:
+      type: hidden
+      default: ''
+
+    blueprint:
+      type: blueprint

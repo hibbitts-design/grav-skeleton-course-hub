@@ -45,3 +45,12 @@ popularity:
 hide_page_types:
   - embedlycardlinkonly
   - swipedecklinkonly
+add_modals:
+  -
+    label: Add Sidebar Page
+    blueprint: admin/pages/new_course_page
+    show_in: bar
+  -
+    label: Add Blog Item
+    blueprint: admin/pages/new_blog_item
+    show_in: bar
