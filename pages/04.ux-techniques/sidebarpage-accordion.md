@@ -1,6 +1,6 @@
 ---
 title: 'UX Techniques'
-hide_page_title: false
+published: false
 hide_git_sync_repo_link: false
 cache_enable: false
 content:
@@ -10,4 +10,3 @@ content:
         dir: asc
     limit: 0
 ---
-

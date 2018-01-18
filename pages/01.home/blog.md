@@ -9,6 +9,7 @@ content:
         by: date
         dir: desc
     pagination: true
+post_icon: calendar-o
 modular_content:
     items: '@self.modular'
     order:
