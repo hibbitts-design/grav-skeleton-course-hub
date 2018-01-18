@@ -47,10 +47,10 @@ hide_page_types:
   - swipedecklinkonly
 add_modals:
   -
-    label: Add Sidebar Page
+    label: Add Page with Sidebar
     blueprint: admin/pages/new_course_page
     show_in: bar
   -
     label: Add Blog Item
-    blueprint: admin/pages/new_blog_item
+    blueprint: admin/pages/new_course_blog_item
     show_in: bar
