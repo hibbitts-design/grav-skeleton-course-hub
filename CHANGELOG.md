@@ -1,3 +1,9 @@
+# v1.8.3
+## 01/17/2018
+
+1. [](#new)
+    * Added experimental "Add Sidebar Page" and "Add Blog Item" buttons in Admin Panel
+
 # v1.8.2
 ## 01/15/2018
 
