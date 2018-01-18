@@ -47,5 +47,3 @@ hidesidebaronblog:
   enabled: '0'
 chromelesspages:
   enabled: false
-icon:
-  post: calendar-o

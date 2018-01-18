@@ -5,7 +5,7 @@ form:
     fields:
         sectionone:
             type:                              section
-            title:                             Chromeless Pages
+            title:                             Chromeless Display
             underline:                         true
             ordering@:                         1
 
@@ -157,7 +157,7 @@ form:
 
         sectionsix:
             type:                              section
-            title:                             Blog Options
+            title:                             Blog Pages
             underline:                         true
             ordering@:                         6
 
@@ -165,7 +165,7 @@ form:
 
                 hidesidebaronblogpages.enabled:
                     type:                      toggle
-                    label:                     Display Sidebar on Blog Pages
+                    label:                     Display Sidebar on all Blog Pages
                     highlight:                 0
                     default:                   0
                     options:
@@ -173,16 +173,6 @@ form:
                         1:                     No
                     validate:
                         type:                  bool
-
-                icon.post:
-                    type:                      text
-                    size:                      medium
-                    label:                     Default Blog Post Font Awesome Icon
-                    default:                   'calendar-o'
-                    description:               Short name, e.g. 'calendar-o'.
-                    help:                      Determines the default Font Awesome icon used for the blog posts.
-                    validate:
-                        type:                  text
 
         sectionseven:
             type:                              section
