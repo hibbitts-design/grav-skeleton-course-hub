@@ -11,6 +11,13 @@ form:
       validate:
         required: true
 
+    test:
+        type: display
+        size: large
+        label:
+        markdown: true
+        content: "This page will appear under your Blog (i.e. Home) page."
+
     folder:
       type: hidden
       default: '@slugify-title'
