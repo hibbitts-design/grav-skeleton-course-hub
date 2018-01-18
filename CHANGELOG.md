@@ -1,3 +1,10 @@
+# v1.8.4
+## 01/18/2018
+
+1. [](#improved)
+    * Relocated Blog Post custom icon from Site options to Blog List options
+    * Updated default demo pages
+
 # v1.8.3
 ## 01/17/2018
 
