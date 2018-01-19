@@ -2,6 +2,7 @@
 title: Home
 body_classes: 'header-image fullwidth'
 child_type: item
+post_icon: calendar-o
 content:
     items: '@self.children'
     limit: 10
@@ -9,7 +10,6 @@ content:
         by: date
         dir: desc
     pagination: true
-post_icon: calendar-o
 modular_content:
     items: '@self.modular'
     order:
