@@ -157,28 +157,9 @@ form:
 
         sectionsix:
             type:                              section
-            title:                             Blog Pages
-            underline:                         true
-            ordering@:                         6
-
-            fields:
-
-                hidesidebaronblogpages.enabled:
-                    type:                      toggle
-                    label:                     Display Sidebar on all Blog Pages
-                    highlight:                 0
-                    default:                   0
-                    options:
-                        0:                     Yes
-                        1:                     No
-                    validate:
-                        type:                  bool
-
-        sectionseven:
-            type:                              section
             title:                             Creative Commons (CC) License
             underline:                         true
-            ordering@:                         7
+            ordering@:                         6
 
             fields:
                 cc_license.enabled:
