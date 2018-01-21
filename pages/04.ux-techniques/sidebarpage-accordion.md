@@ -1,6 +1,6 @@
 ---
 title: 'UX Techniques'
-published: false
+published: true
 hide_git_sync_repo_link: false
 cache_enable: false
 content:

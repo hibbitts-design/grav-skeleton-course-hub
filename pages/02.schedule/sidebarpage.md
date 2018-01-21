@@ -1,6 +1,6 @@
 ---
 title: Schedule
-published: true
+published: false
 ---
 
 #### [:fa-calendar: Week 1 (Sep 6 - 12)](/home/unit-01)
