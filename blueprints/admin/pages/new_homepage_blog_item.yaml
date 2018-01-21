@@ -3,7 +3,7 @@ form:
   fields:
     section:
         type: section
-        title: Add Blog Page Item
+        title: Add Homepage Blog Item
 
     title:
       type: text
