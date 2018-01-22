@@ -1,10 +1,10 @@
 # v2.0.0
-## 01/21/2018
+## 01/22/2018
 
 1. [](#improved)
     * Revised Admin Panel button bar labels to "Add Homepage Blog Item" and "Add Page with Sidebar"
     * Updated default demo pages
-    * Updated site.yaml options
+    * Updated site.yaml options file
 
 # v1.8.5
 ## 01/19/2018
