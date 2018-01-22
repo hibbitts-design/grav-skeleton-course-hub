@@ -15,7 +15,7 @@ summary:
   size: 300
   delimiter: '==='
 blog:
-  route: /blog
+  route: /home
 chromeless:
   enabled: false
 gitrepo:
@@ -32,18 +32,7 @@ menu:
     icon: arrow-circle-right
     url: 'http://getgrav.org/'
 hidehomemenulink: true
-hidesidebaronblogpages:
-  enabled: false
-twittertimeline:
-  enabled: false
-  url: 'https://twitter.com/hibbittsdesign/lists/cpt-363'
-  text: 'A Twitter Lists by @hibbittsdesign'
-  height: 700
 cc_license:
   enabled: false
   type: ccby
   icon: false
-hidesidebaronblog:
-  enabled: '0'
-chromelesspages:
-  enabled: false
