@@ -11,7 +11,7 @@ form:
       validate:
         required: true
 
-    test:
+    text:
         type: display
         size: large
         label:

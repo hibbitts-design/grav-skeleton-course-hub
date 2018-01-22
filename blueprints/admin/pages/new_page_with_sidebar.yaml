@@ -11,6 +11,12 @@ form:
       validate:
         required: true
 
+    text:
+        type: display
+        size: large
+        label:
+        content: "This top-level page will appear in your site menu."
+
     folder:
       type: hidden
       default: '@slugify-title'
