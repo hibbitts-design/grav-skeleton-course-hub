@@ -15,7 +15,7 @@ form:
         type: display
         size: large
         label:
-        content: "This top-level page will appear in your site menu."
+        content: "This top-level page will also be added to your site menu."
 
     folder:
       type: hidden
