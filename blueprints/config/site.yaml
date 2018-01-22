@@ -111,15 +111,15 @@ form:
 
         sectionfive:
             type:                              section
-            title:                             Menubar
+            title:                             Menu
             underline:                         true
             ordering@:                         5
 
             fields:
                 displaymenuentries.enabled:
                     type:                      toggle
-                    label:                     Display Custom Menubar Items
-                    help:                      Determines if any defined custom menubar entries are displayed in the menubar.
+                    label:                     Display Custom Menu Items
+                    help:                      Determines if any defined custom menu entries are displayed in the site menu.
                     default:                   0
                     highlight:                 1
                     options:
@@ -131,7 +131,7 @@ form:
                 menu:
                     name:                      menu
                     type:                      list
-                    label:                     Custom Menubar Items
+                    label:                     Custom Menu Items
                     fields:
                       .text:
                         type:                  text
@@ -145,8 +145,8 @@ form:
 
                 hidehomemenulink:
                     type:                      toggle
-                    label:                     Include Homepage Link in Menubar
-                    help:                      Determines if the link to the Homepage is included in the menubar.
+                    label:                     Include Homepage Link in Menu
+                    help:                      Determines if the link to the Homepage is included in the site menu.
                     default:                   0
                     highlight:                 0
                     options:
