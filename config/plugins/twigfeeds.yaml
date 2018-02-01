@@ -10,17 +10,17 @@ twig_feeds:
     source: 'http://blog.usabilla.com/feed/'
     name: 'Usabilla Blog'
     start: 0
-    end: 2
+    end: 4
     cache_time: 3600
   -
     source: 'http://uxmatters.com/index.xml'
     name: 'UX Matters'
     start: 0
-    end: 2
+    end: 4
     cache_time: 3600
   -
     source: 'https://uxdesign.cc/feed'
     name: 'UX Design Collective'
     start: 0
-    end: 2
+    end: 4
     cache_time: 3600
