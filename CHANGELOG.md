@@ -1,3 +1,9 @@
+# v2.0.1
+## 02/01/2018
+
+1. [](#improved)
+    * Updated default Twig Feed plugin settings
+
 # v2.0.0
 ## 01/22/2018
 
