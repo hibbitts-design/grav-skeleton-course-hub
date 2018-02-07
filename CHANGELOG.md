@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * Updated default Twig Feeds Plugin RSS feeds
+    * Updated default demo pages
 
 # v2.0.1
 ## 02/01/2018
