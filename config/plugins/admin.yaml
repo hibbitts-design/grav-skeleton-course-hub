@@ -2,7 +2,7 @@ enabled: true
 route: /admin
 cache_enabled: false
 theme: grav
-content_padding: false
+content_padding: true
 twofa_enabled: true
 sidebar:
   activate: tab
@@ -47,10 +47,10 @@ hide_page_types:
   - swipedecklinkonly
 add_modals:
   -
-    label: Add Homepage Blog Item
+    label: 'Add Homepage Blog Item'
     blueprint: admin/pages/new_homepage_blog_item
     show_in: bar
   -
-    label: Add Page with Sidebar
+    label: 'Add Page with Sidebar'
     blueprint: admin/pages/new_page_with_sidebar
     show_in: bar
