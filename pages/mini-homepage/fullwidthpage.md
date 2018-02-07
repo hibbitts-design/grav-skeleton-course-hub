@@ -1,5 +1,5 @@
 ---
-title: 'Home to Embed in LMS (i.e. Canvas)'
+title: 'Mini Homepage for Embedding'
 hide_page_title: true
 visible: false
 hide_git_sync_repo_link: true
