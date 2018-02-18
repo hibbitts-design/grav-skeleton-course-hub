@@ -11,18 +11,19 @@ form:
       validate:
         required: true
 
+    text:
+        type: display
+        size: large
+        label:
+        content: "This top-level page will also be added to your site menu."
+
     folder:
       type: hidden
       default: '@slugify-title'
 
     route:
-      type: select
-      label: PLUGIN_ADMIN.PARENT
-      classes: fancy
-      '@data-options': '\Grav\Common\Page\Pages::parents'
-      '@data-default': '\Grav\Plugin\admin::route'
-      options:
-        '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
+      type: hidden
+      default: /
 
     name:
       type: hidden

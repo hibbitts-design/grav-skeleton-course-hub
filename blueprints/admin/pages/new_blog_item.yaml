@@ -3,11 +3,11 @@ form:
   fields:
     section:
         type: section
-        title: Add Page with Sidebar
+        title: Add Blog Item
 
     title:
       type: text
-      label: Page Title
+      label: Blog Item Title
       validate:
         required: true
 
@@ -20,13 +20,13 @@ form:
       label: PLUGIN_ADMIN.PARENT
       classes: fancy
       '@data-options': '\Grav\Common\Page\Pages::parents'
-      '@data-default': '\Grav\Plugin\admin::route'
+      default: /home
       options:
         '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
 
     name:
       type: hidden
-      default: 'sidebarpage'
+      default: 'item'
 
     visible:
       type: hidden

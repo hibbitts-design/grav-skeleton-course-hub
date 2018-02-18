@@ -49,5 +49,5 @@ add_modals:
     show_in: bar
   -
     label: 'Add Page with Sidebar'
-    blueprint: admin/pages/new_page_with_sidebar
+    blueprint: admin/pages/new_toplevel_page_with_sidebar
     show_in: bar
