@@ -1,8 +1,13 @@
+# v2.0.4
+## 02/19/2018
+
+1. [](#improved)
+    * Updated default Admin Panel config
+
 # v2.0.3
 ## 02/13/2018
 
 1. [](#improved)
-    * Updated default Admin Panel config
     * Updated default demo pages
 
 # v2.0.2
