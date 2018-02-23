@@ -17,7 +17,7 @@ form:
 
     route:
       type: select
-      label: PLUGIN_ADMIN.PARENT
+      label: PLUGIN_ADMIN.PARENT_PAGE
       classes: fancy
       '@data-options': '\Grav\Common\Page\Pages::parents'
       '@data-default': '\Grav\Plugin\admin::route'
