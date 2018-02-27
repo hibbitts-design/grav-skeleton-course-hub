@@ -30,7 +30,7 @@ Usability Inspection ([Download slides as PDF](#))
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal)
-[plugin:content-inject](/ux-techniques/how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys)  
-[plugin:content-inject](/ux-techniques/how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks)
-[plugin:content-inject](/ux-techniques/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal)  
+[plugin:content-inject](/topics-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal)
+[plugin:content-inject](/topics-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys)  
+[plugin:content-inject](/topics-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks)
+[plugin:content-inject](/topics-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal)  

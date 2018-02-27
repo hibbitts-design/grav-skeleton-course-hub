@@ -32,4 +32,4 @@ The Process of UX Design ([Download slides as PDF](#))
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques/what-does-a-holistic-user-experience-design-process-look-like/user-centered-design)   
+[plugin:content-inject](/topics-guide/what-does-a-holistic-user-experience-design-process-look-like/user-centered-design)   

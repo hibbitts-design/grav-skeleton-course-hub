@@ -13,4 +13,4 @@ page-inject:
 
 <hr>
 
-[plugin:page-inject](/web-pick-of-the-week)
+[plugin:page-inject](/website-card)

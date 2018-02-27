@@ -30,5 +30,5 @@ User Interface Inspections ([Download slides as PDF](#))
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques/how-to-conduct-a-usability-inspection/cognitive-walkthroughs)  
-[plugin:content-inject](/ux-techniques/how-to-conduct-a-usability-inspection/heuristic-evaluations)  
+[plugin:content-inject](/topics-guide/how-to-conduct-a-usability-inspection/cognitive-walkthroughs)  
+[plugin:content-inject](/topics-guide/how-to-conduct-a-usability-inspection/heuristic-evaluations)  

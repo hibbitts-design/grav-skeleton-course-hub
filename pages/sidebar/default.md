@@ -21,7 +21,7 @@ Another Name
 [Grades](https://canvas.sfu.ca/grades)  
 [Syllabus](https://canvas.sfu.ca/courses/36662/assignments/syllabus)
 
-[plugin:page-inject](/web-pick-of-the-week)
+[plugin:page-inject](/website-card)
 
 ##### Twitter Feed
 <a class="twitter-timeline"  href="https://twitter.com/hibbittsdesign/lists/cpt-363" data-widget-id="684866063188676608">Tweets from https://twitter.com/hibbittsdesign/lists/cpt-363</a>

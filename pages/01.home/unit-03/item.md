@@ -27,8 +27,8 @@ Strategic UX Design ([Download slides as PDF](#))
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/journey-mapping)
-[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/problem-statements)  
-[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/design-principles-product)  
-[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/value-proposition)  
-[plugin:content-inject](/ux-techniques/how-to-make-more-strategic-design-decisions/user-experience-strategy)  
+[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/journey-mapping)
+[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/problem-statements)  
+[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/design-principles-product)  
+[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/value-proposition)  
+[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/user-experience-strategy)  

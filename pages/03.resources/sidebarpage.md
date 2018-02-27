@@ -7,7 +7,6 @@ published: true
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
 *   [Online Guide to Reflective Writing](https://nile.northampton.ac.uk/bbcswebdav/pid-1244383-dt-content-rid-3278540_1/courses/Centre-for-Achievement-and-Performance/Skills/Reflective%20Writing/Reflective%20Writing%20-%20Feb%202017.pdf)
 *   [Reflective Toolbox](http://writeonline.ca/media/documents/ReflectiveToolbox.pdf)
-*   [Reflective writing: a basic introduction](http://www.port.ac.uk/media/contacts-and-departments/student-support-services/ask/downloads/Reflective-writing---a-basic-introduction.pdf)
 
 #### UX Platform Guideline Collections  
 *   [Android User Interface Design Guidelines](https://developer.android.com/guide/practices/ui_guidelines/index.html)

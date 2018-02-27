@@ -35,6 +35,6 @@ Create [team project group](https://canvas.sfu.ca/courses/36662/users)
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/problem-statements)
-[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/usability)
-[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/user-experience-design)  
+[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/problem-statements)
+[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/usability)
+[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/user-experience-design)  
