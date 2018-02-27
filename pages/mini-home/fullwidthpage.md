@@ -13,4 +13,4 @@ page-inject:
 
 <hr>
 
-[plugin:page-inject](/website-card)
+[plugin:page-inject](/webpage-card)
