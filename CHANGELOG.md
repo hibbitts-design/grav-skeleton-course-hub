@@ -1,3 +1,9 @@
+# v2.0.7
+## 03/16/2018
+
+1. [](#improved)
+    * Changed skeleton author information to Hibbitts Design
+
 # v2.0.6
 ## 03/12/2018
 
