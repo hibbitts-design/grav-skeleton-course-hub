@@ -1,0 +1,31 @@
+form:
+  validation: loose
+  fields:
+    section:
+        type: section
+        title: Add H5P Content Item
+
+    title:
+      type: text
+      label: H5P Content Title
+      validate:
+        required: true
+
+    folder:
+      type: hidden
+      default: '@slugify-title'
+
+    route:
+      type: hidden
+      default: /h5p-content
+
+    name:
+      type: hidden
+      default: 'h5pcontent'
+
+    visible:
+      type: hidden
+      default: ''
+
+    blueprint:
+      type: blueprint
