@@ -24,15 +24,4 @@ User Research ([Download slides as PDF](#))
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://player.vimeo.com/video/7099570" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ##### Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/">A Five-Step Process For Conducting User Research</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-##### Supplemental Readings  
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/contextual-inquiry)
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/empathy-maps)
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/interviews)  
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/job-stories)  
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/personas-proto)    
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/surveys)  
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis)  
-[plugin:content-inject](/topics-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research)  
+[plugin:page-inject](/all-readings/unit-05)

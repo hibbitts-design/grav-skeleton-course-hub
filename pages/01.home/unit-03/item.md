@@ -23,12 +23,6 @@ Strategic UX Design ([Download slides as PDF](#))
 [Project Proposal - Individual Component](https://canvas.sfu.ca/courses/36662/assignments/240533)  
 
 ##### Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxmatters.com/mt/archives/2012/09/3-keys-to-aligning-ux-with-business-strategy.php">3 Keys to Aligning UX with Business Strategy</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[plugin:page-inject](/all-readings/unit-03)
 
-##### Supplemental Readings  
-[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/journey-mapping)
-[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/problem-statements)  
-[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/design-principles-product)  
-[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/value-proposition)  
-[plugin:content-inject](/topics-guide/how-to-make-more-strategic-design-decisions/user-experience-strategy)  
+[plugin:page-inject](/h5p-content/journey-map)
