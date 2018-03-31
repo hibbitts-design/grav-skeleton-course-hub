@@ -26,6 +26,7 @@ User Interface Inspections ([Download slides as PDF](#))
 [Usability Inspection Report Template](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Usability%20Inspection%20Report%20Template#)
 
 ##### Required Reading  
-[plugin:page-inject](/all-readings/unit-04)
+[An Overview of Expert Heuristic Evaluations](https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php)
 
+##### Quick Quiz
 [plugin:page-inject](/h5p-content/heuristic-evaluation)

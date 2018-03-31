@@ -26,4 +26,4 @@ Usability Inspection ([Download slides as PDF](#))
 [Usability Inspection Peer Reviews](https://canvas.sfu.ca/courses/36662/)
 
 ##### Required Reading  
-[plugin:page-inject](/all-readings/unit-06)
+[The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)

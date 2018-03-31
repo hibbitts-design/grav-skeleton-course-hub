@@ -1,5 +1,5 @@
 ---
-title: 'User-Centered Design'
+title: 'Digital Machine'
 hp5_content_id: '213957'
 published: true
 visible: false

@@ -31,6 +31,7 @@ Create [team project group](https://canvas.sfu.ca/courses/36662/users)
 [Course Overview](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Course%20Overview)  
 
 ##### Recommended Reading  
-[plugin:page-inject](/all-readings/unit-01)
+[Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
+##### Quick Quiz
 [plugin:page-inject](/h5p-content/usability)

@@ -1,8 +1,0 @@
----
-title: 'Week 8 - A Lean UX Iteration on Dropbox Photos'
-published: true
-visible: false
-embedly_card_title: 'A Lean UX Iteration on Dropbox Photos'
-embedly_card_alignment: left
-embedly_card_url: 'https://medium.com/bridge-collection/a-lean-ux-iteration-on-dropbox-photos-edfa7b245c27#.fdtsczbnj'
----
