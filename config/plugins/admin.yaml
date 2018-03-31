@@ -52,7 +52,3 @@ add_modals:
     label: 'Add Page with Sidebar'
     blueprint: admin/pages/new_toplevel_page_with_sidebar
     show_in: bar
-  -
-    label: 'Add H5P Content Item'
-    blueprint: admin/pages/new_h5p_content_item
-    show_in: dropdown
