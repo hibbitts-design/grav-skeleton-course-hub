@@ -28,7 +28,7 @@ The Process of UX Design ([Download slides as PDF](#))
 [Product Reaction Cards](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Product%20Reaction%20Cards)  
 
 ##### Recommended Reading  
-[Designing Digital Products with Mental Models](https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2)
+[embedly url="https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2"]
 
-##### Quick Quiz  
-[plugin:page-inject](/h5p-content/digital-machine)
+##### Quick Quiz
+[h5p id="213957"]
