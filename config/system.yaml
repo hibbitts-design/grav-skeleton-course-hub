@@ -124,6 +124,7 @@ media:
   upload_limit: 33554432
 session:
   enabled: true
+  initialize: true
   timeout: 1800
   name: grav-site
   secure: false
