@@ -53,6 +53,10 @@ add_modals:
     blueprint: admin/pages/new_toplevel_page_with_sidebar
     show_in: bar
   -
-    label: 'Add H5P Content Item'
-    blueprint: admin/pages/new_h5p_content_item
+    label: 'Add H5P Content Page'
+    blueprint: admin/pages/new_h5p_content_page
+    show_in: dropdown
+  -
+    label: 'Add Embedly Card Page'
+    blueprint: admin/pages/new_embedly_card_page
     show_in: dropdown

@@ -1,0 +1,31 @@
+form:
+  validation: loose
+  fields:
+    section:
+        type: section
+        title: Add Embedly Card Page
+
+    title:
+      type: text
+      label: Embedly Card Title
+      validate:
+        required: true
+
+    folder:
+      type: hidden
+      default: '@slugify-title'
+
+    route:
+      type: hidden
+      default: /
+
+    name:
+      type: hidden
+      default: 'embedlycard'
+
+    visible:
+      type: hidden
+      default: ''
+
+    blueprint:
+      type: blueprint
