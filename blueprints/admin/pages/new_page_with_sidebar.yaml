@@ -20,7 +20,7 @@ form:
       label: PLUGIN_ADMIN.PARENT_PAGE
       classes: fancy
       '@data-options': '\Grav\Common\Page\Pages::parents'
-      '@data-default': '\Grav\Plugin\admin::route'
+      default: '/'
       options:
         '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
 

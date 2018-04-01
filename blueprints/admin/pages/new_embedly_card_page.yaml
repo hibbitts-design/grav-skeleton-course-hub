@@ -3,7 +3,7 @@ form:
   fields:
     section:
         type: section
-        title: Add Embedly Card Page
+        title: Add Embedly Card Content
 
     title:
       type: text
@@ -16,8 +16,13 @@ form:
       default: '@slugify-title'
 
     route:
-      type: hidden
-      default: /
+      type: select
+      label: PLUGIN_ADMIN.PARENT_PAGE
+      classes: fancy
+      '@data-options': '\Grav\Common\Page\Pages::parents'
+      default: '/'
+      options:
+        '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
 
     name:
       type: hidden

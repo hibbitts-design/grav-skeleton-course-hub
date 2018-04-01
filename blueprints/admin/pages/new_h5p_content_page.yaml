@@ -3,7 +3,7 @@ form:
   fields:
     section:
         type: section
-        title: Add H5P Content Page
+        title: Add H5P Content
 
     title:
       type: text
@@ -16,8 +16,11 @@ form:
       default: '@slugify-title'
 
     route:
-      type: hidden
-      default: /
+      type: select
+      label: PLUGIN_ADMIN.PARENT_PAGE
+      classes: fancy
+      '@data-options': '\Grav\Common\Page\Pages::parents'
+      default: '/h5p'
 
     name:
       type: hidden
