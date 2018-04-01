@@ -45,22 +45,14 @@ popularity:
     visitors: '20'
 add_modals:
   -
-    label: 'Add Homepage Blog Item'
-    blueprint: admin/pages/new_homepage_blog_item
+    label: 'Add Blog Item'
+    blueprint: admin/pages/new_blog_item
     show_in: bar
   -
     label: 'Add Page with Sidebar'
-    blueprint: admin/pages/new_toplevel_page_with_sidebar
+    blueprint: admin/pages/new_page_with_sidebar
     show_in: bar
   -
     label: 'Add Fullwidth Page'
-    blueprint: admin/pages/new_toplevel_fullwidth_page
-    show_in: dropdown
-  -
-    label: 'Add H5P Content Page'
-    blueprint: admin/pages/new_h5p_content_page
-    show_in: dropdown
-  -
-    label: 'Add Embedly Card Page'
-    blueprint: admin/pages/new_embedly_card_page
+    blueprint: admin/pages/new_fullwidth_page
     show_in: dropdown
