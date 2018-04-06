@@ -1,3 +1,16 @@
+# v2.0.9
+## 04/06/2018
+
+1. [](#new)
+    * Added experimental H5P Shortcode support (in the formats of [h5p id=ID] and [h5p url=URL])
+    * Added support for H5P Content Root Path URL setting in site config
+    * Added experimental Embed.ly Card Shortcode support (in the format of [embedly url=URL])
+    * Added experimental Swipe Shortcode support (in the format of [swipe id=ID])
+    * Added Shortcode Core Plugin as dependency
+    * Added "Add Fullwidth Page" dropdown menu item in Admin Panel
+1. [](#improved)
+    * Updated default demo pages
+
 # v2.0.8
 ## 03/16/2018
 
