@@ -157,9 +157,26 @@ form:
 
         sectionsix:
             type:                              section
-            title:                             Creative Commons (CC) License
+            title:                             H5P Setup
             underline:                         true
             ordering@:                         6
+
+            fields:
+                h5pembedrootpath:
+                    type:                      text
+                    size:                      long
+                    label:                     H5P Content Root Path
+                    default:                   'https://h5p.org/h5p/embed/'
+                    help:                      Enter the embed root path URL up to, but not including, the H5P Content ID.
+                    description:               "H5P embed URL path up to, but not including, the Content ID. For example, for h5p.org the URL would be 'https://h5p.org/h5p/embed/'."
+                    validate:
+                        type:                  URL
+
+        sectionseven:
+            type:                              section
+            title:                             Creative Commons (CC) License
+            underline:                         true
+            ordering@:                         7
 
             fields:
                 cc_license.enabled:
