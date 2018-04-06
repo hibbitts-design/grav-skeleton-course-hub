@@ -36,3 +36,4 @@ cc_license:
   enabled: false
   type: ccby
   icon: false
+h5pembedrootpath: 'https://h5p.org/h5p/embed/'
