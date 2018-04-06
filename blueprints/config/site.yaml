@@ -165,10 +165,10 @@ form:
                 h5pembedrootpath:
                     type:                      text
                     size:                      long
-                    label:                     H5P Content Root Path
+                    label:                     H5P Embed Source URL
                     default:                   'https://h5p.org/h5p/embed/'
-                    help:                      Enter the embed root path URL up to, but not including, the H5P Content ID.
-                    description:               "H5P embed URL path up to, but not including, the Content ID. For example, for h5p.org the URL would be 'https://h5p.org/h5p/embed/'."
+                    help:                      Enter the embed source URL path up to, but not including, the H5P Content ID.
+                    description:               "H5P embed source URL path up to, but not including, the Content ID. For example, for h5p.org the URL would be 'https://h5p.org/h5p/embed/'."
                     validate:
                         type:                  URL
 
