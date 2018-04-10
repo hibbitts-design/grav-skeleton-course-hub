@@ -55,6 +55,7 @@ Grav Course Hub Highlights
 					<li>Optional important reminders and unit preparations areas</li>
 					<li>Supports custom page types and modular content</li>
 					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>, <a href="http://embed.ly/">embed.ly card</a>, <a href="https://www.swipe.to/">swipe.to</a> and <a href="https://twitter.com/">Twitter feed</a> pages</li>
+					<li>Includes ShortCodes for <a href="https://h5p.org/">H5P</a>, <a href="http://embed.ly/">embed.ly cards</a>, and <a href="https://www.swipe.to/">swipe.to</a></li>
 					<li>Hub pages can be easily added/removed/changed</li>
 					<li>External links can be automatically opened in a new Tab/Window</li>
           <li>Custom links can be added to site navigation bar</li>
