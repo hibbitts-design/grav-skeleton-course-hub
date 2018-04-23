@@ -1,3 +1,13 @@
+# v2.1.0
+## 04/23/2018
+
+1. [](#new)
+    * Added swipe blueprint for swipe custom content pages
+    * Added option to hide custom content item titles
+    * Added embedly card and swipe deck title only page templates
+1. [](#improved)
+    * Updated 'advanced' course examples in theme '_demo' folder
+
 # v2.0.9
 ## 04/06/2018
 
