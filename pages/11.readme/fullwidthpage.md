@@ -13,7 +13,7 @@ hide_git_sync_repo_link: false
 
 **How about embedding any page from this site into your LMS or another platform?**  
 
-By adding the URL parameter `chromeless:true` to any Open Course Hub page you can display that page's content without the global header image, site navigation bar, sidebar and footer.  
+By adding the URL parameter (i.e. flag) `chromeless:true` to any Open Course Hub page you can display that page's content without the global header image, site navigation bar, sidebar and footer.  
 
 For example, the URL [http://demo.hibbittsdesign.org/grav-course-hub/schedule](http://demo.hibbittsdesign.org/grav-course-hub/schedule) displays the standard Open Course Hub page but the URL [http://demo.hibbittsdesign.org/grav-course-hub/schedule/chromeless:true](http://demo.hibbittsdesign.org/grav-course-hub/schedule/chromeless:true) will only display that page's content. Any links between Open Course Hub pages will result in pages being displayed in the same manner.
 
