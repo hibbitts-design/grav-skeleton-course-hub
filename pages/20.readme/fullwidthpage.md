@@ -20,6 +20,8 @@ For example, the URL [http://demo.hibbittsdesign.org/grav-course-hub/schedule](h
 **Looking for more examples of what the Open Course Hub can do?**  
 You can also download two other variations of Open Course Hub package - [Basic Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-basic.zip) (with fewer example pages and features shown) or [Advanced Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-advanced.zip) (with more example pages and features shown). There is also a [Multi-course Hub](http://learn.hibbittsdesign.org/coursehub/multi-course-hubs), designed to house several courses. All of these examples are available in the Open Course Hub folder `/user/themes/course-hub-bootstrap/_demo/`
 
+Learn more about the Open Course Hub project at [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org/coursehub).
+
 <hr>
 
 Want to no longer display this page on your site?  
