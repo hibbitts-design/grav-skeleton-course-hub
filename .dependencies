@@ -63,10 +63,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-shortcode-core
         path: user/plugins/shortcode-core
         branch: master
-    sitemap:
-        url: https://github.com/getgrav/grav-plugin-sitemap
-        path: user/plugins/sitemap
-        branch: master
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube
