@@ -2,7 +2,6 @@
 title: Read Me
 published: true
 hide_page_title: true
-hide_git_sync_repo_link: false
 ---
 
 ### Easily Publish, Share and Collaborate using Grav Open Course Hub!  
