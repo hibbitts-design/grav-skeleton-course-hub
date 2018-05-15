@@ -1,3 +1,11 @@
+# v2.1.2
+## 05/15/2018
+
+1. [](#improved)
+    * Removed Sitemap Plugin dependency
+    * Removed the display of "Normal/Expert" Admin Panel toggle button (via CSS in the CustomAdmin Plugin)
+    * Removed seldom needed "Advanced" Tab options within the Admin Panel (via custom default.yaml blueprint)
+
 # v2.1.1
 ## 04/27/2018
 
