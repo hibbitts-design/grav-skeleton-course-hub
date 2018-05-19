@@ -41,6 +41,7 @@ Grav Course Hub Highlights
 				<ul>
 					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
 					<li>Minimal server requirements (PHP 5.5.9 or higher, no database required)</li>
+					<li>Includes a simplified version of standard Grav Admin Panel</li>
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
 					<li>Single or multiple courses per hub installation</li>
 					<li>Global 'Chromeless Pages' site setting for all pages (for embedding entire site within LMS)
