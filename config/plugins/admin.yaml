@@ -57,11 +57,14 @@ add_modals:
     blueprint: admin/pages/new_fullwidth_page
     show_in: dropdown
 hide_page_types:
+  - customcontentlist
   - embedlycardlinkonly
   - embedlycardtitleonly
   - error
   - external
+  - form
   - formdata
+  - itemwithsummaryfield
   - page
   - pdftitleonly
   - pdflinkonly
