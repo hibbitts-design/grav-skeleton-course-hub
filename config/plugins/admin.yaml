@@ -56,3 +56,17 @@ add_modals:
     label: 'Add Fullwidth Page'
     blueprint: admin/pages/new_fullwidth_page
     show_in: dropdown
+hide_page_types:
+  - embedlycardlinkonly
+  - embedlycardtitleonly
+  - error
+  - external
+  - formdata
+  - page
+  - pdftitleonly
+  - pdflinkonly
+  - simplesearch_results
+  - speakerdecklinkonly
+  - speakerdecktitleonly
+  - swipedecklinkonly
+  - swipedecktitleonly
