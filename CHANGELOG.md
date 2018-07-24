@@ -3,6 +3,8 @@
 
 1. [](#new)
     * Added Git Sync plugin option to disable automatic synchronization upon page saves (manual sync required)
+1. [](#improved)
+    * Added list of page types to not display in Admin Panel
 
 # v2.1.2
 ## 05/15/2018
