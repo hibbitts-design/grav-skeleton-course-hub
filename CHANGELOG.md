@@ -1,3 +1,9 @@
+# v2.1.3
+## 07/24/2018
+
+1. [](#new)
+    * Added Git Sync plugin option to disable automatic synchronization upon page saves (manual sync required)
+
 # v2.1.2
 ## 05/15/2018
 
