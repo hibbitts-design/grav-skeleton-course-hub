@@ -16,24 +16,3 @@ summary:
   delimiter: '==='
 blog:
   route: /home
-chromeless:
-  enabled: false
-gitrepo:
-  editlinklocation: menu
-  editthemelinklocation: none
-  editthemelinktext: 'Site Theme Files'
-  typeofgitsyncrepolink: edit
-  editnotetext: 'Have a suggestion?'
-displaymenuentries:
-  enabled: false
-menu:
-  -
-    text: Grav
-    icon: arrow-circle-right
-    url: 'http://getgrav.org/'
-hidehomemenulink: true
-cc_license:
-  enabled: false
-  type: ccby
-  icon: false
-h5pembedrootpath: 'https://h5p.org/h5p/embed/'
