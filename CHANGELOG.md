@@ -1,3 +1,9 @@
+# v2.5.0
+## XX/XX/2018
+
+1. [](#new)
+    * Updated with the new Bootstrap4 Open Matter theme
+
 # v2.1.3
 ## 07/24/2018
 
