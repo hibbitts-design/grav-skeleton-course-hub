@@ -20,7 +20,7 @@ Quick Install Instructions
 
 **Installation Steps**  
 
-1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)
+1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site.zip)
 2. Unzip the package onto your desktop  
 3. Copy the entire Grav Course Hub folder to your Web server  
 4. Point your browser to the Web server folder  
