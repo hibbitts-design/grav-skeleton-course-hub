@@ -1,3 +1,9 @@
+# v2.5.1
+## 08/03/2018
+
+1. [](#new)
+    * Fixed getgrav.org links to demo and documentation
+
 # v2.5.0
 ## 08/03/2018
 
