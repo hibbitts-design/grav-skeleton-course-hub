@@ -1,4 +1,4 @@
-# Grav Course Hub Skeleton
+# Grav Open Matter Course Hub Skeleton
 
 [![Demo](https://img.shields.io/badge/Demo-CourseHub-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-course-hub/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE)
@@ -9,7 +9,7 @@
 
 Information and Documentation
 ---
-http://learn.hibbittsdesign.org/coursehub
+http://learn.hibbittsdesign.org/openmattercoursehub
 
 Quick Install Instructions
 ---
@@ -29,10 +29,10 @@ Quick Install Instructions
 
 Grav Course Hub Screenshot
 ---
-![Course Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/course-hub-screenshot.jpg?raw=true)  
-_Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore an example **single** course site at [demo.hibbittsdesign.org/grav-course-hub/](http://demo.hibbittsdesign.org/grav-course-hub/) and a **multiple** course site at [demo.hibbittsdesign.org/grav-multi-course-hub/](http://demo.hibbittsdesign.org/grav-multi-course-hub/)._
+![Course Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/open-matter-course-hub.png?raw=true)  
+_Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore an example open matter course hub site at [demo.hibbittsdesign.org/grav-open-matter-course-hub/](http://demo.hibbittsdesign.org/grav-open-matter-course-hub/)._
 
-Grav Course Hub Highlights
+Grav Open Matter Course Hub Highlights
 ---
 <table cellpadding="2" cellspacing="2" width="100%">
 	<tbody>
@@ -41,6 +41,7 @@ Grav Course Hub Highlights
 				<ul>
 					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
 					<li>Minimal server requirements (PHP 5.5.9 or higher, no database required)</li>
+					<li>Built using the <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Bootstrap 4</a> responsive framework</li>
 					<li>Includes a simplified version of standard Grav Admin Panel</li>
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
 					<li>Single or multiple courses per hub installation</li>
