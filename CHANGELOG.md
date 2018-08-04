@@ -1,3 +1,9 @@
+# v2.5.2
+## 08/04/2018
+
+1. [](#improved)
+    * Added note in Site configuration settings about new location for Open Course Hub settings (My Theme)
+
 # v2.5.1
 ## 08/03/2018
 
