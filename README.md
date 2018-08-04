@@ -5,7 +5,7 @@
 
 [![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
-**Grav Course Hub** with Git Sync is designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Built with the open source modern file-based [Grav CMS](http://getgrav.org).
+**Grav Open Course Hub** with Git Sync is designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
 Information and Documentation
 ---
@@ -20,17 +20,17 @@ Quick Install Instructions
 
 **Installation Steps**  
 
-1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site.zip)
+1. Download the ready-to-run [Open Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site.zip)
 2. Unzip the package onto your desktop  
-3. Copy the entire Grav Course Hub folder to your Web server  
+3. Copy the entire Grav Open Course Hub folder to your Web server  
 4. Point your browser to the Web server folder  
 5. Create your site administrator account when prompted  
 6. And you're done! (press the ![Right Arrow Circle Icon](https://github.com/paulhibbitts/github-repo-images/blob/master/fa-arrow-circle-right.png?raw=true) icon in the Admin Panel to preview site)
 
-Grav Course Hub Screenshot
+Grav Open Course Hub Screenshot
 ---
 ![Course Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/open-matter-course-hub.png?raw=true)  
-_Figure 1. Example Grav Course Hub website, with GitHub collaborative page editing enabled.  Explore an example open matter course hub site at [demo.hibbittsdesign.org/grav-open-matter-course-hub/](http://demo.hibbittsdesign.org/grav-open-matter-course-hub/)._
+_Figure 1. Example Grav Open Course Hub website, with GitHub collaborative page editing enabled.  Explore an example open matter course hub site at [demo.hibbittsdesign.org/grav-open-matter-course-hub/](http://demo.hibbittsdesign.org/grav-open-matter-course-hub/)._
 
 Grav Open Matter Course Hub Highlights
 ---
