@@ -1,3 +1,10 @@
+# v2.5.3
+## 08/06/2018
+
+1. [](#improved)
+    * Updated default NavBar (Bootstrap4 Menubar) colour
+    * Updated skeleton screenshot
+
 # v2.5.2
 ## 08/04/2018
 

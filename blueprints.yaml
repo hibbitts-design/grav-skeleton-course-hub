@@ -1,6 +1,6 @@
 name: Open Course Hub Site
-version: 2.5.2
-description: "Open Course Hub with Git Sync, designed to support an open, collaborative and flexible environment - inside or outside of your current platform (e.g. LMS). Includes the new Open Matter Bootstrap4 theme."
+version: 2.5.3
+description: "Open Matter Course Hub with Git Sync, designed to support an open, collaborative and flexible environment - inside or outside of your current platform (e.g. LMS). Includes the new Bootstrap4 Open Matter theme."
 icon: university
 author:
  name: Hibbitts Design
