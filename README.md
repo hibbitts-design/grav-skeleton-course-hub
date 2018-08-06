@@ -9,7 +9,7 @@
 
 Information and Documentation
 ---
-http://learn.hibbittsdesign.org/openmattercoursehub
+http://learn.hibbittsdesign.org/coursehub
 
 Quick Install Instructions
 ---
