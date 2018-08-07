@@ -1,3 +1,9 @@
+# v2.5.4
+## 08/06/2018
+
+1. [](#improved)
+    * Updated skeleton title
+
 # v2.5.3
 ## 08/06/2018
 
