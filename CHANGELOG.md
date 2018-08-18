@@ -1,3 +1,9 @@
+# v2.5.5
+## 08/18/2018
+
+1. [](#improved)
+    * Updated Git Sync plugin settings to include automatic synchronization options
+
 # v2.5.4
 ## 08/06/2018
 
