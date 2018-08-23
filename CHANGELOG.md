@@ -1,8 +1,14 @@
+# v2.5.6
+## 08/23/2018
+
+1. [](#new)
+    * Updated default demo pages
+
 # v2.5.5
 ## 08/18/2018
 
-1. [](#improved)
-    * Updated Git Sync plugin settings to include automatic synchronization options
+1. [](#new)
+    * Added experimental automatic synchronization settings for Git Sync plugin
 
 # v2.5.4
 ## 08/06/2018
