@@ -2,14 +2,21 @@
 title: Home
 body_classes: 'header-image fullwidth'
 child_type: item
-post_icon: calendar-o
 content:
     items: '@self.children'
     limit: 10
     order:
         by: date
         dir: desc
-    pagination: true
+    pagination: '1'
+hero_scroll: false
+show_sidebar: true
+markdown_area_location: top
+display_post_summary: false
+post_icon: calendar-o
+hide_post_date: false
+hide_post_taxonomy: false
+hide_git_sync_repo_link: false
 modular_content:
     items: '@self.modular'
     order:
@@ -21,3 +28,4 @@ feed:
     description: 'Grav CMS Open Course Hub Description'
     limit: 10
 ---
+

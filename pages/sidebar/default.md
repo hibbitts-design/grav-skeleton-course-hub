@@ -2,6 +2,7 @@
 title: Sidebar
 routable: false
 visible: false
+position: top
 ---
 
 ##### Course Facilitators
