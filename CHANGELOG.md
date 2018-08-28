@@ -1,3 +1,9 @@
+# v2.5.7
+## 08/28/2018
+
+1. [](#new)
+    * Added experimental support for Bootswatch theme styles
+
 # v2.5.6
 ## 08/23/2018
 
