@@ -1,3 +1,13 @@
+# v2.5.8
+## 08/29/2018
+
+1. [](#new)
+    * Added PDF and Twitter Shortcode support
+    * Added insert PDF Shortcode button into Editor toolbar
+    * Added new HP5 page templates
+1. [](#improved)
+    * Updated default demo pages
+
 # v2.5.7
 ## 08/28/2018
 
@@ -7,7 +17,7 @@
 # v2.5.6
 ## 08/23/2018
 
-1. [](#new)
+1. [](#improved)
     * Updated default demo pages
 
 # v2.5.5
