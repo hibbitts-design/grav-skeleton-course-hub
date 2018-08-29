@@ -1,6 +1,6 @@
 ---
 title: 'Web Pick of the Week'
-published: true
+published: false
 visible: false
 embedly_card_title: 'Ideation in Practice: How Effective UX Teams Generate Ideas'
 embedly_card_alignment: left
