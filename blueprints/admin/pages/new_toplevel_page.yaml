@@ -3,8 +3,7 @@ form:
   fields:
     section:
         type: section
-        title: Add Page with Sidebar
-
+        title: Add Page
     title:
       type: text
       label: Page Title
@@ -27,7 +26,7 @@ form:
 
     name:
       type: hidden
-      default: 'sidebarpage'
+      default: 'page'
 
     visible:
       type: hidden
