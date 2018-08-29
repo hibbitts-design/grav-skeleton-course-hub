@@ -2,6 +2,7 @@
 title: 'Mini Homepage for Embedding'
 hide_page_title: true
 visible: false
+show_sidebar: false
 hide_git_sync_repo_link: true
 page-inject:
     processed_content: null

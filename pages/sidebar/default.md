@@ -25,5 +25,4 @@ Another Name
 [plugin:page-inject](/webpage-card)
 
 ##### Twitter Feed
-<a class="twitter-timeline"  href="https://twitter.com/hibbittsdesign/lists/cpt-363" data-widget-id="684866063188676608">Tweets from https://twitter.com/hibbittsdesign/lists/cpt-363</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+[twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"]
