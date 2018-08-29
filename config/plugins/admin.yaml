@@ -49,13 +49,9 @@ add_modals:
     blueprint: admin/pages/new_blog_item
     show_in: bar
   -
-    label: 'Add Page with Sidebar'
-    blueprint: admin/pages/new_page_with_sidebar
+    label: 'Add Page'
+    blueprint: admin/pages/new_page
     show_in: bar
-  -
-    label: 'Add Fullwidth Page'
-    blueprint: admin/pages/new_fullwidth_page
-    show_in: dropdown
 hide_page_types:
   - customcontentlist
   - default
@@ -65,10 +61,17 @@ hide_page_types:
   - external
   - form
   - formdata
+  - fullwidthpage
+  - fullwidthpage-accordion
+  - fullwidthpage-rssfeeds
+  - h5ptitleonly
+  - h5plinkonly
   - itemwithsummaryfield
-  - page
   - pdftitleonly
   - pdflinkonly
+  - sidebarpage
+  - sidebarpage-accordion
+  - sidebarpage-rssfeeds
   - simplesearch_results
   - speakerdecklinkonly
   - speakerdecktitleonly
