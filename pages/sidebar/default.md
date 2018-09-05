@@ -5,24 +5,27 @@ visible: false
 position: top
 ---
 
-##### Course Facilitators
+##### Course Facilitator
 Some Name  
 <somename@somewhere.edu>   
-Office hours Mon. 4:00-5:15pm  
-Harbour Centre 2146  
 
-Another Name  
-<anothername@somewhere.edu>  
+In-person office hours:  
+Wednesdays 2:30-4:00pm  
+TASC 1 9409  
+
+Virtual office hours chat:  
+Mondays 12:00-1:30pm   
+Fridays 12:00-1:00pm
 
 ##### Canvas LMS
-[Calendar](https://canvas.sfu.ca/calendar)  
-[Assignments](https://canvas.sfu.ca/courses/36662/assignments)  
-[Quizzes](https://canvas.sfu.ca/courses/36662/quizzes)  
-[Class Discussions](https://canvas.sfu.ca/courses/36662/discussion_topics)  
-[Grades](https://canvas.sfu.ca/grades)  
-[Syllabus](https://canvas.sfu.ca/courses/36662/assignments/syllabus)
+[Calendar](https://sso.canvaslms.com/calendar)  
+[Assignments](https://sso.canvaslms.com/courses/1413912/assignments)  
+[Quizzes](https://sso.canvaslms.com/courses/1413912/quizzes)  
+[Class Discussions](https://sso.canvaslms.com/courses/1413912/discussion_topics)  
+[Grades](https://sso.canvaslms.com/courses/1413912/grades)  
 
-[plugin:page-inject](/webpage-card)
+##### Web Pick of the Week
+[plugin:page-inject](/web-pick-of-the-week/)
 
 ##### Twitter Feed
 [twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"]

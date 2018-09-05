@@ -32,19 +32,19 @@ _Effectively working in a team and both verbal and written communication skills 
 1. What are the essentials of effective visual communication?
 
 ##### Course Assignments (tentative)
-Individual (46%)
-* Weekly Reading Quizzes: 6%
-* Usability Inspection (including required peer reviews): 25%
-* Project Brief - Individual Component: 1%
-* User Research and Usability Testing - Individual Component: 7%
-* Design Mockups and Usability Testing - Individual Component: 7%
+Individual (50%)
+* Weekly Reading Quizzes: 5%
+* Reflective Log: 5%
+* Journey Map: 15%
+* Usability Inspection: 25%
 
-Team (54%)
-* Project Brief - Team Component: 4%
-* User Research and Usability Testing - Team Component: 25%
-* Design Mockups and Usability Testing - Team Component: 25%
+Group (25%)
+* User Research Report: 25%
+
+Team or Group (25%)
+* Usability Tested Mockups: 25%
 
 Reading quizzes must be submitted no later than 10:00am class day - no exceptions. Late assignments will not be accepted without valid documentation (e.g. medical certificate).
 
 ##### Required Textbook
-Are you kidding me, in 2017? All required readings will be available on-line.   
+Are you kidding me, in 2018? All required readings will be available on-line.   

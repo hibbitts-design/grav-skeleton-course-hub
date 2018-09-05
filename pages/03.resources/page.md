@@ -1,12 +1,13 @@
 ---
-title: Resources
+title: 'Resources'
 published: true
 ---
-
-#### Reflective Writing Guides  
+#### Reflective Writing  
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
+*   [How Reflecting On Your Work Can Make You A Better Designer](https://medium.com/center-centre-cohort-01/how-reflecting-on-your-work-can-make-you-a-better-designer-5ce2f3886f51)
 *   [Online Guide to Reflective Writing](https://nile.northampton.ac.uk/bbcswebdav/pid-1244383-dt-content-rid-3278540_1/courses/Centre-for-Achievement-and-Performance/Skills/Reflective%20Writing/Reflective%20Writing%20-%20Feb%202017.pdf)
 *   [Reflective Toolbox](http://writeonline.ca/media/documents/ReflectiveToolbox.pdf)
+*   [Reflective writing: a basic introduction](http://www.port.ac.uk/media/contacts-and-departments/student-support-services/ask/downloads/Reflective-writing---a-basic-introduction.pdf)
 
 #### UX Platform Guideline Collections  
 *   [Android User Interface Design Guidelines](https://developer.android.com/guide/practices/ui_guidelines/index.html)
@@ -27,7 +28,7 @@ published: true
 #### UX Design Checklists  
 *   [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)  
 *   [Mobile UX Checklist (PDF, by Mobify)](http://downloads.mobify.com.s3.amazonaws.com/ebooks/25-Ways-to-Make-Your-Mobile-E-Commerce-Revenue-Skyrocket-Mobify.pdf)  
-*   [One-Page Touch Interaction Design Checklist (PDF)](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Touch%20Interaction%20Checklist)
+*   [One-Page Touch Interaction Design Checklist (PDF)](https://canvas.sfu.ca/courses/38847/files/folder/Handouts/Touch%20Interaction%20Checklist)
 *   [Usability checklist (Userium)](https://userium.com/)
 *   [UX Project Checklist](http://uxchecklist.github.io/)
 
@@ -61,5 +62,5 @@ published: true
 #### UX Video Collections  
 *   [Google Developers Channel](https://www.youtube.com/user/GoogleDevelopers/search?query=user+experience+usability)  
 *   [Interaction Design Association Vimeo Channels](http://vimeo.com/ixdaglobal/channels)  
-*   [Paul's YouTube Playlists](https://www.youtube.com/user/paulhibbitts/playlists)
-*   [Paul's Vimeo Channel](http://vimeo.com/channels/paulhibbitts)
+*   [NNgroup YouTube Channel](https://www.youtube.com/user/NNgroup/videos)  
+*   [UX Mastery YouTube Channel](https://www.youtube.com/channel/UCXmQyv8sAjmvgCCgvRKi9hw)
