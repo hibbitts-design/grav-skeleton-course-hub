@@ -1,3 +1,9 @@
+# v2.6.1
+## 09/06/2018
+
+1. [](#improved)
+    * Updated default demo pages
+
 # v2.6.0
 ## 09/05/2018
 
