@@ -1,5 +1,5 @@
 ---
-title: 'Home in Canvas LMS'
+title: 'Home in LMS'
 show_sidebar: false
 cache_enable: false
 visible: false
