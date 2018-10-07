@@ -2,7 +2,7 @@
 ## 10/08/2018
 
 1. [](#improved)
-    * Updated default demo pages
+    * Updated default demo pages, including section-type page
 
 # v2.6.3
 ## 09/23/2018
