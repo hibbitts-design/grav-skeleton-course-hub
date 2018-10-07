@@ -9,15 +9,14 @@ content:
     order:
         by: date
         dir: desc
-    pagination: '1'
-hero_scroll: false
-show_sidebar: true
+    pagination: '9'
+hide_sidebar: false
 hide_post_summary: true
 post_icon: calendar-o
 hide_post_date: true
 hide_post_taxonomy: true
-continue_link_as_button: false
 hide_git_sync_repo_link: false
+continue_link_as_button: false
 modular_content:
     items: '@self.modular'
     order:
@@ -28,4 +27,3 @@ feed:
     limit: 10
 protectEdit: true
 ---
-

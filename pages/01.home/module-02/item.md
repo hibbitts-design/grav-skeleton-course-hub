@@ -24,8 +24,8 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 The Process of UX Design  
 [pdf url="https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf"]  
 
-##### CMPT-363 UX Design Process/Toolkit
-![CMPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
+##### CPT-363 UX Design Process/Toolkit
+![CPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
 
 ##### Handouts
 [Product Reaction Cards](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Product%20Reaction%20Cards)  
