@@ -31,6 +31,10 @@ git:
         url: https://github.com/trilbymedia/grav-plugin-git-sync
         path: user/plugins/git-sync
         branch: master
+    grava11y:
+        url: https://github.com/absalomedia/grav-plugin-grava11y
+        path: user/plugins/grava11y
+        branch: master
     login:
         url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
