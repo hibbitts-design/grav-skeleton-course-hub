@@ -1,4 +1,12 @@
 # v2.6.5
+## 10/14/2018
+
+1. [](#new)
+    * Added Grava11y (Accessibility for Grav) Plugin as dependency
+1. [](#improved)
+    * Updated default demo pages
+
+# v2.6.5
 ## 10/13/2018
 
 1. [](#improved)
