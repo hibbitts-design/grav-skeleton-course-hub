@@ -1,8 +1,8 @@
 # v2.6.5
-## 10/14/2018
+## 10/15/2018
 
 1. [](#new)
-    * Added Grava11y (Accessibility for Grav) Plugin as dependency
+    * Added Grava11y (Accessibility for Grav) Plugin to skeleton package
 1. [](#improved)
     * Updated default demo pages
 
@@ -121,7 +121,7 @@
 ## 05/15/2018
 
 1. [](#improved)
-    * Removed Sitemap Plugin dependency
+    * Removed Sitemap Plugin from skeleton package
     * Removed the display of "Normal/Expert" Admin Panel toggle button (via CSS in the CustomAdmin Plugin)
     * Removed seldom needed "Advanced" Tab options within the Admin Panel (via custom default.yaml blueprint)
 
@@ -149,7 +149,7 @@
     * Added support for H5P Content Root Path URL setting in site config
     * Added experimental Embed.ly Card Shortcode support (in the format of [embedly url=URL])
     * Added experimental Swipe Shortcode support (in the format of [swipe id=ID])
-    * Added Shortcode Core Plugin as dependency
+    * Added Shortcode Core Plugin to skeleton package
     * Added "Add Fullwidth Page" dropdown menu item in Admin Panel
 1. [](#improved)
     * Updated default demo pages
@@ -267,7 +267,7 @@
 
 1. [](#improved)
     * Updated single and multi-course demo pages in theme '_demo' folder
-    * Updated Skeleton dependencies
+    * Updated Plugins included in skeleton package
 
 # v1.7.6
 ## 12/31/2017
@@ -664,7 +664,7 @@
 1. [](#new)
     * Included example of modular content using the Page Inject plugin
     * Added support for sidebar and full-width page templates
-    * Added Youtube plugin dependency
+    * Added Youtube Plugin to skeleton package
 1. [](#improved)
     * Updated with newest Grav plugin releases
 1. [](#bugfix)
@@ -701,7 +701,7 @@
 1. [](#improved)
     * Updated with newest Course Hub Bones and Bootstrap themes, which include checks for external links plugin status and addition of scripts.html.twig file to hold global JavaScript code
 1. [](#bugfix)
-    * Corrected Skeleton dependencies to include Course Hub Bones and Bootstrap themes
+    * Updated Plugins included in skeleton package to include Course Hub Bones and Bootstrap themes
 
 # v0.9.8
 ## 03/09/2016
