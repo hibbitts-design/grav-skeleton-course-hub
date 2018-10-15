@@ -1,3 +1,9 @@
+# v2.6.7
+## 10/16/2018
+
+1. [](#improved)
+    * Includes Git Sync 2.0 Plugin
+
 # v2.6.6
 ## 10/15/2018
 
