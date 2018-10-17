@@ -40,3 +40,4 @@ custommenu:
 theme_stylesheet: default
 navbar_bg: default
 navbar_bg_color: '#651e49'
+git_sync_edit_theme_link_location: none
