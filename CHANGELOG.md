@@ -1,3 +1,9 @@
+# v2.6.8
+## 10/17/2018
+
+1. [](#bugfix)
+    * Fixed blueprint site theme files Git Sync link option
+
 # v2.6.7
 ## 10/16/2018
 
