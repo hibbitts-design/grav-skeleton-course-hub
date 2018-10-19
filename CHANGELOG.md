@@ -1,3 +1,9 @@
+# v2.6.9
+## 10/19/2018
+
+1. [](#improved)
+    * Removed iFrames from default XSS HTML tags list
+
 # v2.6.8
 ## 10/17/2018
 
