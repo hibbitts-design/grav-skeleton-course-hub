@@ -1,6 +1,7 @@
 # Grav Specific
 accounts/*
 !accounts/.*
+config/security.yaml
 data/*
 !data/.*
 plugins/*
