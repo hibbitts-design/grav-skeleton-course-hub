@@ -1,3 +1,12 @@
+# v2.7.0
+## 10/30/2018
+
+1. [](#improved)
+    * Changed default visibility to true when creating new items in Admin Panel
+    * Updated default demo pages
+  1. [](#bugfix)
+    * Removed unneeded loading of bootstrap.min.css file via Bootstrapper Plugin
+
 # v2.6.9
 ## 10/19/2018
 
