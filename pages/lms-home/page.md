@@ -16,5 +16,5 @@ protectEdit: true
 
 <hr>
 
-##### Web Pick of the Week
+## Web Pick of the Week
 [plugin:page-inject](/web-pick-of-the-week/)

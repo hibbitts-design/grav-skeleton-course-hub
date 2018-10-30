@@ -1,8 +1,8 @@
 ---
 title: Home
+published: true
 body_classes: 'header-image fullwidth'
 child_type: item
-visible: true
 content:
     items: '@self.children'
     limit: 7
