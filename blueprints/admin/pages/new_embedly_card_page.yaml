@@ -30,7 +30,7 @@ form:
 
     visible:
       type: hidden
-      default: ''
+      default: '1'
 
     blueprint:
       type: blueprint
