@@ -1,3 +1,9 @@
+# v2.7.1
+## 11/15/2018
+
+1. [](#improved)
+    * Added new 'multi-course-hub' example site in Bootstrap4 Open Matter theme '_demo' folder
+
 # v2.7.0
 ## 10/30/2018
 
