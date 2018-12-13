@@ -1,3 +1,9 @@
+# v2.7.3
+## 12/13/2018
+
+1. [](#new)
+    * MultiCourse skeleton now included in each release
+
 # v2.7.2
 ## 11/16/2018
 
