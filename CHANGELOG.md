@@ -1,3 +1,9 @@
+# v2.7.4
+## 12/16/2018
+
+1. [](#improved)
+    * Better support for multiple blogs (including Featured Posts, Popular Tags and default settings for the Archives Plugin)
+
 # v2.7.3
 ## 12/13/2018
 
