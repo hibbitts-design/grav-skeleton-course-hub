@@ -10,11 +10,6 @@ streams:
       type: ReadOnlyStream
       prefixes:
         '': [user/themes/bootstrap4-open-matter, user/themes/bootstrap4]
-menu:
-  -
-    text: Grav
-    icon: arrow-circle-right
-    url: 'http://getgrav.org/'
 chromeless:
   enabled: false
 display_of_git_sync_repo_link: menu
