@@ -1,3 +1,12 @@
+# v2.8.0
+## 12/27/2018
+
+1. [](#new)
+    * Automatic support for multiple courses (MultiCourse) within a single site
+1. [](#improved)
+    * Removed theme option to hide homepage in menubar (set the 'visible' option to 'false' on homepage for same functionality)
+    * Updated default demo pages
+
 # v2.7.4
 ## 12/16/2018
 
