@@ -28,5 +28,3 @@ displaycustommenus:
 theme_stylesheet: default
 navbar_bg: default
 navbar_bg_color: '#651e49'
-multi_course_hub:
-  enabled: false
