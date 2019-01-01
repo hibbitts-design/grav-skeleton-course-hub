@@ -3,7 +3,7 @@
 [![Demo](https://img.shields.io/badge/Demo-OpenCourseHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE)
 
-[![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
+[![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
 
 **Grav Open Course Hub** with Git Sync is designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
