@@ -8,7 +8,7 @@ order:
   dir: desc
 filter_combinator: and
 filters:
-  - '@self'
+  category: blog
 taxonomy_names:
   month: archives_month
   year: archives_year
