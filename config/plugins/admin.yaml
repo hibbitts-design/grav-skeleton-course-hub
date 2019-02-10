@@ -66,6 +66,8 @@ hide_page_types:
   - fullwidthpage-rssfeeds
   - h5ptitleonly
   - h5plinkonly
+  - iframetitleonly
+  - iframelinkonly
   - itemwithsummaryfield
   - pdftitleonly
   - pdflinkonly
