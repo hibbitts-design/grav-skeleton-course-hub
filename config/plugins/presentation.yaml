@@ -14,9 +14,11 @@ api_route: presentationapi
 poll_timeout: 2000
 poll_retry_limit: 10
 token_auth: false
-token: Hd4HFdPvbpKzTqz
+admin_async_save: false
+admin_async_save_typing: false
 transition: true
 shortcodes: true
+shortcode_classes: 'presentation-iframe embed-responsive-item'
 unwrap_images: true
 content: Content
 parser: Parser
