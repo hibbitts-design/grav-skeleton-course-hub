@@ -52,6 +52,10 @@ add_modals:
     label: 'Add Page'
     blueprint: admin/pages/new_page
     show_in: bar
+  -
+    label: 'Add Presentation'
+    blueprint: admin/pages/new_presentation
+    show_in: bar
 hide_page_types:
   - customcontentlist
   - default
