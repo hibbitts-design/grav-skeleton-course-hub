@@ -3,7 +3,7 @@ form:
   fields:
     section:
         type: section
-        title: Add Page
+        title: Add Page with Sidebar
 
     title:
       type: text
