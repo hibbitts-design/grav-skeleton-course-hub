@@ -49,7 +49,7 @@ add_modals:
     blueprint: admin/pages/new_blog_item
     show_in: bar
   -
-    label: 'Add Page'
+    label: 'Add Page with Sidebar'
     blueprint: admin/pages/new_page
     show_in: bar
   -
