@@ -71,3 +71,7 @@ Grav Open Matter Course Hub Highlights
 		</tr>
 	</tbody>
 </table>
+
+Share Your Feedback
+---
+* Complete the [Open Course Hub Survey](https://goo.gl/forms/oSZlfsSi71JB5U8L2)
