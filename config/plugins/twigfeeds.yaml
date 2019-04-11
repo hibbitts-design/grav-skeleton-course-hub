@@ -7,7 +7,7 @@ pass_headers: false
 silence_security: false
 twig_feeds:
   -
-    source: 'https://alistapart.com/main/feed'
+    source: 'https://alistapart.com/feed'
     name: 'A List Apart'
     start: 0
     end: 3
