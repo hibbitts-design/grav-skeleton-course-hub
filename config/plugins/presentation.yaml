@@ -1,5 +1,5 @@
 enabled: true
-theme: night
+theme: black
 order:
   by: folder
   dir: asc
@@ -15,11 +15,11 @@ poll_timeout: 2000
 poll_retry_limit: 10
 token_auth: false
 token: Hd4HFdPvbpKzTqz
-admin_async_save: true
+admin_async_save: false
 admin_async_save_typing: false
 transition: true
 shortcodes: true
-shortcode_classes: 'presentation-iframe embed-responsive-item'
+shortcode_classes: presentation-iframe
 unwrap_images: true
 content: Content
 parser: DecksetParser
@@ -43,4 +43,14 @@ options:
   history: 'true'
   display: flex
   pdfSeparateFragments: ''
-textsizing_factor: 1
+style:
+  header-font-family: 'GillSans,''Gill Sans MT'',Arial'
+  header-color: '#ffffff'
+  block-font-family: 'GillSans,''Gill Sans MT'',Arial'
+  block-color: '#ffffff'
+  background-color: '#16161d'
+  justify-content: center
+textsize:
+  modifier: 1
+  scale: '1.125'
+horizontal: true

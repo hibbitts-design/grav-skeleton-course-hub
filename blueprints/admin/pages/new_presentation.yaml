@@ -20,7 +20,7 @@ form:
       label: PLUGIN_ADMIN.PARENT_PAGE
       classes: fancy
       '@data-options': '\Grav\Common\Page\Pages::parents'
-      default: '/presentation'
+      default: '/presentations'
       options:
         '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
 
