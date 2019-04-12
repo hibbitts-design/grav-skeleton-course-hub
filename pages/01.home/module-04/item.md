@@ -10,9 +10,9 @@ header_image_alt_text: 'Paper-based prototype'
 ---
 
 ## How to explore and communicate possible design solutions?
-[Forms and Methods](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf#page=3)  
-[Design Scenarios](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf#page=4)  
-[Sketching and Storyboarding](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf#page=5)  
+[Forms and Methods](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
+[Design Scenarios](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
+[Sketching and Storyboarding](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
 
 ===
 
@@ -23,11 +23,11 @@ header_image_alt_text: 'Paper-based prototype'
 
 ### Presented Slides  
 Prototyping
-[pdf url="https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf"]  
+[presentation="presentations/placeholder-slide"]
 
 ### Supplemental Materials  
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
-<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/MwidSAlbEB8" frameborder="0" allowfullscreen></iframe></div>
+[plugin:youtube](https://www.youtube.com/watch?v=MwidSAlbEB8)
 
 ### Handouts
 [4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Sketching%20Templates/sneakpeekit-4-browsers)  

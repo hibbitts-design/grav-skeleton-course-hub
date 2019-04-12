@@ -10,9 +10,9 @@ header_image_alt_text: 'Interview in coffee shop'
 ---
 
 ## How to understand and communicate people's needs and behaviours?
-[Needsfinding](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-research.pdf#page=8)  
-[User Models](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-research.pdf#page=44)  
-[Stories of Usage](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-research.pdf#page=65)  
+[Needsfinding](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
+[User Models](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
+[Stories of Usage](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
 
 ===
 
@@ -23,7 +23,7 @@ header_image_alt_text: 'Interview in coffee shop'
 
 ### Presented Slides  
 User Research
-[pdf url="https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf"]  
+[presentation="presentations/placeholder-slide"]
 
 ### Assignments
 [User Research Report](https://sso.canvaslms.com/courses/1413912/assignments/9519534)  
@@ -31,7 +31,7 @@ User Research
 
 ### Supplemental Materials  
 [What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
-<div class="embed-responsive embed-responsive-4by3"><iframe src="https://player.vimeo.com/video/7099570" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+[iframe url="https://player.vimeo.com/video/7099570"]
 
 ### Required Reading  
 [embedly url="http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/"]

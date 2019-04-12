@@ -10,9 +10,9 @@ header_image_alt_text: 'Complex sound mixer'
 ---
 
 ## How to design products for how people think, learn and feel?
-[Conceptual Models](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=5)  
-[Design for Emotion](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=87)  
-[Accessible and Inclusive Design](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=100)  
+[Conceptual Models](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
+[Design for Emotion](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
+[Accessible and Inclusive Design](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
 
 ===
 
@@ -23,7 +23,7 @@ header_image_alt_text: 'Complex sound mixer'
 
 ### Presented Slides  
 Interaction Design
-[pdf url="https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf"]  
+[presentation="presentations/placeholder-slide"]
 
 ### Handouts
 [10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  

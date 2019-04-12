@@ -10,9 +10,9 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 ---
 
 ## How to conduct a usability inspection?   
-[Cognitive Walkthroughs](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=6)  
-[Conducting Heuristic Evaluations](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=17)  
-[Nielsen’s Heuristics](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=38)  
+[Cognitive Walkthroughs](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
+[Conducting Heuristic Evaluations](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
+[Nielsen’s Heuristics](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6))  
 
 ===
 
@@ -23,11 +23,11 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 
 ### Presented Slides  
 User Interface Inspections
-[pdf url="https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf"]  
+[presentation="presentations/placeholder-slide"]
 
 ### Supplemental Materials  
 [Design Heuristics Lecture with Scott Klemmer](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA" frameborder="0" allowfullscreen></iframe></div>
+[iframe url="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA"]
 
 ### Assignments
 [Usability Inspection](https://sso.canvaslms.com/courses/1413912/assignments/9519532)   

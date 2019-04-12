@@ -10,9 +10,9 @@ header_image_alt_text: 'Bullseye'
 ---
 
 ## How to make more strategic design decisions?  
-[User Experience Strategy](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf#page=3)  
-[Current State and Future State](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf#page=4)  
-[Journey Mapping](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf#page=5)  
+[User Experience Strategy](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
+[Current State and Future State](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
+[Journey Mapping](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
 
 ===
 
@@ -23,11 +23,11 @@ header_image_alt_text: 'Bullseye'
 
 ### Presented Slides  
 Strategic UX Design
-[pdf url="https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf"]  
+[presentation="presentations/placeholder-slide"]
 
 ### Supplemental Materials  
 [Customer Journey Mapping](https://www.youtube.com/watch?v=a40QYgO-_aM)  
-<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+[plugin:youtube](https://www.youtube.com/watch?v=a40QYgO-_aM)
 
 ### Assignments
 [Journey Map](https://sso.canvaslms.com/courses/1413912/assignments/9519531)  
