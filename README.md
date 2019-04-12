@@ -15,7 +15,7 @@ Quick Install Instructions
 ---
 **Pre-flight Checklist**  
 
-1. Confirm Web server PHP version (PHP 5.5.9 or higher)
+1. Confirm Web server PHP version (PHP 7.1 or higher)
 2. Web server login credentials (username and password)
 
 **Installation Steps**  
@@ -43,7 +43,7 @@ Grav Open Matter Course Hub Highlights
 			<td width="50%">
 				<ul>
 					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
-					<li>Minimal server requirements (PHP 5.5.9 or higher, no database required)</li>
+					<li>Minimal server requirements (PHP 7.1 or higher, no database required)</li>
 					<li>Built using the <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Bootstrap 4</a> responsive framework</li>
 					<li>Includes a simplified version of standard Grav Admin Panel</li>
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
