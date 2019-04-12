@@ -1,3 +1,10 @@
+# v3.0.0
+## 04/12/2019
+
+1. [](#new)
+    * Enhanced support for the Presentation Plugin (thanks @OleVik)
+    * Updated default demo pages
+
 # v2.8.2
 ## 01/07/2019
 
