@@ -9,6 +9,7 @@ pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
 intl_enabled: true
 languages:
   include_default_lang: true
+  pages_fallback_only: false
   translations: true
   translations_fallback: true
   session_store_active: false
@@ -77,6 +78,9 @@ cache:
     method: file
   driver: auto
   prefix: g
+  purge_at: '0 4 * * *'
+  clear_at: '0 3 * * *'
+  clear_job_type: standard
   clear_images_by_default: true
   cli_compatibility: false
   lifetime: 604800
@@ -105,8 +109,12 @@ assets:
   collections:
     jquery: 'system://assets/jquery/jquery-2.1.4.min.js'
 errors:
-  display: 1
+  display: 0
   log: true
+log:
+  handler: file
+  syslog:
+    facility: local6
 debugger:
   enabled: false
   shutdown:
@@ -118,23 +126,28 @@ images:
   cache_perms: '0755'
   debug: false
   auto_fix_orientation: false
+  seofriendly: false
 media:
   enable_media_timestamp: false
   auto_metadata_exif: false
-  upload_limit: 33554432
+  upload_limit: 8388608
 session:
   enabled: true
   initialize: true
   timeout: 1800
   name: grav-site
+  uniqueness: path
   secure: false
   httponly: true
   split: true
 gpm:
-  releases: stable
+  releases: testing
   method: auto
   verify_peer: true
   official_gpm_only: true
+accounts:
+  type: data
+  storage: file
 strict_mode:
   yaml_compat: true
   twig_compat: true
