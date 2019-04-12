@@ -8,6 +8,8 @@ plugins/*
 !plugins/.*
 themes/*
 !themes/.*
+localhost/*
+!localhost/.*
 
 # OS Generated
 .DS_Store*
