@@ -2,9 +2,6 @@
 title: Placeholder Slide
 ---
 
-[.header: alignment(center)]
-[.text: alignment(center)]
-
 # CPT 363
 
 ### Slides Placeholder
@@ -24,9 +21,6 @@ title: Placeholder Slide
 
 ---
 
-[.background-color: #618B25]
-[.build-lists: true]
-
 # Topics to Explore
 1. Topic One  
 2. Topic Two   
@@ -34,31 +28,23 @@ title: Placeholder Slide
 
 ---
 
-[.background-color: #611036]
-
 # Slides Placeholder
 
-### [fa=fa-rocket] Topic One
+### Topic One
 
 ---
 
-[.background-color: #611036]
-
 # Slides Placeholder
 
-### [fa=fa-rocket] Topic Two
+### Topic Two
 
 ---
 
-[.background-color: #611036]
-
 # Slides Placeholder
 
-### [fa=fa-rocket] Topic Three
+### Topic Three
 
 ---
-
-[.background-color: #618B25]
 
 # Summary
 1. Topic One  
