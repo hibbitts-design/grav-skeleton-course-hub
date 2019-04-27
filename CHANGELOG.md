@@ -1,3 +1,10 @@
+# v3.0.1
+## 04/27/2019
+
+1. [](#improved)
+    * Updated ReadMe file with revised Grav PHP requirements
+    * Updated default demo pages
+
 # v3.0.0
 ## 04/12/2019
 
