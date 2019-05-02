@@ -2,11 +2,13 @@
 title: Placeholder Slide
 ---
 
+[.text: alignment(center)]
+
 # CPT 363
 
 ### Slides Placeholder
 
-> “A work in progress. And the possibilities are endless.”
+“A work in progress. And the possibilities are endless.”
 -- Elizabeth Eulberg
 
 ---
