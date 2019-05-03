@@ -1,11 +1,5 @@
-# v3.0.4
-## 05/03/2019
-
-1. [](#improved)
-    * Updated default demo pages
-
 # v3.0.3
-## 05/02/2019
+## 05/03/2019
 
 1. [](#improved)
     * Updated default demo pages
