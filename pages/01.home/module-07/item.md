@@ -22,7 +22,6 @@ header_image_alt_text: 'iOS family of devices pile (2015)'
 [Jun 20th Class One-minute Summaries](https://canvas.sfu.ca/courses/38847/assignments/292817)
 
 ### Presented Slides  
-Mobile and Multi-device Design
 [presentation="presentations/placeholder-slide"]
 
 ### Handouts

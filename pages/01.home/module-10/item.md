@@ -22,7 +22,6 @@ header_image_alt_text: 'Complex sound mixer'
 [Jul 11th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519526)
 
 ### Presented Slides  
-Interaction Design
 [presentation="presentations/placeholder-slide"]
 
 ### Handouts

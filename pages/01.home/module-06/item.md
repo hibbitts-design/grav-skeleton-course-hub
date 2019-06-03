@@ -22,7 +22,6 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 [Jun 13th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519520)
 
 ### Presented Slides  
-User Interface Inspections
 [presentation="presentations/placeholder-slide"]
 
 ### Supplemental Materials  

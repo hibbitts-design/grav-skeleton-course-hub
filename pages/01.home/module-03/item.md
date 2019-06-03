@@ -22,7 +22,6 @@ header_image_alt_text: 'Bullseye'
 [May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519524)
 
 ### Presented Slides  
-Strategic UX Design
 [presentation="presentations/placeholder-slide"]
 
 ### Supplemental Materials  

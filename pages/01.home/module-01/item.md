@@ -28,10 +28,8 @@ hide_git_sync_repo_link: true
 [May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519517)
 
 ### Presented Slides  
-Course Overview
 [presentation="presentations/placeholder-slide"]
 
-Introduction to UX Design
 [presentation="presentations/placeholder-slide"]
 
 ### Supplemental Materials  

@@ -22,7 +22,6 @@ header_image_alt_text: 'Paper-based prototype'
 [May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519523)
 
 ### Presented Slides  
-Prototyping
 [presentation="presentations/placeholder-slide"]
 
 ### Supplemental Materials  

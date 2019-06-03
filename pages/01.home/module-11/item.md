@@ -22,7 +22,6 @@ header_image_alt_text: 'Dampening and inking the plate'
 [Jul 18th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519518)
 
 ### Presented Slides  
-Visual Design Essentials
 [presentation="presentations/placeholder-slide"]
 
 ### Assignments
