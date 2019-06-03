@@ -10,9 +10,9 @@ header_image_alt_text: 'Interview in coffee shop'
 ---
 
 ## How to understand and communicate people's needs and behaviours?
-[Needsfinding](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
-[User Models](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
-[Stories of Usage](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
+[Needsfinding](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-4)  
+[User Models](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-5)  
+[Stories of Usage](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-6)  
 
 ===
 
@@ -22,7 +22,7 @@ header_image_alt_text: 'Interview in coffee shop'
 [Jun 27 Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519519)
 
 ### Presented Slides  
-[presentation="presentations/placeholder-slide"]
+[presentation="presentations/placeholder-slides"]
 
 ### Assignments
 [User Research Report](https://sso.canvaslms.com/courses/1413912/assignments/9519534)  

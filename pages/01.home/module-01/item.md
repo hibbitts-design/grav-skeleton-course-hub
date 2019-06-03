@@ -13,12 +13,12 @@ hide_git_sync_repo_link: true
 ## What is usability and user experience design?
 
 ### What is this course all about?
-[Course Overview](../../presentations/placeholder-slide?target=_blank)
+[Course Overview](../../presentations/placeholder-slides?target=_blank)
 
 ### What is usability and user experience design?
-[HCI, UI, IA, IxD, and UX](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
-[Design Thinking](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5?target=_blank)  
-[Usability and UCD](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6?target=_blank)  
+[HCI, UI, IA, IxD, and UX](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-4)  
+[Design Thinking](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-5?target=_blank)  
+[Usability and UCD](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-6?target=_blank)  
 
 ===
 
@@ -28,9 +28,9 @@ hide_git_sync_repo_link: true
 [May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519517)
 
 ### Presented Slides  
-[presentation="presentations/placeholder-slide"]
+[presentation="presentations/placeholder-slides"]
 
-[presentation="presentations/placeholder-slide"]
+[presentation="presentations/placeholder-slides"]
 
 ### Supplemental Materials  
 [Interaction Design History](http://www.slideshare.net/mrettig/interaction-design-history)  

@@ -10,9 +10,9 @@ header_image_alt_text: 'Information architecture'
 ---
 
 ## What does a holistic user experience design process look like?
-[Software Development Processes](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
-[User Experience Design Processes](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
-[Our Design Process (aka Toolkit)](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
+[Software Development Processes](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-4)  
+[User Experience Design Processes](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-5)  
+[Our Design Process (aka Toolkit)](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-6)  
 
 ===
 
@@ -21,9 +21,8 @@ header_image_alt_text: 'Information architecture'
 ### Summaries and Questions  
 [May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519525)
 
-### Presented Slides  
-The Process of UX Design  
-[presentation="presentations/placeholder-slide"]
+### Presented Slides   
+[presentation="presentations/placeholder-slides"]
 
 ### CPT-363 UX Design Process/Toolkit
 ![CPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
