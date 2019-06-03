@@ -65,6 +65,7 @@ Grav Open Matter Course Hub Highlights
           <li>Custom links can be added to site navigation bar</li>
 					<li>Image header area above site navigation bar</li>
 					<li>Sidebar is customizable (Markdown or HTML)</li>
+					<li>Various Web accessibility enhancements (i.e. hidden H1 page titles)</li>
 				</ul>
 			</td>
 		</tr>
