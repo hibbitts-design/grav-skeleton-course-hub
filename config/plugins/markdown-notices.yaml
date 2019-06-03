@@ -1,0 +1,7 @@
+enabled: true
+built_in_css: true
+level_classes:
+  - 'alert alert-warning'
+  - 'alert alert-danger'
+  - 'alert alert-info'
+  - 'alert alert-success'
