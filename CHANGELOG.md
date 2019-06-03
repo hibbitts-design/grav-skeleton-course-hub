@@ -1,3 +1,11 @@
+# v3.0.4
+## 06/03/2019
+
+1. [](#improved)
+    * Changed classes for Markdown Notices to more accessible Bootstrap4 Alert classes
+    * Replace used of Markdown Font Awesome plugin with Shortcodes Core for Font Awesome icons compatible with Markdown Extra
+    * Updated default demo pages
+
 # v3.0.3
 ## 05/03/2019
 
