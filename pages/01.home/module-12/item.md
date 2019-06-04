@@ -9,8 +9,8 @@ header_image_creditlink: 'https://www.flickr.com/photos/larskflem/3343696373/'
 header_image_alt_text: 'Multiple people at a table sketching on PostIt notes'
 ---
 
-Instructor design reviews in TASC 1 8003, no regular class.
+Instructor design reviews in TBD, no regular class.
 
 ===
 
-Instructor design reviews in TASC 1 8003, no regular class.
+Instructor design reviews in TBD, no regular class.

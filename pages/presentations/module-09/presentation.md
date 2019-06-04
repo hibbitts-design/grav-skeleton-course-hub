@@ -1,12 +1,12 @@
 ---
-title: Placeholder Slides Title
+title: Placeholder Slides - Module 9 Title
 ---
 
 [.text: alignment(center)]
 
 # CPT 363
 
-### Placeholder Slides
+### Placeholder Slides - Module 9
 
 > “A work in progress. And the possibilities are endless.”
 -- Elizabeth Eulberg

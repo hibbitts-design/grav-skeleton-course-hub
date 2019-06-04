@@ -10,9 +10,9 @@ header_image_alt_text: 'Usability testing'
 ---
 
 ## How to plan, conduct, and summarize usability tests?  
-[Testing Methods](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-4)  
-[Conducting Tests](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-5)  
-[Analysis and Reporting](../../presentations/placeholder-slides?target=_blank#/placeholder-slide-6)  
+[Testing Methods](../../presentations/module-05?target=_blank#/module-05-4)  
+[Conducting Tests](../../presentations/module-05?target=_blank#/module-05-5)  
+[Analysis and Reporting](../../presentations/module-05?target=_blank#/module-05-6)  
 
 ===
 
@@ -22,7 +22,7 @@ header_image_alt_text: 'Usability testing'
 [Jun 6th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519522)
 
 ### Presented Slides  
-[presentation="presentations/placeholder-slides"]
+[presentation="presentations/module-05"]
 
 ### Supplemental Materials  
 [Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
