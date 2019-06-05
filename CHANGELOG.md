@@ -1,5 +1,5 @@
 # v3.0.4
-## 06/03/2019
+## 06/05/2019
 
 1. [](#improved)
     * Changed classes for Markdown Notices to more accessible Bootstrap4 Alert classes
