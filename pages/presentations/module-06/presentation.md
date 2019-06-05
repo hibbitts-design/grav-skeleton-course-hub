@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 6 Title
+title: User Interface Inspections
 ---
 
 [.text: alignment(center)]

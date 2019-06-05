@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 3 Title
+title: Strategic UX Design
 ---
 
 [.text: alignment(center)]

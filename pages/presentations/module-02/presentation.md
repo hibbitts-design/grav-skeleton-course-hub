@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 2 Title
+title: The Process of UX Design
 ---
 
 [.text: alignment(center)]

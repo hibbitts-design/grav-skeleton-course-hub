@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 10 Title
+title: Interaction Design
 ---
 
 [.text: alignment(center)]

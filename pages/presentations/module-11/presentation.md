@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 11 Title
+title: Visual Design Essentials
 ---
 
 [.text: alignment(center)]

@@ -8,7 +8,6 @@ cache_enable: false
 
 ## [:fa-calendar-o:Week 1 (May 9 - 15)](../home/module-01)
 **What is usability and user experience design?**  
-[fa icon="fa-desktop"][Course Overview](../../presentations/placeholder-slides?target=_blank)  
 [fa icon="fa-desktop"][Introduction to UX Design](../../presentations/module-01?target=_blank)   
 [fa icon="fa-book"][Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 

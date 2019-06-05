@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 8 Title
+title: User Research
 ---
 
 [.text: alignment(center)]

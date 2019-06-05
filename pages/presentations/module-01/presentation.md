@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 1 Title
+title: Introduction to UX Design
 ---
 
 [.text: alignment(center)]

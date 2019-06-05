@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 7 Title
+title: Mobile and Multi-device Design
 ---
 
 [.text: alignment(center)]

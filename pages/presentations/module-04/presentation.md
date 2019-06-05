@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides - Module 4 Title
+title: Prototyping
 ---
 
 [.text: alignment(center)]
