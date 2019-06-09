@@ -1,6 +1,6 @@
 # Grav Open Matter Course Hub Skeleton
 
-[![Demo](https://img.shields.io/badge/Demo-OpenCourseHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/)
+[![Demo](https://img.shields.io/badge/Demo-OpenCourseHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/) [![Demo](https://img.shields.io/badge/Demo-OpenMultiCourseHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE)
 
 [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
