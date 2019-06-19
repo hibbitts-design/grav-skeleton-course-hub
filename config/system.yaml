@@ -141,7 +141,7 @@ session:
   httponly: true
   split: true
 gpm:
-  releases: testing
+  releases: stable
   method: auto
   verify_peer: true
   official_gpm_only: true
