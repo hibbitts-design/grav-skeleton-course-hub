@@ -3,31 +3,31 @@ title: Schedule
 published: true
 ---
 
-## [fa icon="calendar-o"]Week 1 (May 9 - 15)](../home/module-01)
+## [[fa icon="calendar-o"]Week 1 (May 9 - 15)](../home/module-01)
 **What is usability and user experience design?**  
 [fa icon="desktop"][Introduction to UX Design](../../presentations/module-01?target=_blank)   
 [fa icon="book"][Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
-## [fa icon="calendar-o"]Week 2 (May 16 - 22)](../home/module-02)
+## [[fa icon="calendar-o"]Week 2 (May 16 - 22)](../home/module-02)
 **What does a holistic user experience design process look like?**  
 [fa icon="pencil"][Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528) due Aug 3rd  
 [fa icon="desktop"][The Process of UX Design](../../presentations/module-02?target=_blank)   
 [fa icon="book"][The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b)  
 
-## [fa icon="calendar-o"]Week 3 (May 23 - 29)](../home/module-03)
+## [[fa icon="calendar-o"]Week 3 (May 23 - 29)](../home/module-03)
 **How to make more strategic design decisions?**   
 [fa icon="pencil"][Journey Map](https://canvas.sfu.ca/courses/38847/assignments/292821) assignment due Jun 12th  
 [fa icon="folder"][Informed Consent Materials](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Informed%20Consent)  
 [fa icon="desktop"][Strategic UX Design](../../presentations/module-03?target=_blank)   
 [fa icon="book"][What is a User Journey Map?](https://www.aytech.ca/blog/user-journey-map/)  
 
-## [fa icon="calendar-o"]Week 4 (May 30 - Jun 5)](../home/module-04)
+## [[fa icon="calendar-o"]Week 4 (May 30 - Jun 5)](../home/module-04)
 **How to explore and communicate possible design solutions?**   
 [fa icon="desktop"][Prototyping](../../presentations/module-04?target=_blank)   
 [fa icon="book"][The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
 [fa icon="users"]In-class office hours (tentative)  
 
-## [fa icon="calendar-o"]Week 5 (Jun 6 - 12)](../home/module-05)
+## [[fa icon="calendar-o"]Week 5 (Jun 6 - 12)](../home/module-05)
 **How to plan, conduct, and summarize usability tests?**  
 [fa icon="desktop"][Usability Testing](../../presentations/module-05?target=_blank)   
 [fa icon="book"][The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
