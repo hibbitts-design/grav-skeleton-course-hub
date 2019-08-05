@@ -3,11 +3,11 @@ form:
   fields:
     section:
         type: section
-        title: Add Presentation List
+        title: Add Presentations List
 
     title:
       type: text
-      label: Presentation List Title
+      label: Presentations List Title
       validate:
         required: true
 
