@@ -1,3 +1,9 @@
+# v3.0.8
+## 08/05/2019
+
+1. [](#improved)
+    * Added new 'presentation-hub' example site in Bootstrap4 Open Matter theme '_demo' folder
+
 # v3.0.7
 ## 08/01/2019
 
