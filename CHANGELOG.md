@@ -2,7 +2,7 @@
 ## 12/17/2019
 
 1. [](#improved)
-    * Moved 'Add Presentation' command to Admin Panel "Add" dropdown menu
+    * Moved 'Add Presentation' command to Admin Panel 'Add' dropdown menu
 
 # v3.1.0
 ## 11/29/2019
