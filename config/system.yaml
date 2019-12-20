@@ -1,13 +1,18 @@
 absolute_urls: false
+timezone: ''
+default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
 force_ssl: false
 force_lowercase_urls: true
+custom_base_url: ''
 username_regex: '^[a-z0-9_-]{3,16}$'
 pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
 intl_enabled: true
 languages:
+  supported: {  }
+  default_lang: null
   include_default_lang: true
   pages_fallback_only: false
   translations: true
@@ -26,6 +31,7 @@ pages:
   list:
     count: 20
   dateformat:
+    default: null
     short: 'jS M Y'
     long: 'F jS \a\t g:ia'
   publish_dates: true
@@ -53,7 +59,9 @@ pages:
     - json
     - rss
     - atom
+  append_url_extension: ''
   expires: 604800
+  cache_control: null
   last_modified: false
   etag: false
   vary_accept_encoding: false
@@ -66,6 +74,7 @@ pages:
     - .git
     - .idea
   ignore_hidden: true
+  hide_empty_folders: false
   url_taxonomy_filters: true
   frontmatter:
     process_twig: false
@@ -86,6 +95,8 @@ cache:
   lifetime: 604800
   gzip: false
   allow_webserver_gzip: false
+  redis:
+    socket: false
 twig:
   cache: true
   debug: true
@@ -129,6 +140,8 @@ images:
   seofriendly: false
 media:
   enable_media_timestamp: false
+  unsupported_inline_types: {  }
+  allowed_fallback_types: {  }
   auto_metadata_exif: false
   upload_limit: 8388608
 session:
@@ -140,8 +153,10 @@ session:
   secure: false
   httponly: true
   split: true
+  path: null
 gpm:
   releases: stable
+  proxy_url: null
   method: auto
   verify_peer: true
   official_gpm_only: true
