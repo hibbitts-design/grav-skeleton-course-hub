@@ -1,3 +1,10 @@
+# v3.1.3
+## 01/21/2020
+
+1. [](#improved)
+    * Added new `filter` taxonomy item to site config
+    * Updated example demo pages
+
 # v3.1.2
 ## 01/07/2020
 
