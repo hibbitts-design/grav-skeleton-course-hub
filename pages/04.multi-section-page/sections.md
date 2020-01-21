@@ -10,6 +10,8 @@ content:
         by: folder
         dir: asc
     limit: 0    
+    taxonomy:
+        filter: [view1,view2]
 ---
 
 # Sections

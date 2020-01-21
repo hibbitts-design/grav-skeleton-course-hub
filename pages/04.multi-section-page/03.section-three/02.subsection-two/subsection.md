@@ -1,5 +1,7 @@
 ---
 title: 'Subsection Two'
+taxonomy:
+    filter: [view1]
 ---
 
 Vivamus malesuada lacinia ante vitae tincidunt. Etiam hendrerit cursus tortor quis placerat. Suspendisse tincidunt mi tellus, a eleifend turpis egestas quis. Nunc vulputate enim a maximus iaculis. Cras at nisi nec dolor ullamcorper dapibus. Etiam in leo non tellus pretium ultricies. Duis non quam imperdiet, sodales est in, volutpat risus.
