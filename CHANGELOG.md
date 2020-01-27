@@ -1,3 +1,9 @@
+# v3.1.4
+## 01/27/2020
+
+1. [](#new)
+    * Added 'Add Subsite' command to Admin Panel 'Add' dropdown menu
+
 # v3.1.3
 ## 01/21/2020
 
