@@ -56,6 +56,10 @@ add_modals:
     label: 'Add Presentation'
     blueprint: admin/pages/new_presentation
     show_in: dropdown
+  -
+    label: 'Add Subsite'
+    blueprint: admin/pages/new_subsite
+    show_in: dropdown
 hide_page_types:
   - customcontentlist
   - default
