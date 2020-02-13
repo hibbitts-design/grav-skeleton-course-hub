@@ -12,6 +12,7 @@ content:
     limit: 0    
     taxonomy:
         filter: [view1,view2]
+child_type: section
 ---
 
 # Sections
