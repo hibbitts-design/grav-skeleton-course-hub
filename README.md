@@ -29,10 +29,10 @@ Quick Install Instructions
 
 Grav Open Course Hub Screenshots
 ---
-![Course Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/open-matter-course-hub.png?raw=true)  
+![Course Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/smartmockups_open-matter-course-hub.png?raw=true)  
 _Figure 1. Example Grav Open Course Hub website, with GitHub collaborative page editing enabled.  Explore an example open matter course hub site at [demo.hibbittsdesign.org/grav-open-matter-course-hub/](http://demo.hibbittsdesign.org/grav-open-matter-course-hub/)._
 
-![MultiCourse Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/open-matter-multicourse-hub.png?raw=true)  
+![MultiCourse Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/smartmockups_open-matter-multicourse-hub.png?raw=true)  
 _Figure 2. Example Grav Open MultiCourse Hub website, with GitHub collaborative page editing enabled.  Explore an example open matter multicourse hub site at [demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/](http://demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/)._
 
 Grav Open Matter Course Hub Highlights
