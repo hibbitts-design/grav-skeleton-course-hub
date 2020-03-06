@@ -71,7 +71,7 @@ git:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube
         branch: master
-    course-hub-bootstrap:
-        url: https://github.com/hibbitts-design/grav-theme-course-hub-bootstrap
-        path: user/themes/course-hub-bootstrap
+    bootstrap4-open-matter:
+        url: https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter
+        path: user/themes/bootstrap4-open-matter
         branch: master
