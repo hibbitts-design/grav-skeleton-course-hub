@@ -1,3 +1,9 @@
+# v3.1.7
+## 03/06/2020
+
+1. [](#improved)
+    * Updated page types hidden by default in Admin Panel
+
 # v3.1.6
 ## 02/19/2020
 
