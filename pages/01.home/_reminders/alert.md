@@ -1,5 +1,5 @@
 ---
-title: 'Important Reminders'
+title: 'Reminders'
 alert_style: alert-secondary
 published: true
 visible: false
