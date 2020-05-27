@@ -1,5 +1,5 @@
 # v3.1.8
-## 05/27/2020 🚀
+## 05/27/2020
 
 1. [](#improved)
     * Updated default demo pages
