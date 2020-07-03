@@ -22,7 +22,9 @@ header_image_alt_text: 'Information architecture'
 [May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519525)
 
 ### Presented Slides  
-[presentation="presentations/module-02"]
+[Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
+
+[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000"]
 
 ### CPT-363 UX Design Process/Toolkit
 ![CPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
