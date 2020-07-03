@@ -51,11 +51,11 @@ _Figure 2. Example Grav Open MultiCourse Hub website, with GitHub collaborative 
 					<li>Optional 'chromeless' page URL flag (for embedding specific pages within LMS)
 	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> and HTML files for cross-platform content</li>				
 					<li>Full access to <a href="https://www.w3schools.com/html/default.asp">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">Javascript</a>, <a href="https://twig.symfony.com/doc/2.x/">Twig Templates</a>, <a href="http://www.yaml.org/">YAML</a>, etc.</li>
+					<li>Blog-style list of course units (e.g. classes, modules, etc)</li>
 				</ul>
 			</td>
 			<td width="50%">
 				<ul>
-					<li>Blog-style list of course units (e.g. classes, modules, etc)</li>
 					<li>Optional important reminders and unit preparations areas</li>
 					<li>Supports custom page types and modular content</li>
 					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>, <a href="http://embed.ly/">embed.ly card</a>, <a href="https://www.swipe.to/">swipe.to</a> and <a href="https://twitter.com/">Twitter feed</a> pages</li>
