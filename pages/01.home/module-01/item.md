@@ -11,16 +11,16 @@ hide_git_sync_repo_link: true
 ---
 
 ## What is usability and user experience design?
-[HCI, UI, IA, IxD, and UX](../../presentations/module-01?target=_blank#/module-01-4)  
-[Design Thinking](../../presentations/module-01?target=_blank#/module-01-5?target=_blank)  
-[Usability and UCD](../../presentations/module-01?target=_blank#/module-01-6?target=_blank)  
+[HCI, UI, IA, IxD, and UX](https://www.google.ca/slides/about/)  
+[Design Thinking](https://www.google.ca/slides/about/)  
+[Usability and UCD](https://www.google.ca/slides/about/)  
 
 ===
 
 ## **What is usability and user experience design?**
 
 ### Summaries and Questions  
-[May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519517)
+[May 9th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
 
 ### Presented Slides  
 [Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
@@ -32,7 +32,7 @@ hide_git_sync_repo_link: true
 [pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
 
 ### Handouts
-[Course Overview](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Course%20Overview)  
+[Course Overview](https://canvas.sfu.ca/courses/55288/files)  
 
 ### Recommended Reading  
 [embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]

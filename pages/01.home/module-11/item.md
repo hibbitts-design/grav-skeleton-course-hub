@@ -10,16 +10,16 @@ header_image_alt_text: 'Dampening and inking the plate'
 ---
 
 ## What are the essentials of effective visual communication?  
-[Typography](../../presentations/module-11?target=_blank#/module-11-4)  
-[Grouping, Visual Hierarchy and Grids](../../presentations/module-11?target=_blank#/module-11-5)  
-[Visual Design Principles](../../presentations/module-11?target=_blank#/module-11-6)  
+[Typography](https://www.google.ca/slides/about/)  
+[Grouping, Visual Hierarchy and Grids](https://www.google.ca/slides/about/)  
+[Visual Design Principles](https://www.google.ca/slides/about/)  
 
 ===
 
 ## **What are the essentials of effective visual communication?**
 
 ### Summaries and Questions  
-[Jul 18th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519518)
+[Jul 18th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
 
 ### Presented Slides  
 [Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
@@ -27,8 +27,8 @@ header_image_alt_text: 'Dampening and inking the plate'
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000"]
 
 ### Assignments
-[Usability Tested Mockups](https://sso.canvaslms.com/courses/1413912/assignments/9519533)  
-[Informed Consent Materials](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Informed%20Consent)  
+[Usability Tested Mockups](https://canvas.sfu.ca/courses/55288/assignments)  
+[Informed Consent Materials](https://canvas.sfu.ca/courses/55288/files)  
 
 ### Required Reading  
 [embedly url="http://www.uxbooth.com/articles/accessibility-visual-design/"]

@@ -18,11 +18,11 @@ Mondays 12:00-1:30pm
 Fridays 12:00-1:00pm
 
 ## Canvas LMS
-[Calendar](https://sso.canvaslms.com/calendar)  
-[Assignments](https://sso.canvaslms.com/courses/1413912/assignments)  
-[Quizzes](https://sso.canvaslms.com/courses/1413912/quizzes)  
-[Class Discussions](https://sso.canvaslms.com/courses/1413912/discussion_topics)  
-[Grades](https://sso.canvaslms.com/courses/1413912/grades)  
+[Calendar](https://canvas.sfu.ca/calendar)  
+[Assignments](https://canvas.sfu.ca/courses/55288/assignments)  
+[Quizzes](https://canvas.sfu.ca/courses/55288/quizzes)  
+[Class Discussions](https://canvas.sfu.ca/courses/55288/discussion_topics)  
+[Grades](https://canvas.sfu.ca/courses/55288/gradebook)  
 
 ## Twitter Feed
 [twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"]

@@ -8,9 +8,9 @@ published: true
 ### Required Reading
 [embedly url="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"]
 
-[button url="https://sso.canvaslms.com/courses/1413912/quizzes/3212425" target="_blank" label="Required Reading Quiz" type="primary" classes="external-link"] 
+[button url="https://canvas.sfu.ca/courses/55288/quizzes/123648" target="_blank" label="Required Reading Quiz" type="primary" classes="external-link"] 
 
 ### Slides to be Discussed
-[Usability Testing](../../presentations/module-05?target=_blank)
+[Usability Testing](https://www.google.ca/slides/about/)
 
-Did you attend this class? [Share your one-minute summary](https://sso.canvaslms.com/courses/1413912/assignments/9519522) before midnight, the day of class.
+Did you attend this class? [Share your one-minute summary](https://canvas.sfu.ca/courses/55288/assignments) before midnight, the day of class.

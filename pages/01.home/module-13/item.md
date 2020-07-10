@@ -15,4 +15,4 @@ Guest Speaker
 ===
 
 ## Summaries and Questions  
-[Aug 1st Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519527)
+[Aug 1st Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

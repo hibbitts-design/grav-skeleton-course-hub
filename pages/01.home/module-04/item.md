@@ -10,16 +10,16 @@ header_image_alt_text: 'Paper-based prototype'
 ---
 
 ## How to explore and communicate possible design solutions?
-[Forms and Methods](../../presentations/module-04?target=_blank#/module-04-4)  
-[Design Scenarios](../../presentations/module-04?target=_blank#/module-04-5)  
-[Sketching and Storyboarding](../../presentations/module-04?target=_blank#/module-04-6)  
+[Forms and Methods](https://www.google.ca/slides/about/)  
+[Design Scenarios](https://www.google.ca/slides/about/)  
+[Sketching and Storyboarding](https://www.google.ca/slides/about/)  
 
 ===
 
 ## **How to explore and communicate possible design solutions?**
 
 ### Summaries and Questions  
-[May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519523)
+[May 30th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
 
 ### Presented Slides  
 [Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
@@ -31,8 +31,8 @@ header_image_alt_text: 'Paper-based prototype'
 [plugin:youtube](https://www.youtube.com/watch?v=MwidSAlbEB8)
 
 ### Handouts
-[4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Sketching%20Templates/sneakpeekit-4-browsers)  
-[4-UP MOBILES + GRID](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Sketching%20Templates/sneakpeekit-4-mobiles)  
+[4-UP BROWSERS + GRID](https://canvas.sfu.ca/courses/55288/files)  
+[4-UP MOBILES + GRID](https://canvas.sfu.ca/courses/55288/files)  
 
 ### Required Reading  
 [embedly url="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/"]

@@ -10,16 +10,16 @@ header_image_alt_text: 'Interview in coffee shop'
 ---
 
 ## How to understand and communicate people's needs and behaviours?
-[Needsfinding](../../presentations/module-08?target=_blank#/module-08-4)  
-[User Models](../../presentations/module-08?target=_blank#/module-08-5)  
-[Stories of Usage](../../presentations/module-08?target=_blank#/module-08-6)  
+[Needsfinding](https://www.google.ca/slides/about/)  
+[User Models](https://www.google.ca/slides/about/)  
+[Stories of Usage](https://www.google.ca/slides/about/)  
 
 ===
 
 ## **How to understand and communicate people's needs and behaviours?**
 
 ### Summaries and Questions  
-[Jun 27 Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519519)
+[Jun 27 Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
 
 ### Presented Slides  
 [Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
@@ -27,8 +27,8 @@ header_image_alt_text: 'Interview in coffee shop'
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000"]
 
 ### Assignments
-[User Research Report](https://sso.canvaslms.com/courses/1413912/assignments/9519534)  
-[Informed Consent Materials](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Informed%20Consent)  
+[User Research Report](https://canvas.sfu.ca/courses/55288/assignments)  
+[Informed Consent Materials](https://canvas.sfu.ca/courses/55288/files)  
 
 ### Supplemental Materials  
 [What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  

@@ -10,16 +10,16 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 ---
 
 ## How to conduct a usability inspection?   
-[Cognitive Walkthroughs](../../presentations/module-06?target=_blank#/module-06-4)  
-[Conducting Heuristic Evaluations](../../presentations/module-06?target=_blank#/module-06-5)  
-[Nielsen’s Heuristics](../../presentations/module-06?target=_blank#/module-06-6))  
+[Cognitive Walkthroughs](https://www.google.ca/slides/about/)  
+[Conducting Heuristic Evaluations](https://www.google.ca/slides/about/)  
+[Nielsen’s Heuristics](https://www.google.ca/slides/about/))  
 
 ===
 
 ## **How to conduct a usability inspection?**
 
 ### Summaries and Questions  
-[Jun 13th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519520)
+[Jun 13th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
 
 ### Presented Slides  
 [Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
@@ -31,8 +31,8 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 [iframe url="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA"]
 
 ### Assignments
-[Usability Inspection](https://sso.canvaslms.com/courses/1413912/assignments/9519532)   
-[Usability Inspection Report Template](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Usability%20Inspection%20Report%20Template)
+[Usability Inspection](https://canvas.sfu.ca/courses/55288/assignments)   
+[Usability Inspection Report Template](https://canvas.sfu.ca/courses/55288/files)
 
 ### Required Reading  
 [embedly url="https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php"]
