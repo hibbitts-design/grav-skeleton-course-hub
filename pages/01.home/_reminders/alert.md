@@ -5,6 +5,13 @@ published: true
 visible: false
 ---
 
-## Important Reminders
-* [Journey Map](https://canvas.sfu.ca/courses/55288/assignments) assignment due Jun 12th
-* [Course Reflection Log](https://canvas.sfu.ca/courses/55288/assignments) assignment due Aug 3rd
+## What’s Happening This Week
+
+### Important Reminders
+* [Journey Map](https://canvas.sfu.ca/courses/55288/assignments) assignment  due Tue Jun 12 11:59pm PDT
+* [Course Reflection Log](https://canvas.sfu.ca/courses/55288/assignments) assignment due Fri Aug 3rd 11:59pm PDT
+
+### Required Reading
+* [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
+
+[button url="https://canvas.sfu.ca/courses/55288/quizzes/123648" target="_blank" label="Required Reading Quiz due June 4th" type="primary" classes="external-link"]
