@@ -1,3 +1,9 @@
+# v3.2.4
+## 11/29/2020
+
+1. [](#improved)
+    * Updated skeleton screenshot
+
 # v3.2.3
 ## 11/28/2020
 
