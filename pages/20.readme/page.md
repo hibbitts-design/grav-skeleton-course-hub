@@ -7,7 +7,7 @@ hide_page_title: true
 ## Create, Publish, Share and Collaborate using the Grav Open Matter Course Hub!  
 
 1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.
-2. Tap the '[fa icon="cog"]Setup Git Sync' link on the far-right of the site navigation bar of this page for step-by-step instructions.
+2. Tap the '[fa="cog"][/fa]Setup Git Sync' link on the far-right of the site navigation bar of this page for step-by-step instructions.
 3. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
 
 ## Extend the Capabilities of Your Learning Management System (LMS)  
