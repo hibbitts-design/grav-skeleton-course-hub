@@ -59,7 +59,7 @@ _Figure 2. Example Grav Open MultiCourse Hub website, with GitHub collaborative 
 					<li>Optional important reminders and unit preparations areas</li>
 					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a> page</li>
 					<li>Includes ShortCodes for Badges, Buttons, <a href="http://embed.ly/">Embed.ly Cards</a>, <a href="https://www.google.ca/slides/about/">GoogleSlides</a>, <a href="https://h5p.org/">H5P</a>, iFrame, PDF and <a href="https://twitter.com/">Twitter Feeds</a></li>
-					<li>Enhanced support for Badge, GoogleSlides, H5P and PDF Shortcodes in <a href="https://getgrav.org/premium/nextgen-editor">Grav Premium NextGen Editor</a></li>
+					<li>Enhanced support for Badge, Button, GoogleSlides, H5P and PDF Shortcodes in <a href="https://getgrav.org/premium/nextgen-editor">Grav Premium NextGen Editor</a></li>
 					<li>Hub pages can be easily added/removed/changed</li>
 					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation Plugin</a></li>
           <li>Custom links can be added to site navigation bar</li>
