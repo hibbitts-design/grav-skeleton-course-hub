@@ -58,8 +58,9 @@ _Figure 2. Example Grav Open MultiCourse Hub website, with GitHub collaborative 
 				<ul>
 					<li>Optional important reminders and unit preparations areas</li>
 					<li>Supports custom page types and modular content</li>
-					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>, <a href="http://embed.ly/">embed.ly card</a>, <a href="https://www.swipe.to/">swipe.to</a> and <a href="https://twitter.com/">Twitter feed</a> pages</li>
-					<li>Includes ShortCodes for Button, <a href="http://embed.ly/">embed.ly cards</a>, <a href="https://h5p.org/">H5P</a>, iFrame, PDF, <a href="https://speakerdeck.com/">SpeakerDeck</a>,<a href="https://www.swipe.to/">swipe.to</a> and<a href="https://twitter.com/">Twitter</a></li>
+					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a>page</li>
+					<li>Includes ShortCodes for Badge, Button, <a href="http://embed.ly/">Embed.ly Cards</a>, <a href="https://www.google.ca/slides/about/">GoogleSlides</a>, <a href="https://h5p.org/">H5P</a>, iFrame, PDF and<a href="https://twitter.com/">Twitter</a></li>
+					<li>Enhanced support for Badge, GoogleSlides, H5P and PDF Shortcodes in <a href="https://getgrav.org/premium/nextgen-editor">Grav Premium NextGen Editor</a></li>
 					<li>Hub pages can be easily added/removed/changed</li>
 					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation Plugin</a></li>
           <li>Custom links can be added to site navigation bar</li>
