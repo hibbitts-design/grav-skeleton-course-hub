@@ -28,7 +28,7 @@ header_image_alt_text: 'Paper-based prototype'
 
 ### Supplemental Materials  
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
-[plugin:youtube](https://www.youtube.com/watch?v=MwidSAlbEB8)
+[youtube]https://www.youtube.com/watch?v=MwidSAlbEB8[/youtube]  
 
 ### Handouts
 [4-UP BROWSERS + GRID](https://canvas.sfu.ca/courses/55288/files)  

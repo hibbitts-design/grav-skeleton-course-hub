@@ -7,7 +7,7 @@ modular_content:
     items: '@self.modular'
     order:
         by: folder
-        dir: dsc
+        dir: asc
 content:
     items: '@self.children'
     limit: 7

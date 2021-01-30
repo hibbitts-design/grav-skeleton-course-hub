@@ -28,7 +28,7 @@ header_image_alt_text: 'Bullseye'
 
 ### Supplemental Materials  
 [Customer Journey Mapping](https://www.youtube.com/watch?v=a40QYgO-_aM)  
-[plugin:youtube](https://www.youtube.com/watch?v=a40QYgO-_aM)
+[youtube]https://www.youtube.com/watch?v=a40QYgO-_aM[/youtube]  
 
 ### Assignments
 [Journey Map](https://canvas.sfu.ca/courses/55288/assignments)  

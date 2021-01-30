@@ -28,7 +28,7 @@ header_image_alt_text: 'Usability testing'
 
 ### Supplemental Materials  
 [Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
-[plugin:youtube](https://www.youtube.com/watch?v=QckIzHC99Xc)
+[youtube]https://www.youtube.com/watch?v=QckIzHC99Xc[/youtube]  
 
 ### Required Reading  
 [embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
