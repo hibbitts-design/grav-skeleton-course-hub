@@ -1,3 +1,9 @@
+# v3.2.8
+## 01/30/2021
+
+1. [](#improved)
+    * Updated default demo pages
+
 # v3.2.7
 ## 01/20/2021
 
