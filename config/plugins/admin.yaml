@@ -53,14 +53,6 @@ add_modals:
     blueprint: admin/pages/new_page
     show_in: bar
   -
-    label: 'Add Presentation'
-    blueprint: admin/pages/new_presentation
-    show_in: dropdown
-  -
-    label: 'Add Presentations List'
-    blueprint: admin/pages/new_presentation_list
-    show_in: dropdown
-  -
     label: 'Add Course Subsite'
     blueprint: admin/pages/new_subsite
     show_in: dropdown
