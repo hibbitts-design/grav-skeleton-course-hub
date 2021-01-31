@@ -16,13 +16,11 @@ form:
       default: '@slugify-title'
 
     route:
-      type: select
-      label: PLUGIN_ADMIN.PARENT_PAGE
+      type: parents
+      label: PLUGIN_ADMIN.PARENT
       classes: fancy
-      '@data-options': '\Grav\Common\Page\Pages::parents'
-      default: '/presentations'
-      options:
-        '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
+      validate:
+        required: true
 
     name:
       type: hidden
