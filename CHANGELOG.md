@@ -1,3 +1,9 @@
+# v3.3.1
+## 02/17/2021
+
+1. [](#new)
+    * Added 'Add Course Subsites List' command to Admin Panel 'Add' dropdown menu
+
 # v3.3.0
 ## 02/16/2021
 
