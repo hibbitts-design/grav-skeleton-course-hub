@@ -53,6 +53,10 @@ add_modals:
     blueprint: admin/pages/new_page
     show_in: bar
   -
+    label: 'Add Course Subsites List'
+    blueprint: admin/pages/new_subsite_list
+    show_in: dropdown
+  -
     label: 'Add Course Subsite'
     blueprint: admin/pages/new_subsite
     show_in: dropdown
