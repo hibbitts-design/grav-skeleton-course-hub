@@ -7,6 +7,6 @@ cache_enable: false
 hide_git_sync_repo_link: true
 ---
 
-[plugin:content-inject](/home/_reminders)
+[plugin:page-inject](/home/_reminders)
 
 [plugin:page-inject](/home/_preparations)
