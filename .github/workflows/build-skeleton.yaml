@@ -15,7 +15,7 @@ on:
         default: 'latest'
       admin:
         description: 'Create also a package with Admin'
-        required: true
+        required: false
         default: false
 
 jobs:
@@ -29,7 +29,9 @@ jobs:
         uses: getgrav/skeleton-builder@v1
         with:
           version: ${{ github.event.inputs.version || 'latest' }}
-          admin: ${{ github.event.inputs.admin || true }}
+          admin: ${{ github.event.inputs.admin || false }}
+          exclude: README.md C* *bin/*
+          filename_version: false
       - name: Upload packages to release
         uses: svenstaro/upload-release-action@v2
         with:
