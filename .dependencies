@@ -45,7 +45,7 @@ git:
         branch: master
     license-manager:
         url: https://github.com/getgrav/grav-plugin-license-manager
-        path: user/plugins/login
+        path: user/plugins/license-manager
         branch: master
     login:
         url: https://github.com/getgrav/grav-plugin-login
@@ -69,7 +69,7 @@ git:
         branch: master
     presentation-deckset:
         url: https://github.com/OleVik/grav-plugin-presentation-deckset
-        path: user/plugins/presentation
+        path: user/plugins/presentation-deckset
         branch: master
     prism-highlight:
         url: https://github.com/trilbymedia/grav-plugin-prism-highlight
