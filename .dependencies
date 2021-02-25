@@ -23,6 +23,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
         branch: master
+    flex-objects:
+        url: https://github.com/trilbymedia/grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        branch: master
     form:
         url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
@@ -70,6 +74,10 @@ git:
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube
+        branch: master
+    bootstrap4:
+        url: https://github.com/trilbymedia/grav-theme-bootstrap4
+        path: user/themes/bootstrap4
         branch: master
     bootstrap4-open-matter:
         url: https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter
