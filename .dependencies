@@ -16,7 +16,7 @@ git:
         path: user/plugins/error
         branch: master
     external_links:
-        url: https://github.com/Sommerregen/grav-plugin-external-links
+        url: https://github.com/hibbitts-design/grav-plugin-external-links
         path: user/plugins/external_links
         branch: master
     feed:
@@ -39,13 +39,21 @@ git:
         url: https://github.com/absalomedia/grav-plugin-grava11y
         path: user/plugins/grava11y
         branch: master
+    image-captions:
+        url: https://github.com/trilbymedia/grav-plugin-image-captions
+        path: user/plugins/image-captions
+        branch: master
+    license-manager:
+        url: https://github.com/getgrav/grav-plugin-license-manager
+        path: user/plugins/login
+        branch: master
     login:
         url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
         branch: master
-    markdown-fontawesome:
+    markdown-notices:
         url: https://github.com/getgrav/grav-plugin-markdown-notices
-        path: user/plugins/markdown-fontawesome
+        path: user/plugins/markdown-notices
         branch: master
     page-inject:
         url: https://github.com/getgrav/grav-plugin-page-inject
@@ -54,6 +62,18 @@ git:
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
+        branch: master
+    presentation:
+        url: https://github.com/OleVik/grav-plugin-presentation
+        path: user/plugins/presentation
+        branch: master
+    presentation-deckset:
+        url: https://github.com/OleVik/grav-plugin-presentation-deckset
+        path: user/plugins/presentation
+        branch: master
+    prism-highlight:
+        url: https://github.com/trilbymedia/grav-plugin-prism-highlight
+        path: user/plugins/prism-highlight
         branch: master
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
