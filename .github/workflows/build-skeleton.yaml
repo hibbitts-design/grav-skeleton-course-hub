@@ -16,7 +16,7 @@ on:
       admin:
         description: 'Create also a package with Admin'
         required: true
-        default: true
+        default: false
 
 jobs:
   build:
