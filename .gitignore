@@ -6,6 +6,7 @@ data/*
 !data/.*
 plugins/*
 !plugins/.*
+!customadmin
 !themes/bootstrap4/.*
 themes/bootstrap4/*
 bootstrap4-open-matter
