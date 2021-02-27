@@ -1,0 +1,41 @@
+/* CSS to increase the default font size of the Admin Panel */
+
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+form input, form select, form textarea, form button, form .selectize-input {
+    font-size: 1rem;
+}
+
+/* CSS to increase default font size of Admin Panel toolbar */
+
+.grav-editor-toolbar ul {
+    font-size: 1.1rem!important;
+}
+
+/* CSS to hide 'Normal/Expert' Admin Panel toggle button (uncomment to enable) */
+/*
+#admin-topbar .switch-grav {
+  display: none;
+}
+*/
+
+/* CSS to hide 'Normal/Expert' Admin Panel toggle button (uncomment to enable) */
+/*
+#admin-topbar .switch-grav {
+  display: none;
+}
+*/
+
+#admin-main .titlebar .button-bar .button.danger {
+    color: rgba(255,255,255,0.85);
+    border-radius: 4px;
+    background: #0090D9;
+}
+
+#admin-main .titlebar .button-bar .button.danger:hover {
+    background: #26a1df;
+    color: #fff;
+}
