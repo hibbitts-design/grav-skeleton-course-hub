@@ -1,6 +1,6 @@
 name: Open Matter Course Hub Site
 version: 3.3.3
-description: "Grav Open Course Hub with Git Sync supports an open and collaborative environment for one or more courses, inside or outside of your current platform (e.g. LMS). Includes Admin Panel and Bootstrap4 Open Matter theme."
+description: "Take LMS-constrained courses to the next level and empower tech-savvy educators with an open, collaborative and version-controlled workflow using Markdown, Git Sync and Grav. Includes an example single course hub with Admin Panel."
 icon: university
 author:
  name: Hibbitts Design
