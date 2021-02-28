@@ -8,9 +8,9 @@ git:
         path: user/plugins/auto-date
         branch: master
     bootstrapper:
-      url: https://github.com/getgrav/grav-plugin-bootstrapper
-      path: user/plugins/bootstrapper
-      branch: master
+        url: https://github.com/getgrav/grav-plugin-bootstrapper
+        path: user/plugins/bootstrapper
+        branch: master
     email:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
