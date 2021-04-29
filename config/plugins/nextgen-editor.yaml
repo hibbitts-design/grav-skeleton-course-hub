@@ -1,0 +1,63 @@
+default_for_all: true
+dev_host: localhost
+dev_port: 2000
+enabled: true
+env: production
+options:
+  markdownit:
+    breaks: true
+    highlight: 'function (/*str, lang*/) { return ''''; }'
+    html: true
+    langPrefix: language-
+    linkify: false
+    quotes: “”‘’
+    typographer: false
+    xhtmlOut: false
+  nextgenEditor:
+    height: null
+    toolbar:
+      items:
+        - undo
+        - redo
+        - removeFormat
+        - heading
+        - bold
+        - italic
+        - underline
+        - strikethrough
+        - horizontalLine
+        - link
+        - imageUpload
+        - blockQuote
+        - numberedList
+        - bulletedList
+        - htmlEmbed
+        - codeBlock
+        - code
+        - insertTable
+        - mediaEmbed
+      sticky: true
+    htmlEmbed:
+      showPreviews: false
+  turndown:
+    bulletListMarker: '*'
+    codeBlockStyle: fenced
+    emDelimiter: '*'
+    headingStyle: atx
+    hr: '---'
+    linkReferenceStyle: full
+    linkStyle: inlined
+    strongDelimiter: '**'
+    preformattedCode: false
+  transformations:
+    typography: true
+    quotes: true
+    symbols: true
+    mathematical: true
+    nonbreaking_space: true
+    custom: null
+  extraMediaProviders:
+    -
+      name: unsplashRandom
+      url: '/^source\.unsplash\.com\/random?.*/'
+      html: '<img src="https://${match[0]}" />'
