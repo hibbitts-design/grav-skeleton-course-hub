@@ -1,4 +1,10 @@
 # v3.3.6
+## 06/16/2021
+
+1. [](#improved)
+    * Updated to Grav 1.7.17 and Bootstrap4 Open Matter v3.7.7
+
+# v3.3.6
 ## 04/19/2021
 
 1. [](#improved)
