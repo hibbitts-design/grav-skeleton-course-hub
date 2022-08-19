@@ -63,7 +63,7 @@ _Figure 2. Example Grav Open MultiCourse Hub website, with GitHub collaborative 
 					<li>Hub pages can be easily added/removed/changed</li>
 					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation Plugin</a></li>
           <li>Custom links can be added to site navigation bar</li>
-					<li>Image header area above site navigation bar</li>
+					<li>Image <a href="https://www.scaler.com/topics/header-tag-in-html/">header</a> area above site navigation bar</li>
 					<li>Sidebar is customizable (Markdown or HTML)</li>
 					<li>Various Web accessibility enhancements (i.e. hidden H1 page titles)</li>
 				</ul>
