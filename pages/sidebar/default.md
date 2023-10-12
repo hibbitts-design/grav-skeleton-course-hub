@@ -21,7 +21,4 @@ Suggestion, concern or complaint?
 [Assignments](https://canvas.sfu.ca/courses/55288/assignments)  
 [Quizzes](https://canvas.sfu.ca/courses/55288/quizzes)  
 [Class Discussions](https://canvas.sfu.ca/courses/55288/discussion_topics)  
-[Syllabus](https://canvas.sfu.ca/courses/55288/syllabus)   
-
-## Twitter Feed
-[twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"][/twitter]
+[Syllabus](https://canvas.sfu.ca/courses/55288/syllabus)
