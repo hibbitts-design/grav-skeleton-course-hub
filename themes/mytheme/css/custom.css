@@ -23,3 +23,277 @@ Put your custom CSS in this file.
 .reveal .slides section section .link-overlay:focus, .reveal .slides section section .link-overlay:hover {
   outline: none!important;
 }
+
+/*
+===============================================================================================================================
+Light and Dark Theme CSS for default Bootstrap theme, determined by System OS setting (uncomment to use).
+This code was developed with the assistance of ChatGPT, an AI language model by OpenAI.
+===============================================================================================================================
+*/
+
+/*
+body {
+    background-color: #f5f5f5;
+    color: #444444;
+}
+
+.bg-primary .navbar-nav .active > .nav-link {
+    color: #FFFFFF !important;
+}
+
+a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
+    color: #1b6ec2;
+}
+
+a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .navbar-brand, .nav-link) {
+    color: #0374B5;
+}
+
+.page-link {
+    color: #1b6ec2;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff !important;
+    background-color: #1b6ec2;
+    border-color: #1b6ec2;
+}
+
+.badge-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+}
+
+.btn-default {
+    background-color: #495057;
+    border-color: #3d4349;
+}
+
+.btn-primary {
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.btn-success {
+    background-color: #396f3a;
+    border-color: #305e31;
+}
+
+.btn-info {
+    background-color: #0b7285;
+    border-color: #095e6d;
+}
+
+.btn-warning {
+    background-color: #b24d04;
+    border-color: #994203;
+}
+
+.btn-danger {
+    background-color: #c92a2a;
+    border-color: #b42626;
+}
+
+.main-content {
+    background-color: #ffffff;
+}
+
+.header {
+    background-color: #333333 !important;
+}
+
+.alert-secondary {
+    background-color: #f5f5f5;
+    border-color: #e3e3e3;
+}
+
+.alert {
+    color: #333;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
+
+.footer {
+    background-color: #f8f9fa;
+}
+
+.image-credit {
+    background: rgba(0, 0, 0, 0.66);
+    color: #ccc;
+}
+
+.image-credit a {
+    color: #ccc;
+}
+
+.image-credit a:hover {
+    color: #ccc;
+}
+
+.topics h3 {
+    background: #666666;
+    color: white;
+}
+
+.blog-sidebar .nav-link {
+    color: #1b6ec2;
+}
+
+.blog-sidebar .active {
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #E0E0E0;
+    }
+
+    h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+        color: #FFFFFF;
+    }
+
+    .bg-primary .navbar-nav .active > .nav-link {
+        color: #FFFFFF !important;
+    }
+
+    a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
+        color: #82aaff;
+        text-decoration: none;
+    }
+
+    a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .navbar-brand, .nav-link) {
+        color: #82aaff;
+    }
+
+    .page-link {
+        color: #82aaff;
+    }
+
+    .page-item.active .page-link {
+        z-index: 1;
+        color: #121212 !important;
+        background-color: #82aaff;
+        border-color: #82aaff;
+    }
+
+    .badge-primary {
+        color: #121212;
+        background-color: #82aaff;
+    }
+
+    a.btn {
+        color: #000000;
+    }
+
+    a.btn:hover {
+        color: #000000;
+        background-color: #82aaff;
+    }
+      
+    .btn-default {
+        background-color: #3e3e3e;
+        border-color: #5a5a5a;
+    }
+
+    .btn-primary {
+        background-color: #82aaff;
+        border-color: #5a73d8;
+    }
+
+    .btn-success {
+        background-color: #4caf50;
+        border-color: #388e3c;
+    }
+
+    .btn-info {
+        background-color: #00bcd4;
+        border-color: #0097a7;
+    }
+
+    .btn-warning {
+        background-color: #ffb74d;
+        border-color: #ffa726;
+    }
+
+    .btn-danger {
+        background-color: #ef5350;
+        border-color: #e53935;
+    }
+
+    .main-content {
+        background-color: #1e1e1e;
+    }
+
+    .header {
+        background-color: #1e1e1e;
+    }
+
+    .alert-secondary {
+        background-color: #444444;
+        border-color: #555555;
+    }
+
+    .alert {
+        color: #e0e0e0;
+        background-color: #444444;
+        border: 1px solid #555555;
+    }
+
+    .footer {
+        background-color: #333333;
+    }
+
+    .image-credit {
+        background: rgba(255, 255, 255, 0.1);
+        color: #E0E0E0;
+    }
+
+    .image-credit a {
+        color: #82aaff;
+    }
+
+    .pagination {
+        color: #767676 !important;
+    }
+
+    .text-muted {
+        color: #B0B0B0 !important;
+    }
+
+    .topics h3 {
+        background-color: #666666;
+        color: #FFFFFF;
+    }
+
+    .blog-sidebar .nav-link {
+        color: #82aaff;
+    }
+
+    .blog-sidebar .active {
+        font-weight: bold;
+        color: #82aaff;
+    }
+
+    .listbullet ul li:before {
+        color: #82aaff;
+    }
+
+    .card {
+        background-color: #1e1e1e;
+        border-color: #E0E0E0;
+    }
+
+    .card-header {
+        background-color: #2e2e2e;
+        color: #E0E0E0;
+        border-bottom: 1px solid #555555;
+    }
+
+    .card-body {
+        background-color: #1e1e1e;
+        color: #E0E0E0;
+    }
+}
+*/
