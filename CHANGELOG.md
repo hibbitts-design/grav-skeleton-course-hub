@@ -4,7 +4,6 @@
 1. [](#new)
     * Added example CSS for light and dark theme support for default Bootstrap theme to custom.css file
 
-
 # v3.4.4
 ## 07/17/2024
 
