@@ -28,7 +28,7 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 
 ### Supplemental Materials  
 [Design Heuristics Lecture with Scott Klemmer](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-[iframe url="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA"]
+[iframe url="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA"/]
 
 ### Assignments
 [Usability Inspection](https://canvas.sfu.ca/courses/55288/assignments)   
