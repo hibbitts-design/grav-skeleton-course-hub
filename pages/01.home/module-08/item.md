@@ -32,7 +32,7 @@ header_image_alt_text: 'Interview in coffee shop'
 
 ### Supplemental Materials  
 [What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
-[iframe url="https://player.vimeo.com/video/7099570"]
+[iframe url="https://player.vimeo.com/video/7099570"/]
 
 ### Required Reading  
 [embedly]http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/[/embedly]
