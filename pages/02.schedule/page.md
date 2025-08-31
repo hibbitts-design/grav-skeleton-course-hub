@@ -30,7 +30,7 @@ published: true
 ## [[fa="calendar-o"][/fa]Week 5 (Jun 6 - 12)](../home/module-05)
 **How to plan, conduct, and summarize usability tests?**  
 [fa="desktop"][/fa][Usability Testing](https://www.google.ca/slides/about/)   
-[fa="book"][/fa][The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
+[fa="book"][/fa][The Art of Guerrilla Usability Testing](https://medium.springboard.com/a-guide-to-the-art-of-guerrilla-ux-testing-69a1411d34fb)  
 [fa="users"][/fa]In-class office hours (tentative)
 
 ## [fa="calendar-o"][/fa]Week 6 (Jun 13 - 19)

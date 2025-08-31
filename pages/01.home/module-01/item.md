@@ -35,4 +35,4 @@ hide_git_sync_repo_link: true
 [Course Overview](https://canvas.sfu.ca/courses/55288/files)  
 
 ### Recommended Reading  
-[embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
+[embedly]https://medium.springboard.com/a-guide-to-the-art-of-guerrilla-ux-testing-69a1411d34fb[/embedly]

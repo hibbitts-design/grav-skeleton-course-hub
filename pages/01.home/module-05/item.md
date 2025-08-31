@@ -31,4 +31,4 @@ header_image_alt_text: 'Usability testing'
 [youtube]https://www.youtube.com/watch?v=QckIzHC99Xc[/youtube]  
 
 ### Required Reading  
-[embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
+[embedly]https://medium.springboard.com/a-guide-to-the-art-of-guerrilla-ux-testing-69a1411d34fb[/embedly]
