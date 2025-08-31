@@ -3,3 +3,162 @@
 Put your custom CSS in this file.
 ===============================================================================================================================
 */
+
+/* Dark Theme CSS generated/assisted by Anthropic Claude AI, determined by System OS setting (uncomment to use) */
+/*
+@media (prefers-color-scheme: dark) {
+
+    a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
+    color: #60a5fa;
+    }
+
+    a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .navbar-brand, .nav-link) {
+    color: #93c5fd;
+    }
+
+    .page-link {
+        color: #60a5fa;
+    }
+
+    .page-item.active .page-link {
+        background-color: #60a5fa;
+        border-color: #60a5fa;
+    }
+
+    .badge-primary {
+        background-color: #60a5fa;
+    }
+
+    .btn-default {
+        color: #d1d5db;
+        background-color: #374151;
+        border-color: #4b5563;
+    }
+
+    .btn-primary {
+        background-color: #60a5fa;
+        border-color: #60a5fa;
+    }
+
+    .btn-primary:hover {
+        background-color: #93c5fd;
+        border-color: #93c5fd;
+    }
+
+    .btn-success {
+        background-color: #34d399;
+        border-color: #34d399;
+    }
+
+    .btn-info {
+        color: #000;
+        background-color: #22d3ee;
+        border-color: #22d3ee;
+    }
+
+    .btn-warning {
+        color: #000;
+        background-color: #fbbf24;
+        border-color: #fbbf24;
+    }
+
+    .btn-danger {
+        background-color: #f87171;
+        border-color: #f87171;
+    }
+
+    .btn-link {
+        color: #60a5fa;
+    }
+
+    h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    color: #f9fafb;
+    }
+
+    .header h1 {
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+    }
+
+    body {
+        background-color: #111827;
+        color: #d1d5db;
+    }
+
+    .main-content {
+        background-color: #1f2937;
+    }
+
+    .card {
+        border: 1px solid #374151;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3), 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+        background-color: #1f2937;
+    }
+
+    .card:hover {
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+    }
+
+    .alert-secondary {
+        background-color: #374151;
+        color: #d1d5db;
+    }
+
+    .fa, .card-header .fa {
+        color: #d1d5db;
+    }
+
+    .blog-sidebar .nav-link {
+        color: #d1d5db;
+    }
+
+    .blog-sidebar .active {
+    color: #60a5fa;
+    }
+
+    .listbullet ul li:before {
+    color: #d1d5db;
+    }
+
+    .image-credit {
+        background: rgba(0,0,0,.8);
+        color: #d1d5db;
+    }
+
+    .image-credit a {
+        color: #d1d5db;
+    }
+
+    .image-credit a:hover {
+        color: #f9fafb;
+    }
+
+    figure.image-caption figcaption {
+        color: #9ca3af;
+    }
+
+    .pagination {
+        color: #9ca3af!important;
+    }
+
+    .up-arrow {
+        color: #d1d5db;
+    }
+
+    .text-muted {
+        color: #9ca3af!important;
+    }
+
+    .footer {
+        background-color: #111827;
+        color: #d1d5db;
+    }
+
+    .topics h3 {
+        background: #4b5563;
+    }
+
+    ol.breadcrumb {
+        background-color: #374151;
+    }
+}
+*/
