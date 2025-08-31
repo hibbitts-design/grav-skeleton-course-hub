@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * Included example CSS for light and dark theme support in custom.css file
+    * Updated default demo pages
 
 # v3.5.0
 ## 08/31/2025
