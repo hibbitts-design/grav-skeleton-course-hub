@@ -5,7 +5,7 @@
 
 [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
 
-> [!TIP]
+> [!NOTE]
 > **Grav Helios Course Hub is the successor to this project.** Built on the Grav Premium Helios theme, it unifies single and multi-course support into one installation with a significantly more refined visual experience, automatic course setup, context-aware search, and visual course cards — no custom design or coding required. [Learn more](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
 
 **Grav Open Course Hub** with Git Sync is designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Built with the open source modern file-based [Grav CMS](http://getgrav.org).
