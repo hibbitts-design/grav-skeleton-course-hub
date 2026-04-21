@@ -63,14 +63,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
         branch: master
-    presentation:
-        url: https://github.com/OleVik/grav-plugin-presentation
-        path: user/plugins/presentation
-        branch: master
-    presentation-deckset:
-        url: https://github.com/OleVik/grav-plugin-presentation-deckset
-        path: user/plugins/presentation-deckset
-        branch: master
     prism-highlight:
         url: https://github.com/trilbymedia/grav-plugin-prism-highlight
         path: user/plugins/prism-highlight
