@@ -94,37 +94,28 @@ form:
           fields:
             generaloptions:
               type: section
-              title: 'Visual Style (Bootstrap4 CSS)'
+              title: 'Visual Style'
               underline: true
-            theme_stylesheet:
+            theme_css:
               type: select
               size: medium
-              classes: fancy
-              label: 'Theme Stylesheet'
-              default: default
+              label: 'Theme Style'
+              default: '2026'
               options:
-                default: Default
-                cerulean: Cerulean
-                cosmo: Cosmo
-                cyborg: Cyborg
-                darkly: Darkly
-                flatly: Flatly
-                journal: Journal
-                litera: Litera
-                lumen: Lumen
-                lux: Lux
-                materia: Materia
-                minty: Minty
-                pulse: Pulse
-                sandstone: Sandstone
-                sketchy: Sketchy
-                simplex: Simplex
-                slate: Slate
-                solar: Solar
-                spacelab: Spacelab
-                superhero: Superhero
-                united: United
-                yeti: Yeti
+                '2026': '2026 Style'
+                '2025': '2025 Style'
+                classic: 'Classic Style'
+            dark_mode.enabled:
+              type: toggle
+              label: 'Dark Mode'
+              help: 'Apply dark mode styles unconditionally, regardless of visitor OS setting.'
+              highlight: 1
+              default: 0
+              options:
+                '0': Disabled
+                '1': Enabled
+              validate:
+                type: bool
             menubaroptions:
               type: section
               title: 'NavBar (Bootstrap4 Menubar)'
