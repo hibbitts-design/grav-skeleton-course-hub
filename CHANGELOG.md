@@ -1,3 +1,9 @@
+# v3.5.3
+## XX/XX/2026
+
+1. [](#improved)
+    * Streamlined dependencies to improve Grav 2 compatibility
+
 # v3.5.2
 ## 03/26/2026
 
