@@ -1,3 +1,11 @@
+# v4.0.1
+## 04/22/2026
+
+1. [](#improved)
+    * Updated to Bootstrap4 Open Matter v5.0.2
+    * Streamlined dependencies to improve Grav 2 compatibility
+    * Updated Customadmin plugin to custom Customadmin Grav2 with Admin2 (Grav 2) CSS and JS support, maintaining full backward compatibility with Admin1
+
 # v4.0.0
 ## 04/21/2026
 

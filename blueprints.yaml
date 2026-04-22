@@ -1,5 +1,5 @@
 name: Open Course Hub Site
-version: 4.0.0
+version: 4.0.1
 description: "Open Course Hub uses a customized version of the Bootstrap4 theme to support a collaborative and version-controlled workflow using Markdown and Git Sync. Includes example single course hub content and Admin Panel plugin."
 icon: university
 author:
