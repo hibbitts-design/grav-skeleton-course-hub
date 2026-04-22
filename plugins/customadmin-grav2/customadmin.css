@@ -22,13 +22,6 @@ form input, form select, form textarea, form button, form .selectize-input {
 }
 */
 
-/* CSS to hide 'Normal/Expert' Admin Panel toggle button (uncomment to enable) */
-/*
-#admin-topbar .switch-grav {
-  display: none;
-}
-*/
-
 #admin-main .titlebar .button-bar .button.danger {
     color: rgba(255,255,255,0.85);
     border-radius: 4px;
@@ -38,4 +31,10 @@ form input, form select, form textarea, form button, form .selectize-input {
 #admin-main .titlebar .button-bar .button.danger:hover {
     background: #26a1df;
     color: #fff;
+}
+
+/* Admin 2.0 (SvelteKit/Tailwind) — zoom scales hardcoded px values */
+body:has([data-theme="grav"]),
+[data-theme="grav"] body {
+    zoom: 1.1;
 }

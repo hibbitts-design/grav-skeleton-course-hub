@@ -1,11 +1,14 @@
-name: Customadmin
+name: Customadmin Grav2
 version: 1.0.0
-description: Customize the Grav admin panel with your own CSS and JS
+description: Custom version of Customadmin with CSS and JS support for Grav 2 (Admin2) and backward compatibility with Admin1
 icon: empire
 author:
   name: Romain Fallet
   email: rfallet@numee.fr
   url: http://www.numee.fr
+contributors:
+  - name: HibbittsDesign.org
+    url: https://hibbittsdesign.org
 homepage: https://github.com/numee/grav-plugin-customadmin
 keywords: admin, plugin, manager, panel, custom
 bugs: https://github.com/numee/grav-plugin-customadmin/issues
@@ -13,4 +16,5 @@ readme: https://github.com/numee/grav-plugin-customadmin/README.md
 license: MIT
 
 dependencies:
-  - admin
+  - { name: admin2, version: '>=2.0.0' }
+  - { name: admin, version: '>=1.0.0' }
