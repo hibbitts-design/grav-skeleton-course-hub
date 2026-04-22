@@ -102,9 +102,8 @@ form:
               label: 'Theme Style'
               default: '2026'
               options:
-                '2026': '2026 Style'
-                '2025': '2025 Style'
-                classic: 'Classic Style'
+                '2026': '2026 Refresh'
+                classic: Classic
             dark_mode.enabled:
               type: toggle
               label: 'Dark Mode'
