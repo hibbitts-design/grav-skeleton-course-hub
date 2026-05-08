@@ -1,3 +1,9 @@
+# v4.0.2
+## 05/08/2026
+
+1. [](#improved)
+    * Updated skeleton screenshot
+
 # v4.0.1
 ## 04/22/2026
 
