@@ -104,17 +104,16 @@ form:
               options:
                 '2026': '2026 Refresh'
                 classic: Classic
-            dark_mode.enabled:
-              type: toggle
+            dark_mode.mode:
+              type: select
               label: 'Dark Mode'
-              help: 'Apply dark mode styles unconditionally, regardless of visitor OS setting.'
-              highlight: 1
-              default: 0
+              help: 'Off: never. On: always. Auto (System): follows visitor OS preference.'
+              size: medium
+              default: disabled
               options:
-                '0': Disabled
-                '1': Enabled
-              validate:
-                type: bool
+                disabled: 'Off'
+                enabled: 'On'
+                auto: 'Auto (System)'
             menubaroptions:
               type: section
               title: 'NavBar (Bootstrap4 Menubar)'
