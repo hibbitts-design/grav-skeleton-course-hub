@@ -14,6 +14,8 @@ keywords: admin, plugin, manager, panel, custom
 bugs: https://github.com/numee/grav-plugin-customadmin/issues
 readme: https://github.com/numee/grav-plugin-customadmin/README.md
 license: MIT
+compatibility:
+  grav: ['1.7', '2.0']
 
 dependencies:
   - { name: admin2, version: '>=2.0.0' }
