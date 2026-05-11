@@ -4,7 +4,7 @@ published: true
 hide_page_title: true
 ---
 
-## Create, Publish, Share and Collaborate using the Grav Open Matter Course Hub!  
+## Create, Publish, Share and Collaborate using the Grav Open Course Hub!  
 
 1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.
 2. Tap the '[fa="cog"][/fa]Setup Git Sync' link on the far-right of the site navigation bar of this page for step-by-step instructions.
@@ -12,12 +12,12 @@ hide_page_title: true
 
 ## Extend the Capabilities of Your Learning Management System (LMS)  
 
-By adding the URL parameter (i.e. flag) `chromeless:true` to any Open Matter Course Hub page you can display that page's content without the global header image, site navigation bar, sidebar and footer - a great way to seamlessly embed Open Matter Course Hub pages into other systems.  
+By adding the URL parameter (i.e. flag) `embedded:true` to any Open Course Hub page you can display that page's content without the global header image, site navigation bar, sidebar and footer - a great way to seamlessly embed Open Course Hub pages into other systems.  
 
-For example, the URL [demo.hibbittsdesign.org/grav-open-matter-course-hub/schedule](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/schedule) displays the standard Open Matter Course Hub page but the URL [demo.hibbittsdesign.org/grav-open-matter-course-hub/schedule/chromeless:true](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/schedule/chromeless:true) will only display that page's content. Any links between Open Matter Course Hub pages will result in pages being displayed in the same manner.
+For example, the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule) displays the standard Open Course Hub page but the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true) will only display that page's content. Any links between Open Course Hub pages will result in pages being displayed in the same manner.
 
-## What Else Can the Open Matter Course Hub do for You? ##
-Learn more about the capabilities of the Open Matter Course Hub project at [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org/coursehub).
+## What Else Can the Open Course Hub do for You? ##
+Learn more about the capabilities of the Open Course Hub project at [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org/coursehub).
 
 <hr>
 
