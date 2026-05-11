@@ -24,7 +24,7 @@ class CustomadminGrav2Plugin extends Plugin
         $uri = $this->grav['uri'];
         $route = $this->config->get('plugins.admin.route');
 
-        if ($route && preg_match('#' . $route . '#', $uri->path())) {
+        if (!$this->isAdmin2Route() && $route && preg_match('#' . $route . '#', $uri->path())) {
             $this->enable([
                 'onPageInitialized' => ['onPageInitialized', 0]
             ]);
