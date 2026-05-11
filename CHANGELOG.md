@@ -1,3 +1,9 @@
+# v4.0.5
+## XX/XX/2026
+
+1. [](#bugfix)
+    * Customadmin-grav2 plugin with Admin2 CSS/JS injection scoped to admin routes only
+
 # v4.0.4
 ## 05/11/2026
 
