@@ -1,3 +1,9 @@
+# v4.0.3
+## 05/11/2026
+
+1. [](#improved)
+    * Update config to support Off/On/Auto (System) setting for bootstrap4-open-matter and mytheme
+
 # v4.0.2
 ## 05/08/2026
 
