@@ -31,7 +31,7 @@
     * Updated to Grav 1.7.49.5
 
 # v3.5.1
-## 09/01/2025🏫
+## 09/01/2025
 
 1. [](#improved)
     * Included example CSS for light and dark theme support in custom.css file
