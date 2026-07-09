@@ -1,0 +1,101 @@
+git:
+    admin2:
+        url: https://github.com/getgrav/grav-plugin-admin2
+        path: user/plugins/admin2
+        branch: main
+    api:
+        url: https://github.com/getgrav/grav-plugin-api
+        path: user/plugins/api
+        branch: main
+    auto-date:
+        url: https://github.com/getgrav/grav-plugin-auto-date
+        path: user/plugins/auto-date
+        branch: master
+    bootstrapper:
+        url: https://github.com/getgrav/grav-plugin-bootstrapper
+        path: user/plugins/bootstrapper
+        branch: master
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    external_links:
+        url: https://github.com/hibbitts-design/grav-plugin-external-links
+        path: user/plugins/external_links
+        branch: master
+    flex-objects:
+        url: https://github.com/trilbymedia/grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    git-sync:
+        url: https://github.com/trilbymedia/grav-plugin-git-sync
+        path: user/plugins/git-sync
+        branch: main
+    grava11y:
+        url: https://github.com/absalomedia/grav-plugin-grava11y
+        path: user/plugins/grava11y
+        branch: master
+    image-captions:
+        url: https://github.com/trilbymedia/grav-plugin-image-captions
+        path: user/plugins/image-captions
+        branch: master
+    license-manager:
+        url: https://github.com/getgrav/grav-plugin-license-manager
+        path: user/plugins/license-manager
+        branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: master
+    markdown-notices:
+        url: https://github.com/getgrav/grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
+        branch: master
+    page-inject:
+        url: https://github.com/getgrav/grav-plugin-page-inject
+        path: user/plugins/page-inject
+        branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
+    prism-highlight:
+        url: https://github.com/trilbymedia/grav-plugin-prism-highlight
+        path: user/plugins/prism-highlight
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    twigfeeds:
+        url: https://github.com/OleVik/grav-plugin-twigfeeds
+        path: user/plugins/twigfeeds
+        branch: master
+    twigpcre:
+        url: https://github.com/kesslernetworks/grav-plugin-twigpcre
+        path: user/plugins/twigpcre
+        branch: master
+    shortcode-core:
+        url: https://github.com/getgrav/grav-plugin-shortcode-core
+        path: user/plugins/shortcode-core
+        branch: master
+    youtube:
+        url: https://github.com/getgrav/grav-plugin-youtube
+        path: user/plugins/youtube
+        branch: master
+    bootstrap4:
+        url: https://github.com/trilbymedia/grav-theme-bootstrap4
+        path: user/themes/bootstrap4
+        branch: master
+    bootstrap4-open-matter:
+        url: https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter
+        path: user/themes/bootstrap4-open-matter
+        branch: master
