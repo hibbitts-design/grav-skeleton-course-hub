@@ -1,3 +1,9 @@
+# v4.0.8
+## XX/XX/2026
+
+1. [](#improved)
+    * Add 1.7|2.0 compatibility flags to default inherited theme
+
 # v4.0.7
 ## 06/18/2026
 
