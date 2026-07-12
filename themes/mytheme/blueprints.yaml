@@ -6,6 +6,9 @@ author:
   name: 'Paul Hibbitts'
   email: paul@hibbittsdesign.org
   url: 'http://hibbittsdesign.org'
+compatibility:
+  grav: ['1.7', '2.0']
+
 form:
   validation: loose
   fields:
