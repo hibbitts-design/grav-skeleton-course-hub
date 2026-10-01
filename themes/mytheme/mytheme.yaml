@@ -1,7 +1,7 @@
 navbar_style: navbar-dark
 navbar_position: top
 navbar_breakpoint: md
-git_sync.edit_theme_link_location: none
+git_sync_edit_theme_link_location: none
 theme_css: 2026
 dark_mode:
   mode: disabled

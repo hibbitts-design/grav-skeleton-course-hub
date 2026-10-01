@@ -1,7 +1,6 @@
 navbar_style: navbar-dark
 navbar_position: top
 navbar_breakpoint: md
-git_sync.edit_theme_link_location: none
 theme_css: '2026'
 dark_mode:
   mode: disabled
@@ -34,7 +33,6 @@ custommenu:
     icon: arrow-circle-right
     url: 'https://getgrav.org/'
     target: _blank
-theme_stylesheet: default
 navbar_bg: default
 navbar_bg_color: '#991b1b'
 git_sync_edit_theme_link_location: none
