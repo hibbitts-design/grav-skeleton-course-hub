@@ -16,6 +16,8 @@
 <img alt="Course homepage with weekly reminders, required reading, and a course sidebar with LMS links" src="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/refs/heads/master/screenshots/screenshot.webp" width="100%">
 </a>
 
+<p>Open Course Hub – Course homepage</p>
+
 </div>
 
 A complete, pre-configured package that gives a course an open and collaborative home on the web, inside or outside your LMS. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
@@ -42,6 +44,8 @@ Other options might be better when you:
 - Want a more refined design, multi-course support, and course-aware search – consider [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
 - Need real LMS features such as enrollment, grading, or student progress tracking
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
+
+Already running Open Course Hub? See [moving to Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub#from-grav-open-course-hub-single-course) for step-by-step migration guidance.
 
 ## Quick Start
 
