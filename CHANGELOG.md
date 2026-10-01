@@ -1,3 +1,13 @@
+# v4.1.0
+## 10/01/2026
+
+1. [](#improved)
+    * Remove Custom Presentation Link Text option from inherited theme, as legacy Presentation plugin support has been removed
+    * Remove unused Add Presentation and Add Presentations List Admin page blueprints
+    * Remove unused Presentation plugin configuration
+    * Align inherited theme settings with Bootstrap4 Open Matter (correct theme files link location setting name, remove unused Bootswatch stylesheet setting)
+    * Remove legacy NextGen Editor configuration and README mention
+
 # v4.0.8
 ## 08/24/2026
 
