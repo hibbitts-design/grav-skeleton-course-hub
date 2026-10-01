@@ -268,13 +268,6 @@ form:
               size: medium
               label: 'Text before Page Link'
               description: 'The text before Git Sync Link located on a Page, e.g. ''Have a suggestion or correction?'' or ''Want to reuse this open content?''.'
-            custom_git_sync_repo_presentation_link_text:
-              type: input.text
-              size: long
-              label: 'Custom Presentation Link Text'
-              description: 'Link text for embedded Presentations, e.g. ''View Slides in GitHub'' or ''View Slides as Markdown''.'
-              validate:
-                type: text
             gitsynctheme:
               type: section
               title: 'Theme Files'
