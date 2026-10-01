@@ -1,78 +1,95 @@
-# Grav Open Matter Course Hub Skeleton
+<div align="center">
 
-[![Demo](https://img.shields.io/badge/Demo-OpenCourseHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/) [![Demo](https://img.shields.io/badge/Demo-OpenMultiCourseHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE)
+# 🎓 Grav Open Course Hub
 
-[![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
+### Ready-to-Run Skeleton Package
 
-> [!NOTE]
-> **Grav Helios Course Hub is the successor to this project.** Built on the Grav Premium Helios theme, it unifies single and multi-course support into one installation with a significantly more refined visual experience, with automatic single or multi-course setup, context-aware search, and visual course cards. [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
+<p><em>An open, collaborative home for your course – inside or outside your LMS, with content in portable Markdown files you control.</em></p>
 
-**Grav Open Course Hub** with Git Sync is designed to support an open and collaborative environment for one or more courses, inside or outside of your LMS. Built with the open source modern file-based [Grav CMS](http://getgrav.org).
+[![Grav Discord Chat](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Grav%20Discord%20Chat)](https://chat.getgrav.org) [![Latest Release](https://img.shields.io/github/v/release/hibbitts-design/grav-skeleton-course-hub?style=flat-square&label=Release)](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest) [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE) [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.0.2-8892BF?style=flat-square&logo=php&logoColor=white)](https://learn.getgrav.org/17/basics/requirements)
 
-📚 Information and Documentation
----
-https://learn.hibbittsdesign.org/coursehub
+<p>Try the <a href="https://demo.hibbittsdesign.org/grav-open-course-hub/">demo</a></p>
 
-🚀 Quick Install Instructions
----
-**Pre-flight Checklist**  
+<p>The predecessor to <a href="https://github.com/hibbitts-design/grav-skeleton-helios-course-hub">Grav Helios Course Hub</a> – a free, open-source package built on <a href="https://getgrav.org">Grav CMS</a> and the <a href="https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter">Bootstrap4 Open Matter</a> theme, with Markdown file-based content, a built-in Admin panel, and no database required. For new course sites, Helios Course Hub offers a more refined visual experience, automatic single or multi-course setup, and course-aware search.</p>
 
-1. Confirm Web server PHP version (PHP 8.0.2 or higher)
-2. Web server login credentials (username and password)
+<a href="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/refs/heads/master/screenshots/screenshot.webp">
+<img alt="Course homepage with weekly reminders, required reading, and a course sidebar with LMS links" src="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/refs/heads/master/screenshots/screenshot.webp" width="100%">
+</a>
 
-**Installation Steps**  
+</div>
 
-1. Download the ready-to-run [Open Course Hub Skeleton Package](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest/download/grav-skeleton-course-hub.zip)
-2. Unzip the package onto your desktop  
-3. Copy the entire Grav Open Course Hub folder to your Web server  
-4. Point your browser to the Web server folder  
-5. Create your site administrator account when prompted  
-6. And you're done! (press the ![Right Arrow Circle Icon](https://github.com/paulhibbitts/github-repo-images/blob/master/fa-arrow-circle-right.png?raw=true) icon in the Admin Panel to preview site)
+A complete, pre-configured package that gives a course an open and collaborative home on the web, inside or outside your LMS. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
 
-💻 Grav Open Course Hub Screenshots
----
-![Course Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/smartmockups_open-matter-course-hub.png?raw=true)  
-_Figure 1. Example Grav Open Course Hub website, with GitHub collaborative page editing enabled.  Explore an example open matter course hub site at [demo.hibbittsdesign.org/grav-open-matter-course-hub/](http://demo.hibbittsdesign.org/grav-open-matter-course-hub/)._
+## What Sets It Apart
 
-![MultiCourse Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/smartmockups_open-matter-multicourse-hub.png?raw=true)  
-_Figure 2. Example Grav Open MultiCourse Hub website, with GitHub collaborative page editing enabled.  Explore an example open matter multicourse hub site at [demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/](http://demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/)._
+- **LMS embedding without LTI** – add `/chromeless:true` to any page URL to show only its content, or display the whole site without its menu, sidebar, and footer
+- **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source
+- **A course-ready structure** – weekly units listed newest first, "What's Happening This Week" reminders, plus schedule, resources, and syllabus pages
+- **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes
+- **Visual styles** – 2026 Refresh or Classic, with optional Dark Mode
+- **Portable by design** – your content is plain Markdown files on your server, ready to move to any tool or host if your needs change
 
-⚡️ Grav Open Matter Course Hub Highlights
----
-<table cellpadding="2" cellspacing="2" width="100%">
-	<tbody>
-		<tr>
-			<td width="50%">
-				<ul>
-					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
-					<li>Minimal server requirements (PHP 7.1 or higher, no database required)</li>
-					<li>Built using the <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Bootstrap 4</a> responsive framework</li>
-					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
-					<li>Single or multiple courses per hub installation</li>
-					<li>Global 'Chromeless Pages' site setting for all pages (for embedding entire site within LMS)
-					<li>Optional 'chromeless' page URL flag (for embedding specific pages within LMS)
-	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> and HTML files for cross-platform content</li>				
-					<li>Full access to <a href="https://www.w3schools.com/html/default.asp">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">Javascript</a>, <a href="https://twig.symfony.com/doc/2.x/">Twig Templates</a>, <a href="http://www.yaml.org/">YAML</a>, etc.</li>
-					<li>Blog-style list of course units (e.g. classes, modules, etc)</li>
-				</ul>
-			</td>
-			<td width="50%">
-				<ul>
-					<li>Optional important reminders and unit preparations areas</li>
-					<li>Includes example <a href="https://github.com/OleVik/grav-plugin-twigfeeds">RSS aggregator</a> page</li>
-					<li>Includes ShortCodes for Badges, Buttons, <a href="http://embed.ly/">Embed.ly Cards</a>, <a href="https://www.google.ca/slides/about/">GoogleSlides</a>, <a href="https://h5p.org/">H5P</a>, iFrame, PDF and <a href="https://twitter.com/">Twitter Feeds</a></li>
-					<li>Hub pages can be easily added/removed/changed</li>
-					<li>Custom links can be added to site navigation bar</li>
-					<li>Image header area above site navigation bar</li>
-					<li>Sidebar is customizable (Markdown or HTML)</li>
-					<li>Various Web accessibility enhancements (i.e. hidden H1 page titles)</li>
-				</ul>
-			</td>
-		</tr>
-	</tbody>
-</table>
+## When is Grav Open Course Hub a Good Candidate?
 
-💬 Share Your Feedback
----
-* Complete the [Open Course Hub Survey](https://goo.gl/forms/oSZlfsSi71JB5U8L2)
+Grav Open Course Hub is a good fit when you:
+
+- Want a lightweight, open companion site for a single course alongside your LMS
+- Value Git-based, open authoring of course materials
+- Prefer a simple Bootstrap look you can adjust through theme options
+
+Other options might be better when you:
+
+- Want a more refined design, multi-course support, and course-aware search – consider [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
+- Need real LMS features such as enrollment, grading, or student progress tracking
+- Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
+
+## Quick Start
+
+Open Course Hub is best suited for authors and educators comfortable with web hosting and folder-based content. An online Admin panel is included for browser-based editing – no code editor required.
+
+### Pre-flight Checklist
+1. Confirm your web server meets [Grav's requirements](https://learn.getgrav.org/17/basics/requirements) (PHP 8.0.2 or higher)
+2. Have your web server login credentials ready (username and password)
+
+### Installation Steps
+1. **Download** the [Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest/download/grav-skeleton-course-hub.zip) package (a Grav 1.7 version is also available on the [release page](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest))
+2. **Unzip** the package onto your desktop
+3. **Copy** the entire Grav Open Course Hub folder to your web server
+4. **Open your browser** and go to your site's URL
+5. **Create your site administrator account** when prompted
+6. **You're done!** – press the preview icon in the Admin Panel to view your site
+
+> [!TIP]
+> When copying the Grav Open Course Hub folder to your web server, copy the **entire folder** – it contains hidden files (such as `.htaccess`) that are not selected by default. Omitting these hidden files can cause problems when running Grav.
+
+## Course Setup
+
+- **Site name and description** – in the Admin Panel under **Configuration → Site**
+- **Course home and weekly units** – the Home page lists each week's unit (`home/module-01`, `module-02`, …), newest first by date. Add a unit with **Pages → Add** under Home, or by copying a `module-XX` folder; unpublish a unit to hide it. Edit this week's reminders ("What's Happening This Week") in `home/_reminders` and the "Looking Ahead to Next Week" area in `home/_preparations`
+- **Navigation** – top-level pages (Schedule, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
+- **Shared parts** – edit the `sidebar` and `footer` pages, and replace the image in `headerimage` to change the banner
+- **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)
+- **LMS embedding** – add `/chromeless:true` to any page URL; the included `lms-home` page shows just this week's reminders and preparations, ready to embed
+- **Git Sync and "Edit this Page"** – set up the Git Sync plugin in the Admin Panel, then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options
+
+## Requirements
+
+- PHP >= 8.0.2
+- Grav CMS 1.7 or 2.0 (included in the package)
+
+## Support
+
+### Contact and Support
+- Share your feedback in the [Open Course Hub Survey](https://docs.google.com/forms/d/e/1FAIpQLSeI6SuJYPyKrhQmlnRVxJI9plUiemu5yTLtLLjwKc9QboR8VQ/viewform)
+- Follow [@hibbittsdesign@mastodon.social](https://mastodon.social/@hibbittsdesign) on Mastodon for updates
+- 👩🏻‍💻🧑🏻‍💻 Join the [Grav Discord](https://chat.getgrav.org) and often find me there
+- Add a ⭐️ [star on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub) to the Open Course Hub project repository
+- For bugs or feature requests, [open an issue](https://github.com/hibbitts-design/grav-skeleton-course-hub/issues) on GitHub
+
+### Professional Services
+
+By leveraging his extensive UX design expertise and systems-oriented approach, Paul helps teams and individuals utilize open content in education and publication settings. Professional services include user experience and workflow consulting, premium support subscriptions, workshops, and custom development. Interested? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
+
+## License
+
+MIT – Hibbitts Design

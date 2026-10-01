@@ -7,8 +7,8 @@ author:
  email: hello@hibbittsdesign.org
  url: https://hibbittsdesign.org
 homepage: https://github.com/hibbitts-design/grav-skeleton-course-hub
-demo: https://demo.hibbittsdesign.org/grav-open-course-hub
-docs: https://learn.hibbittsdesign.org/coursehub
+demo: https://demo.hibbittsdesign.org/grav-open-course-hub/
+docs: https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/README.md
 keywords: open, collaborative, flexbible, git, responsive, basic, course, lms
 bugs: https://github.com/hibbitts-design/grav-skeleton-course-hub/issues
 license: MIT
