@@ -2,7 +2,9 @@
 ## XX/XX/2026
 
 1. [](#bugfix)
-    * Use Grav's default jQuery 3 instead of jQuery 2.1.4, which Grav 2.0.14 and later no longer include
+    * Use Grav's default jQuery 3 (jQuery 2.1.4 was removed in Grav 2.0.14)
+1. [](#improved)
+    * Point documentation links to the README on GitHub
 
 # v4.1.1
 ## 10/02/2026
