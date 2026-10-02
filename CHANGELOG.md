@@ -1,8 +1,10 @@
 # v4.1.1
 ## XX/XX/2026
 
+1. [](#bugfix)
+    * Replace the Guerrilla UX Testing reading, no longer available, with the Usability Geek article
 1. [](#improved)
-    * Rewrite README in streamlined style with single screenshot
+    * Rewrite README in streamlined style with homepage and interior page screenshots
     * Point documentation link to the README and update the demo link
 
 # v4.1.0
