@@ -17,7 +17,7 @@ By adding the URL parameter (i.e. flag) `embedded:true` to any Open Course Hub p
 For example, the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule) displays the standard Open Course Hub page but the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true) will only display that page's content. Any links between Open Course Hub pages will result in pages being displayed in the same manner.
 
 ## What Else Can the Open Course Hub do for You? ##
-Learn more about the capabilities of the Open Course Hub project at [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org/coursehub).
+Learn more about the capabilities of the Open Course Hub project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub#readme).
 
 <hr>
 
