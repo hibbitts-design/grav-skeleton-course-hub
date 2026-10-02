@@ -117,8 +117,6 @@ assets:
   js_pipeline_before_excludes: true
   js_minify: true
   enable_asset_timestamp: false
-  collections:
-    jquery: 'system://assets/jquery/jquery-2.1.4.min.js'
 errors:
   display: 0
   log: true
