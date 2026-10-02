@@ -1,3 +1,9 @@
+# v4.1.2
+## XX/XX/2026
+
+1. [](#bugfix)
+    * Use Grav's default jQuery 3 instead of jQuery 2.1.4, which Grav 2.0.14 and later no longer include
+
 # v4.1.1
 ## 10/02/2026
 
