@@ -6,7 +6,7 @@
 
 <p><em>An open, collaborative home for your course – inside or outside your LMS, with content in portable Markdown files you control.</em></p>
 
-[![Grav Discord Chat](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Grav%20Discord%20Chat)](https://chat.getgrav.org) [![Latest Release](https://img.shields.io/github/v/release/hibbitts-design/grav-skeleton-course-hub?style=flat-square&label=Release)](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest) [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE) [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.0.2-8892BF?style=flat-square&logo=php&logoColor=white)](https://learn.getgrav.org/17/basics/requirements)
+[![Grav Discord Chat](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Grav%20Discord%20Chat)](https://chat.getgrav.org) [![Latest Release](https://img.shields.io/github/v/release/hibbitts-design/grav-skeleton-course-hub?style=flat-square&label=Release)](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest) [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE) [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.3-8892BF?style=flat-square&logo=php&logoColor=white)](https://learn.getgrav.org/17/basics/requirements)
 
 <p>Try the <a href="https://demo.hibbittsdesign.org/grav-open-course-hub/">demo</a></p>
 
@@ -50,7 +50,7 @@ Already running Open Course Hub? See [moving to Grav Helios Course Hub](https://
 Open Course Hub is best suited for authors and educators comfortable with web hosting and folder-based content. An online Admin panel is included for browser-based editing – no code editor required.
 
 ### Pre-flight Checklist
-1. Confirm your web server meets [Grav's requirements](https://learn.getgrav.org/17/basics/requirements) (PHP 8.0.2 or higher)
+1. Confirm your web server meets [Grav's requirements](https://learn.getgrav.org/17/basics/requirements) (PHP 8.3 or higher, or PHP 8.0.2 or higher for the Grav 1.7 version)
 2. Have your web server login credentials ready (username and password)
 
 ### Installation Steps
@@ -76,8 +76,8 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 
 ## Requirements
 
-- PHP >= 8.0.2
-- Grav CMS 1.7 or 2.0 (included in the package)
+- PHP >= 8.3 (or >= 8.0.2 for the Grav 1.7 version)
+- Grav CMS 2.0 (included in the package), or Grav CMS 1.7 in the Grav 1.7 version
 
 ## Support
 
