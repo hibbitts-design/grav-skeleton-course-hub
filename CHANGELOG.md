@@ -1,5 +1,5 @@
 # v4.1.1
-## XX/XX/2026
+## 10/02/2026
 
 1. [](#bugfix)
     * Replace the Guerrilla UX Testing reading, no longer available, with the Usability Geek article
