@@ -22,10 +22,12 @@ A complete, pre-configured package that gives a course an open and collaborative
 
 ## What Sets It Apart
 
-- **LMS embedding without LTI** – add `/chromeless:true` to any page URL to show only its content, or display the whole site without its menu, sidebar, and footer
+- **LMS embedding without LTI** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, or display the whole site without its menu, sidebar, and footer
 - **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source
 - **A course-ready structure** – weekly units listed newest first, "What's Happening This Week" reminders, plus schedule, resources, and syllabus pages
-- **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes
+- **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes, and GitHub-style alerts (`> [!NOTE]`) for callouts (Grav 2.0 version)
+- **Course content shortcodes** – learning objectives, key takeaways, reflections, definitions, examples, case studies, references, and more, with the same shortcodes as Grav Helios Course Hub
+- **Course search** – search the course from the sidebar
 - **Visual styles** – 2026 Refresh or Classic, with optional Dark Mode
 - **Portable by design** – your content is plain Markdown files on your server, ready to move to any tool or host if your needs change
 
@@ -43,7 +45,7 @@ Other options might be better when you:
 - Need real LMS features such as enrollment, grading, or student progress tracking
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
 
-Already running Open Course Hub? See [moving to Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub#from-grav-open-course-hub-single-course) for step-by-step migration guidance.
+Already running Open Course Hub? See [moving to Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub#from-grav-open-course-hub-single-course) for step-by-step migration guidance. Content using the shared shortcodes (including `[topics]` and the course content shortcodes), GitHub-style alerts, and course card fields moves across unchanged.
 
 ## Quick Start
 
@@ -71,8 +73,11 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 - **Navigation** – top-level pages (Schedule, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
 - **Shared parts** – edit the `sidebar` and `footer` pages, and replace the image in `headerimage` to change the banner
 - **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)
-- **LMS embedding** – add `/chromeless:true` to any page URL; the included `lms-home` page shows just this week's reminders and preparations, ready to embed
-- **Git Sync and "Edit this Page"** – set up the Git Sync plugin in the Admin Panel, then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options
+- **LMS embedding** – add `/chromeless:true` or `?embedded=true` to any page URL; the included `lms-home` page shows just this week's reminders and preparations, ready to embed
+- **Git Sync and "Edit this Page"** – set up the Git Sync plugin in the Admin Panel, then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options; add `?edit_link=false` to a page URL to hide the link on that page
+- **Callouts** – start a blockquote with `> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, `> [!WARNING]`, or `> [!CAUTION]` (Grav 2.0 version); the Home page's announcement shows an example
+- **Course content shortcodes** – wrap content in `[objectives]`, `[key-takeaways]`, `[reflection]`, `[definition]`, `[example]`, `[case-study]`, `[project-brief]`, `[process-note]`, `[feedback-requested]`, `[announcement]`, `[exercise]`, `[references]`, or `[excerpt]` (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#what-sets-it-apart))
+- **Search** – the SimpleSearch plugin is included; to keep a page out of results, add `simplesearch: process: false` to its frontmatter (the included `lms-home` page does this)
 
 ## Requirements
 

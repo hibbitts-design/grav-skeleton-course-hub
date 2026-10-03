@@ -16,7 +16,6 @@ content:
         dir: desc
     pagination: '1'
 hide_post_summary: true
-post_icon: calendar-o
 hide_post_date: true
 hide_post_taxonomy: true
 feed:

@@ -83,6 +83,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-shortcode-core
         path: user/plugins/shortcode-core
         branch: master
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: master
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube

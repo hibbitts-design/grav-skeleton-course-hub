@@ -1,0 +1,20 @@
+enabled: true
+built_in_css: false
+built_in_js: false
+display_button: false
+min_query_length: 3
+route: /search
+search_content: rendered
+template: simplesearch_results
+filters:
+  category:
+filter_combinator: and
+ignore_accented_characters: false
+order:
+  by: title
+  dir: asc
+searchable_types:
+  title: true
+  content: true
+  taxonomy: false
+  header: false

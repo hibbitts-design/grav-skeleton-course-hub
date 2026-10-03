@@ -36,3 +36,5 @@ custommenu:
 navbar_bg: default
 navbar_bg_color: '#991b1b'
 git_sync_edit_theme_link_location: none
+header_image_size: slim
+display_syndicate: false

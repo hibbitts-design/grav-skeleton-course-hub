@@ -39,6 +39,10 @@ git:
         url: https://github.com/trilbymedia/grav-plugin-git-sync
         path: user/plugins/git-sync
         branch: master
+    github-markdown-alerts:
+        url: https://github.com/trilbymedia/grav-plugin-github-markdown-alerts
+        path: user/plugins/github-markdown-alerts
+        branch: main
     grava11y:
         url: https://github.com/absalomedia/grav-plugin-grava11y
         path: user/plugins/grava11y
@@ -86,6 +90,10 @@ git:
     shortcode-core:
         url: https://github.com/getgrav/grav-plugin-shortcode-core
         path: user/plugins/shortcode-core
+        branch: master
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
         branch: master
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube
