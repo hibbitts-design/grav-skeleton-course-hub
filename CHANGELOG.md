@@ -1,5 +1,5 @@
 # v4.5.0
-## XX/XX/2026
+## 10/04/2026
 
 1. [](#new)
     * Add course search (SimpleSearch plugin)
