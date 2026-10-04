@@ -5,8 +5,7 @@
     * Add course search (SimpleSearch plugin)
     * Add GitHub-style alerts to the Grav 2.0 version (GitHub Markdown Alerts plugin)
 1. [](#improved)
-    * Update to Bootstrap4 Open Matter 6.0.2
-    * Update the favicon to the Grav 2 icon
+    * Update to Bootstrap4 Open Matter 6.0.1
     * Use the standard header image on home pages and the slim one elsewhere, and hide Syndicate links in the demo
     * Add an example announcement and accessible embed titles to the demo
     * Point documentation links to the README on GitHub
