@@ -120,12 +120,13 @@ form:
             header_image_size:
               type: select
               label: 'Header Image Height'
-              help: 'Height of the header image above the NavBar. Slim keeps more of the page in view, especially on phones.'
+              help: 'Height of the header image above the NavBar. Slim keeps more of the page in view, especially on phones. "Standard on home pages" shows the full image on the home page (and each course home page), and the slim one elsewhere.'
               size: medium
               default: standard
               options:
                 standard: Standard
                 slim: Slim
+                home-standard: 'Standard on home pages, slim elsewhere'
                 hidden: Hidden
             display_syndicate:
               type: toggle
