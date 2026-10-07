@@ -28,7 +28,7 @@ A complete, pre-configured package that gives a course an open and collaborative
 - **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes, and GitHub-style alerts (`> [!NOTE]`) for callouts
 - **Course content shortcodes** – learning objectives, key takeaways, reflections, definitions, examples, case studies, references, and more, with the same shortcodes as Grav Helios Course Hub
 - **Course search** – search the course from the sidebar
-- **Visual styles** – 2026 Refresh or Classic, with optional Dark Mode
+- **Visual styles** – 2026 Modern (with a tinted NavBar), 2026 Refresh or Classic, with optional Dark Mode
 - **Portable by design** – your content is plain Markdown files on your server, ready to move to any tool or host if your needs change
 
 ## When is Grav Open Course Hub a Good Candidate?

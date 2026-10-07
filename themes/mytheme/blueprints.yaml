@@ -103,9 +103,11 @@ form:
               type: select
               size: medium
               label: 'Theme Style'
+              help: '2026 Modern adds bolder headings, a clearer current page in the NavBar, and card-style boxes to 2026 Refresh.'
               default: '2026'
               options:
                 '2026': '2026 Refresh'
+                '2026-modern': '2026 Modern'
                 classic: Classic
             dark_mode.mode:
               type: select
@@ -143,6 +145,17 @@ form:
               type: section
               title: 'NavBar (Bootstrap4 Menubar)'
               underline: true
+            navbar_look:
+              type: select
+              label: 'NavBar Look'
+              help: 'Tinted: a light tint of the NavBar colour, with dark text (frosted when Sticky Top).'
+              size: medium
+              default: solid
+              options:
+                solid: 'Solid colour'
+                tint-subtle: 'Tinted (subtle)'
+                tint: 'Tinted'
+                tint-strong: 'Tinted (strong)'
             navbar_style:
               type: select
               label: 'NavBar Style'

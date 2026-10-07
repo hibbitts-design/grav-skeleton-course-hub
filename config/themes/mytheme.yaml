@@ -1,7 +1,8 @@
 navbar_style: navbar-dark
 navbar_position: top
 navbar_breakpoint: md
-theme_css: '2026'
+theme_css: '2026-modern'
+navbar_look: tint
 dark_mode:
   mode: disabled
 dropdown:
