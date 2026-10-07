@@ -1,8 +1,11 @@
 # v4.5.1
-## XX/XX/2026
+## 10/07/2026
 
+1. [](#new)
+    * New sites use the 2026 Modern Theme Style with the Tinted NavBar Look (Bootstrap4 Open Matter 6.1.0)
 1. [](#improved)
     * Add GitHub-style alerts to the Grav 1.7 version (GitHub Markdown Alerts plugin 1.1.1)
+    * Add the 2026 Modern and NavBar Look options to the mytheme blueprints
     * Update README
 
 # v4.5.0
