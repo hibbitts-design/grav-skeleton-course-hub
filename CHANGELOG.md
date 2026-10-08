@@ -1,9 +1,10 @@
 # v4.5.2
-## XX/XX/2026
+## 10/08/2026
 
 1. [](#improved)
     * Plum (#7c1557) with Tinted (strong) as the default NavBar colour and look
     * The bootstrap4-open-matter theme config now matches mytheme's look (2026 Modern, Tinted (strong) NavBar, plum)
+    * Update to Bootstrap4 Open Matter 6.1.6
 
 # v4.5.1
 ## 10/07/2026
