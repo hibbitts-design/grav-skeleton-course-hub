@@ -1,6 +1,8 @@
 navbar_style: navbar-dark
 navbar_position: top
 navbar_breakpoint: md
+theme_css: '2026-modern'
+navbar_look: tint
 git_sync_edit_theme_link_location: none
 dropdown:
   enabled: false
@@ -26,4 +28,4 @@ hidehomemenulink: false
 displaycustommenus:
   enabled: false
 navbar_bg: default
-navbar_bg_color: '#651e49'
+navbar_bg_color: '#9f1239'
