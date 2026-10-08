@@ -47,25 +47,25 @@ jobs:
       #    needs to create dist/ fresh, and will fail if it already exists.
       - name: Stash 2.0 build output
         run: sudo mv dist dist-2
-      # 3. Build the pinned 1.7.53.4 version LAST, using the original
+      # 3. Build the pinned 1.7.53.5 version LAST, using the original
       #    upstream action (PHP 7.4, proven stable for this version).
-      - name: Generate Skeleton Packages (1.7.53.4)
+      - name: Generate Skeleton Packages (1.7.53.5)
         uses: getgrav/skeleton-builder@v1
         with:
-          version: '1.7.53.4'
+          version: '1.7.53.5'
           admin: ${{ github.event.inputs.admin || false }}
           exclude: README.md *dist-2/* .dependencies-2.0
           filename_version: false
-      # 4. Rename the 1.7.53.4 output with a "-1.7" suffix so it no
+      # 4. Rename the 1.7.53.5 output with a "-1.7" suffix so it no
       #    longer collides with the 2.0 build's plain filename.
-      - name: Rename 1.7.53.4 build output
+      - name: Rename 1.7.53.5 build output
         run: |
           cd dist
           for f in *.zip; do
             sudo mv "$f" "$(echo "$f" | sed 's/\.zip$/-1.7.zip/')"
           done
-      # 5. Upload the 1.7.53.4 (-1.7 suffixed) packages FIRST.
-      - name: Upload 1.7.53.4 packages to release
+      # 5. Upload the 1.7.53.5 (-1.7 suffixed) packages FIRST.
+      - name: Upload 1.7.53.5 packages to release
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
