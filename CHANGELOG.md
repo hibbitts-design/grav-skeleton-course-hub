@@ -2,8 +2,8 @@
 ## XX/XX/2026
 
 1. [](#improved)
-    * Rose (#9f1239) as the default NavBar colour, for a cleaner light tint with the Tinted NavBar Look
-    * The bootstrap4-open-matter theme config now matches mytheme's look (2026 Modern, Tinted NavBar, rose)
+    * Plum (#7c1557) with Tinted (strong) as the default NavBar colour and look
+    * The bootstrap4-open-matter theme config now matches mytheme's look (2026 Modern, Tinted (strong) NavBar, plum)
 
 # v4.5.1
 ## 10/07/2026
