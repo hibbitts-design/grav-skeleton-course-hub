@@ -7,7 +7,7 @@ hide_page_title: true
 ## Create, Publish, Share and Collaborate using the Grav Open Course Hub!  
 
 1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.
-2. Go to Plugins → [Git Sync](../../admin/plugins/git-sync) in the Admin Panel for step-by-step setup instructions.
+2. Set up Git Sync in the Admin Panel for step-by-step instructions – on Grav 2 it has its own [Git Sync](../../admin/plugin/git-sync) menu item, and on Grav 1.7 it's under Plugins → [Git Sync](../../admin/plugins/git-sync).
 3. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
 
 ## Extend the Capabilities of Your Learning Management System (LMS)  
