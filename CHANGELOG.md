@@ -2,7 +2,7 @@
 ## 10/09/2026
 
 1. [](#improved)
-    * No "Setup Git Sync" link is shown before Git Sync is connected to a repository; the Read Me page and README say where to set it up (Admin Panel → Plugins → Git Sync)
+    * No "Setup Git Sync" link is shown before Git Sync is connected to a repository; the Read Me page and README say where to set it up in the Admin Panel (its own menu item in Grav 2, or Plugins → Git Sync in Grav 1.7)
     * Update to Bootstrap4 Open Matter 6.1.7
 
 # v4.5.2
