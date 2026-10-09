@@ -1,5 +1,5 @@
 # v4.5.3
-## XX/XX/2026
+## 10/09/2026
 
 1. [](#improved)
     * No "Setup Git Sync" link is shown before Git Sync is connected to a repository; the Read Me page and README say where to set it up (Admin Panel → Plugins → Git Sync)
