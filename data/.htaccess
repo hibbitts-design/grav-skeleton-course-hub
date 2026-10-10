@@ -1,0 +1,20 @@
+# Deny direct web access to this folder, except the public media uploads
+# (e.g. Flex Object images) that Grav has always served from here.
+# Data files (.yaml/.json/.md), databases, keys and tokens stay blocked;
+# SVG is intentionally excluded as a stored-XSS vector.
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
+<FilesMatch "(?i)\.(jpe?g|png|gif|webp|avif|bmp|ico|mp4|webm|ogg|ogv|mov|mp3|wav|m4a|flac|pdf|woff2|woff|ttf|otf|eot|css|js)$">
+    <IfModule mod_authz_core.c>
+        Require all granted
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Allow from all
+    </IfModule>
+</FilesMatch>
