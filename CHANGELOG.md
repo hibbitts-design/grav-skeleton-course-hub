@@ -1,3 +1,10 @@
+# v4.5.4
+## 10/10/2026
+
+1. [](#improved)
+    * Slate blue (#3b5682) with Tinted as the default NavBar colour and look – a calm, neutral default that suits the header images and leaves room for an institution's own colour
+    * Updated screenshots
+
 # v4.5.3
 ## 10/09/2026
 
