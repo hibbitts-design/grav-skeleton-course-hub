@@ -74,7 +74,15 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 - **Course home and weekly units** – the Home page lists each week's unit (`home/module-01`, `module-02`, …), newest first by date. Add a unit with **Pages → Add** under Home, or by copying a `module-XX` folder; unpublish a unit to hide it. Edit this week's reminders ("What's Happening This Week") in `home/_reminders` and the "Looking Ahead to Next Week" area in `home/_preparations`
 - **Navigation** – top-level pages (Schedule, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
 - **Shared parts** – edit the `sidebar` and `footer` pages, and replace the image in `headerimage` to change the banner
-- **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)
+- **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, header image height, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)
+- **Updating an existing site** – for the latest My Theme options on a site created before Open Course Hub 4.5.5, replace everything from `form:` in `user/themes/mytheme/blueprints.yaml` with:
+
+  ```yaml
+  extends@:
+    type: bootstrap4-open-matter/blueprints
+    context: 'themes://'
+  ```
+
 - **LMS embedding** – add `/chromeless:true` or `?embedded=true` to any page URL; the included `lms-home` page shows just this week's reminders and preparations, ready to embed
 - **Git Sync and "Edit this Page"** – set up Git Sync in the Admin Panel (its own menu item in Grav 2, or Plugins → Git Sync in Grav 1.7), then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options; add `?edit_link=false` to a page URL to hide the link on that page
 - **Callouts** – start a blockquote with `> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, `> [!WARNING]`, or `> [!CAUTION]`; the Home page's announcement shows an example
