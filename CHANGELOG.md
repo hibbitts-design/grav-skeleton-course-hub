@@ -3,7 +3,7 @@
 
 1. [](#improved)
     * The header image shows on home pages only ("Standard on home pages, hidden elsewhere"), so other pages open straight onto their content
-    * My Theme reuses the Bootstrap4 Open Matter theme options instead of a copy, so they stay up to date
+    * My Theme reuses the Bootstrap4 Open Matter theme options instead of a copy, so they stay up to date; the README shows how to update an existing site
     * Updated screenshots
     * Update to Bootstrap4 Open Matter 6.2.0
 
