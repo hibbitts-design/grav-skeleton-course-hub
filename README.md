@@ -24,7 +24,7 @@ A complete, pre-configured package that gives a course an open and collaborative
 
 - **LMS embedding without LTI** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, or display the whole site without its menu, sidebar, and footer
 - **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source
-- **A course-ready structure** – weekly units listed newest first, "What's Happening This Week" reminders, plus schedule, resources, and syllabus pages
+- **A course-ready structure** – weekly units listed newest first, "What's Happening This Week" reminders, plus schedule, topics, resources, and syllabus pages
 - **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes, and GitHub-style alerts (`> [!NOTE]`) for callouts
 - **Course content shortcodes** – learning objectives, key takeaways, reflections, definitions, examples, case studies, references, and more, with the same shortcodes as Grav Helios Course Hub
 - **Course search** – search the course from the sidebar
@@ -72,7 +72,7 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 
 - **Site name and description** – in the Admin Panel under **Configuration → Site**
 - **Course home and weekly units** – the Home page lists each week's unit (`home/module-01`, `module-02`, …), newest first by date. Add a unit with **Pages → Add** under Home, or by copying a `module-XX` folder; unpublish a unit to hide it. Edit this week's reminders ("What's Happening This Week") in `home/_reminders` and the "Looking Ahead to Next Week" area in `home/_preparations`
-- **Navigation** – top-level pages (Schedule, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
+- **Navigation** – top-level pages (Schedule, Topics, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
 - **Shared parts** – edit the `sidebar` and `footer` pages, and replace the image in `headerimage` to change the banner
 - **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, header image height, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)
 - **Updating an existing site** – for the latest My Theme options on a site created before Open Course Hub 4.5.5, replace everything from `form:` in `user/themes/mytheme/blueprints.yaml` with:

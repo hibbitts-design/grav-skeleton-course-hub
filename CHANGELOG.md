@@ -1,3 +1,11 @@
+# v4.5.6
+## 10/10/2026
+
+1. [](#improved)
+    * New Topics page, an A–Z list of course topics linked to their weekly units
+    * New UX Techniques Guide example (unpublished), using the accordion page type
+    * README: Topics added to the list of pages
+
 # v4.5.5
 ## 10/10/2026
 
