@@ -6,56 +6,56 @@ body_classes: topics
 
 [topics]
 ## A
-[Agile UX](../home/module-02)  
+[Agile UX](../home/week-02)  
 
 ## D
-[Design Ethics](../home/module-02)  
-[Design Thinking](../home/module-01)  
+[Design Ethics](../home/week-02)  
+[Design Thinking](../home/week-01)  
 
 ## F
-[5-Second Test](../home/module-04)   
-[Five Whys](../home/module-01)  
+[5-Second Test](../home/week-04)   
+[Five Whys](../home/week-01)  
 
 ## H
-[Hypothesis](../home/module-02)  
+[Hypothesis](../home/week-02)  
 
 ## J
-[Journey Maps](../home/module-03)  
+[Journey Maps](../home/week-03)  
 
 ## K
-[Kano Model](../home/module-03)  
+[Kano Model](../home/week-03)  
 
 ## L
-[Lean UX](../home/module-02)  
+[Lean UX](../home/week-02)  
 
 ## M
-[Microsoft Product Reaction Cards](../home/module-02)  
+[Microsoft Product Reaction Cards](../home/week-02)  
 
 ## P
-[Problem Statement](../home/module-03)  
-[Product Design Principles](../home/module-03)  
-[Prototyping](../home/module-04)   
+[Problem Statement](../home/week-03)  
+[Product Design Principles](../home/week-03)  
+[Prototyping](../home/week-04)   
 
 ## S
-[Scenario-based Design (and Task-Centered Design)](../home/module-04)  
-[Scenarios (and Design Scenarios)](../home/module-04)  
-[Sketching](../home/module-04)
-[Social Design](../home/module-01)  
-[Software Design Processes](../home/module-02)  
-[Storyboards](../home/module-04)  
+[Scenario-based Design (and Task-Centered Design)](../home/week-04)  
+[Scenarios (and Design Scenarios)](../home/week-04)  
+[Sketching](../home/week-04)
+[Social Design](../home/week-01)  
+[Software Design Processes](../home/week-02)  
+[Storyboards](../home/week-04)  
 
 ## T
-[Task Analysis](../home/module-02)  
+[Task Analysis](../home/week-02)  
 
 ## U
-[Usability](../home/module-01)  
-[Usability Goals](../home/module-02)  
-[Usability Testing](../home/module-05)   
-[User-centered Design (UCD)](../home/module-01)  
-[User Experience Design](../home/module-02)   
-[UX Goals](../home/module-02)  
-[UX Strategy](../home/module-03)  
+[Usability](../home/week-01)  
+[Usability Goals](../home/week-02)  
+[Usability Testing](../home/week-05)   
+[User-centered Design (UCD)](../home/week-01)  
+[User Experience Design](../home/week-02)   
+[UX Goals](../home/week-02)  
+[UX Strategy](../home/week-03)  
 
 ## V
-[Value Proposition](../home/module-03)  
+[Value Proposition](../home/week-03)  
 [/topics]

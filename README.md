@@ -71,7 +71,8 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 ## Course Setup
 
 - **Site name and description** – in the Admin Panel under **Configuration → Site**
-- **Course home and weekly units** – the Home page lists each week's unit (`home/module-01`, `module-02`, …), newest first by date. Add a unit with **Pages → Add** under Home, or by copying a `module-XX` folder; unpublish a unit to hide it. Edit this week's reminders ("What's Happening This Week") in `home/_reminders` and the "Looking Ahead to Next Week" area in `home/_preparations`
+- **Course home and weekly units** – the Home page lists each week's unit (`home/week-01`, `week-02`, …), newest first by date. Add a unit with **Pages → Add** under Home, or by copying a `week-XX` folder; unpublish a unit to hide it. Edit this week's reminders ("What's Happening This Week") in `home/_reminders` and the "Looking Ahead to Next Week" area in `home/_preparations`
+- **Modules** – an unpublished Modules page (`modules`) shows the course as modules, as in Grav Helios Course Hub; publish it to try it, or replace it with a course converted by the Common Cartridge Converter
 - **Navigation** – top-level pages (Schedule, Topics, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
 - **Shared parts** – edit the `sidebar` and `footer` pages, and replace the image in `headerimage` to change the banner
 - **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, header image height, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)

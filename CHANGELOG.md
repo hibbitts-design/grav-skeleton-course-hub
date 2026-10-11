@@ -3,6 +3,9 @@
 
 1. [](#new)
     * The Page TOC plugin is included, for the "On this page" list on module pages (version 3.2.5 in the Grav 1.7 package)
+    * Modules page example (unpublished), showing the weekly units as modules, as in Grav Helios Course Hub
+1. [](#improved)
+    * Weekly pages renamed from `module-NN` to `week-NN`, so they aren't confused with modules
 
 # v4.5.6
 ## 10/10/2026
