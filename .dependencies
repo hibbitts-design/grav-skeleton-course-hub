@@ -67,6 +67,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
         branch: master
+    page-toc:
+        url: https://github.com/trilbymedia/grav-plugin-page-toc
+        path: user/plugins/page-toc
+        branch: 3.2.5
     prism-highlight:
         url: https://github.com/trilbymedia/grav-plugin-prism-highlight
         path: user/plugins/prism-highlight

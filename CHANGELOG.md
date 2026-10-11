@@ -1,3 +1,9 @@
+# v4.6.0
+## XX/XX/2026
+
+1. [](#new)
+    * The Page TOC plugin is included, for the "On this page" list on module pages (version 3.2.5 in the Grav 1.7 package)
+
 # v4.5.6
 ## 10/10/2026
 

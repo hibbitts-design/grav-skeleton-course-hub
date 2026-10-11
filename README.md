@@ -88,6 +88,7 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 - **Callouts** – start a blockquote with `> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, `> [!WARNING]`, or `> [!CAUTION]`; the Home page's announcement shows an example
 - **Course content shortcodes** – wrap content in `[objectives]`, `[key-takeaways]`, `[reflection]`, `[definition]`, `[example]`, `[case-study]`, `[project-brief]`, `[process-note]`, `[feedback-requested]`, `[announcement]`, `[exercise]`, `[references]`, or `[excerpt]` (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#what-sets-it-apart))
 - **Search** – the SimpleSearch plugin is included; to keep a page out of results, add `simplesearch: process: false` to its frontmatter (the included `lms-home` page does this)
+- **On this page** – the Page TOC plugin is included, for the list of headings on module pages; it adds no "#" links to headings (its `anchors.link` setting is off)
 
 ## Requirements
 
