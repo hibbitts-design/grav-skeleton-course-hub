@@ -16,6 +16,14 @@ By adding the URL parameter (i.e. flag) `embedded:true` to any Open Course Hub p
 
 For example, the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule) displays the standard Open Course Hub page but the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true) will only display that page's content. Any links between Open Course Hub pages will result in pages being displayed in the same manner.
 
+## Organise Your Course by Weeks or by Modules
+
+Along with weekly units, the Open Course Hub supports modules, as in Grav Helios Course Hub: a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons through every module and page. This site includes an unpublished Modules example – publish it in your [Admin Pages panel](../../admin/pages) to see it.
+
+## Bring a Course Over from Your LMS
+
+Have a course in Canvas, Moodle, Brightspace, or Blackboard? Export it as a Common Cartridge file, and the free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) turns it into modules for this site – see [a course imported from an LMS](https://demo.hibbittsdesign.org/grav-open-course-hub-it2dda/).
+
 ## What Else Can the Open Course Hub do for You? ##
 Learn more about the capabilities of the Open Course Hub project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub#readme).
 
