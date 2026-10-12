@@ -9,4 +9,4 @@ published: true
 [linkpreviewcard url="https://usabilitygeek.com/guerrilla-usability-testing-how-to/"]
 
 ### Week 5 Slides to be Discussed
-[Usability Testing](https://www.google.ca/slides/about/)
+[fa="desktop"][/fa][Usability Testing](https://www.google.ca/slides/about/)
