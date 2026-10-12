@@ -3,7 +3,9 @@
 
 1. [](#improved)
     * The Home page links straight to this week's unit (Week 4)
+    * The Home page's Looking Ahead to Next Week part links straight to next week's unit (Week 5)
     * The Home page's Looking Ahead to Next Week slides link has an icon, as on the Schedule
+    * The Read Me page highlights organising a course by weeks or by modules, and importing a course from an LMS with the Common Cartridge Converter
 
 # v4.7.0
 ## 10/12/2026
