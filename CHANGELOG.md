@@ -1,3 +1,13 @@
+# v4.7.0
+## 10/12/2026
+
+1. [](#new)
+    * A separate Weekly Units page lists the weekly units, and the Home page shows just the announcement, this week's reminders and next week's preparations, closer to the Grav Helios Course Hub home page
+1. [](#improved)
+    * Pages reordered: Weekly Units and the (unpublished) Modules example come first, followed by Schedule, Topics, Resources and the other pages
+    * Weekly units are now at weekly-units/week-01 and so on, with the Schedule and Topics links updated
+    * The Page TOC plugin is no longer included, as Bootstrap4 Open Matter 6.3.1 no longer shows an "On this page" list on module pages
+
 # v4.6.0
 ## 10/11/2026
 
