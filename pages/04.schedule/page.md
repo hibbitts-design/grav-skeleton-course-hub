@@ -3,31 +3,31 @@ title: Schedule
 published: true
 ---
 
-## [[fa="calendar-o"][/fa]Week 1 (May 9 - 15)](../home/week-01)
+## [[fa="calendar-o"][/fa]Week 1 (May 9 - 15)](../weekly-units/week-01)
 **What is usability and user experience design?**  
 [fa="desktop"][/fa][Introduction to UX Design](https://www.google.ca/slides/about/)   
 [fa="book"][/fa][Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
-## [[fa="calendar-o"][/fa]Week 2 (May 16 - 22)](../home/week-02)
+## [[fa="calendar-o"][/fa]Week 2 (May 16 - 22)](../weekly-units/week-02)
 **What does a holistic user experience design process look like?**  
 [fa="pencil"][/fa][Course Reflection Log](https://canvas.sfu.ca/courses/55288/assignments) due Aug 3rd  
 [fa="desktop"][/fa][The Process of UX Design](https://www.google.ca/slides/about/)   
 [fa="book"][/fa][The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b)  
 
-## [[fa="calendar-o"][/fa]Week 3 (May 23 - 29)](../home/week-03)
+## [[fa="calendar-o"][/fa]Week 3 (May 23 - 29)](../weekly-units/week-03)
 **How to make more strategic design decisions?**   
 [fa="pencil"][/fa][Journey Map](https://canvas.sfu.ca/courses/38847/assignments/292821) assignment due Jun 12th  
 [fa="folder"][/fa][Informed Consent Materials](https://canvas.sfu.ca/courses/55288/files)  
 [fa="desktop"][/fa][Strategic UX Design](https://www.google.ca/slides/about/)   
 [fa="book"][/fa][What is a User Journey Map?](https://www.aytech.ca/blog/user-journey-map/)  
 
-## [[fa="calendar-o"][/fa]Week 4 (May 30 - Jun 5)](../home/week-04)
+## [[fa="calendar-o"][/fa]Week 4 (May 30 - Jun 5)](../weekly-units/week-04)
 **How to explore and communicate possible design solutions?**   
 [fa="desktop"][/fa][Prototyping](https://www.google.ca/slides/about/)   
 [fa="book"][/fa][The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
 [fa="users"][/fa]In-class office hours (tentative)  
 
-## [[fa="calendar-o"][/fa]Week 5 (Jun 6 - 12)](../home/week-05)
+## [[fa="calendar-o"][/fa]Week 5 (Jun 6 - 12)](../weekly-units/week-05)
 **How to plan, conduct, and summarize usability tests?**  
 [fa="desktop"][/fa][Usability Testing](https://www.google.ca/slides/about/)   
 [fa="book"][/fa][A Guide to the Art of Guerrilla UX Testing](https://usabilitygeek.com/guerrilla-usability-testing-how-to/)  

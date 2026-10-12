@@ -1,13 +1,6 @@
 ---
-title: Home
+title: 'Weekly Units'
 published: true
-visible: false
-hide_page_title: true
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: asc
 content:
     items: '@self.children'
     limit: 7
