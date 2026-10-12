@@ -1,6 +1,6 @@
 name: Open Course Hub Site
 version: 4.7.1
-description: "Open Course Hub uses a customized version of the Bootstrap4 theme to support a collaborative and version-controlled workflow using Markdown and Git Sync. Includes example single course hub content and Admin Panel plugin."
+description: "Open Course Hub uses a customized version of the Bootstrap4 theme to support a collaborative and version-controlled workflow using Markdown and Git Sync. Includes example single course hub content, organised by weeks or by modules, and Admin Panel plugin."
 icon: university
 author:
  name: HibbittsDesign.org
@@ -9,7 +9,7 @@ author:
 homepage: https://github.com/hibbitts-design/grav-skeleton-course-hub
 demo: https://demo.hibbittsdesign.org/grav-open-course-hub/
 docs: https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/README.md
-keywords: open, collaborative, flexbible, git, responsive, basic, course, lms
+keywords: open, collaborative, flexible, git, responsive, basic, course, lms, modules
 bugs: https://github.com/hibbitts-design/grav-skeleton-course-hub/issues
 license: MIT
 
