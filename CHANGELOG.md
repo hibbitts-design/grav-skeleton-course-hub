@@ -1,3 +1,10 @@
+# v4.7.1
+## XX/XX/2026
+
+1. [](#improved)
+    * The Home page links straight to this week's unit (Week 4)
+    * The Home page's Looking Ahead to Next Week slides link has an icon, as on the Schedule
+
 # v4.7.0
 ## 10/12/2026
 
