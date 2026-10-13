@@ -51,7 +51,7 @@ Other options might be better when you:
 - Need real LMS features such as enrollment, grading, or student progress tracking
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
 
-Already running Open Course Hub? See [moving to Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub#from-grav-open-course-hub-single-course) for step-by-step migration guidance. Content using the shared shortcodes (including `[topics]` and the course content shortcodes), GitHub-style alerts, and course card fields moves across unchanged.
+Already running Open Course Hub? See [moving to Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub#from-grav-open-course-hub-single-course) for step-by-step migration guidance. Content using the shared shortcodes (including `[topics]` and the course content shortcodes), GitHub-style alerts, and course card fields moves across unchanged. Helios Course Hub has no course blog, so blog posts move across as ordinary pages, without tags, archives or RSS.
 
 ## Quick Start
 
