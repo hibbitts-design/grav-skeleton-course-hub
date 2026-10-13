@@ -16,9 +16,11 @@ By adding the URL parameter (i.e. flag) `embedded:true` to any Open Course Hub p
 
 For example, the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule) displays the standard Open Course Hub page but the URL [demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true](https://demo.hibbittsdesign.org/grav-open-course-hub/schedule/embedded:true) will only display that page's content. Any links between Open Course Hub pages will result in pages being displayed in the same manner.
 
-## Organise Your Course by Weeks or by Modules
+## Course Modules and a Course Blog
 
-Along with weekly units, the Open Course Hub supports modules, as in Grav Helios Course Hub: a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons through every module and page. See the [modules demo](https://demo.hibbittsdesign.org/grav-open-course-hub-modules/), or publish this site's unpublished Modules example in your [Admin Pages panel](../../admin/pages).
+The course is organised by [modules](../modules), as in Grav Helios Course Hub: a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons through every module and page. Alongside them, the [Blog](../blog) holds course news, assignment tips and reflections – content that doesn't belong to a single module.
+
+Prefer to organise your course by weeks? A blog page can list weekly units instead, newest first – see CPT363-3 in the [Open MultiCourse Hub demo](https://demo.hibbittsdesign.org/grav-open-multi-course-hub/).
 
 ## Bring a Course Over from Your LMS
 

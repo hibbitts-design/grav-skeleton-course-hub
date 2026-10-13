@@ -1,4 +1,4 @@
-enabled: false
+enabled: true
 built_in_css: true
 date_display_format: 'F Y'
 show_count: true

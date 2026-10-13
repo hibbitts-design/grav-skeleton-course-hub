@@ -3,6 +3,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-admin
         path: user/plugins/admin
         branch: master
+    archives:
+        url: https://github.com/getgrav/grav-plugin-archives
+        path: user/plugins/archives
+        branch: master
     auto-date:
         url: https://github.com/getgrav/grav-plugin-auto-date
         path: user/plugins/auto-date
@@ -22,6 +26,10 @@ git:
     external_links:
         url: https://github.com/hibbitts-design/grav-plugin-external-links
         path: user/plugins/external_links
+        branch: master
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
         branch: master
     flex-objects:
         url: https://github.com/trilbymedia/grav-plugin-flex-objects
@@ -90,6 +98,10 @@ git:
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
+        branch: master
+    taxonomylist:
+        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
         branch: master
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube

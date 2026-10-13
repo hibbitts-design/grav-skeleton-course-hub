@@ -8,7 +8,7 @@
 
 [![Grav Discord Chat](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Grav%20Discord%20Chat)](https://chat.getgrav.org) [![Latest Release](https://img.shields.io/github/v/release/hibbitts-design/grav-skeleton-course-hub?style=flat-square&label=Release)](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest) [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE) [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.3-8892BF?style=flat-square&logo=php&logoColor=white)](https://learn.getgrav.org/17/basics/requirements)
 
-<p>Try the <a href="https://demo.hibbittsdesign.org/grav-open-course-hub/">demo</a>, or the same course <a href="https://demo.hibbittsdesign.org/grav-open-course-hub-modules/">organised by modules</a></p>
+<p>Try the <a href="https://demo.hibbittsdesign.org/grav-open-course-hub/">demo</a></p>
 
 <p>A free, open-source alternative to <a href="https://github.com/hibbitts-design/grav-skeleton-helios-course-hub">Grav Helios Course Hub</a>, built on <a href="https://getgrav.org">Grav CMS</a> and the <a href="https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter">Bootstrap4 Open Matter</a> theme, with Markdown file-based content, a built-in Admin panel, and no database required. Helios Course Hub, built on the premium Helios theme, adds a more refined design, a table of contents on pages, and automatic single or multi-course setup.</p>
 
@@ -16,7 +16,7 @@
 
 <a href="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/refs/heads/master/screenshots/screenshot-3.webp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/refs/heads/master/screenshots/screenshot-3-dark.webp"><img alt="Modules page with a card for each module, and the course sidebar on the right" src="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/refs/heads/master/screenshots/screenshot-3.webp" width="49%"></picture></a>
 
-<p>Open Course Hub – Course homepage (left), a weekly unit page (right), and the Modules page from the optional Modules example (below)</p>
+<p>Open Course Hub – Course homepage (left), the course blog (right), and the Modules page (below)</p>
 
 </div>
 
@@ -25,10 +25,10 @@ A complete, pre-configured package that gives a course an open and collaborative
 ## What Sets It Apart
 
 - **LMS embedding without LTI** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, or display the whole site without its menu, sidebar, and footer
-- **Organise by weeks or by modules** – weekly units listed newest first, or a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons, as in Grav Helios Course Hub (see the [modules demo](https://demo.hibbittsdesign.org/grav-open-course-hub-modules/))
+- **Course modules and a course blog** – a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons, as in Grav Helios Course Hub, plus a course blog for news, tips and reflections, with Popular Tags, Archives and RSS in its sidebar
 - **Bring a course over from your LMS** – import a Canvas, Moodle, Brightspace, or Blackboard course (a Common Cartridge export) as modules with the free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) – see [an example conversion](https://demo.hibbittsdesign.org/grav-open-course-hub-it2dda/)
 - **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source
-- **A course-ready structure** – a Home page with "What's Happening This Week" reminders, weekly units or modules, plus schedule, topics, resources, and syllabus pages
+- **A course-ready structure** – a Home page with "What's Happening This Week" reminders, modules and a course blog, plus schedule, topics, resources, and syllabus pages
 - **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes, and GitHub-style alerts (`> [!NOTE]`) for callouts
 - **Course content shortcodes** – learning objectives, key takeaways, reflections, definitions, examples, case studies, references, and more, with the same shortcodes as Grav Helios Course Hub
 - **Course search** – search the course from the sidebar
@@ -47,7 +47,7 @@ Other options might be better when you:
 
 - Want a structured course site with a table of contents on pages and one install that grows from one course to many – consider [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub), built on the premium Helios theme
 - Have several courses – the [Grav Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) manages them in one installation, with each course's own look
-- Want a guide or open textbook-style resource alongside a blog, rather than a weekly course companion – consider [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
+- Want a guide or open textbook-style resource alongside a blog, rather than a course companion – consider [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - Need real LMS features such as enrollment, grading, or student progress tracking
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
 
@@ -76,9 +76,10 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 
 - **Site name and description** – in the Admin Panel under **Configuration → Site**
 - **Course home** – the Home page shows the announcement, this week's reminders ("What's Happening This Week") and the "Looking Ahead to Next Week" area; edit them in `home/_announcement`, `home/_reminders` and `home/_preparations`
-- **Weekly units** – the Weekly Units page lists each week's unit (`weekly-units/week-01`, `week-02`, …), newest first by date. Add a unit with **Pages → Add** under Weekly Units, or by copying a `week-XX` folder; unpublish a unit to hide it
-- **Modules** – an unpublished Modules page (`modules`) shows the course as modules, as in Grav Helios Course Hub; for a module-based course, publish it and unpublish Weekly Units; or replace it with a course converted by the Common Cartridge Converter
-- **Navigation** – top-level pages (Weekly Units, Schedule, Topics, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
+- **Modules** – the Modules page (`modules`) shows a card for each module (`modules/module-01`, …), and each module can have its own pages. Add a module with **Pages → Add** under Modules, or by copying a `module-XX` folder; to bring in a course from your LMS, replace the `03.modules` folder with one converted by the Common Cartridge Converter
+- **Course blog** – the Blog page (`blog`) lists its posts newest first, with Popular Tags, Archives and RSS in its sidebar. Add a post with **Pages → Add** under Blog; give it tags under **Taxonomy**, and the tag `featured` to show it first
+- **Organising by weeks instead** – a blog page can list weekly units, newest first, as CPT363-3 in the [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) does; turn on its Hide Post Date and Hide Post Taxonomy options and the sidebar leaves out Popular Tags and Archives
+- **Navigation** – top-level pages (Modules, Blog, Schedule, Topics, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
 - **Shared parts** – edit the `sidebar` and `footer` pages, and replace the image in `headerimage` to change the banner
 - **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, header image height, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)
 - **Updating an existing site** – for the latest My Theme options on a site created before Open Course Hub 4.5.5, replace everything from `form:` in `user/themes/mytheme/blueprints.yaml` with:

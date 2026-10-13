@@ -1,5 +1,6 @@
-enabled: false
+enabled: true
 limit: 10
-description: 'My Feed Description'
+title: 'CPT-363 Course Blog'
+description: 'News, tips and reflections for CPT-363'
 lang: en-us
 length: 500

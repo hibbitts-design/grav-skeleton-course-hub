@@ -1,5 +1,6 @@
 ---
 title: Modules
-published: false
+published: true
 description: 'Below are the modules available for this course.'
 ---
+
