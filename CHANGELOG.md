@@ -3,7 +3,7 @@
 
 1. [](#new)
     * Organised by modules by default, as in Grav Helios Course Hub, plus a course blog
-    * Includes the Taxonomy List, Archives and Feed plugins for the blog sidebar
+    * Includes the Taxonomy List, Archives and Feed plugins for the blog sidebar, and Page TOC again, for each module page's sections
 1. [](#improved)
     * Home links straight to this week's and next week's modules, and Schedule and Topics link to modules; Weekly Units example removed
     * Looking Ahead to Next Week slides link has an icon, as on the Schedule
