@@ -1,11 +1,15 @@
-# v4.7.1
-## XX/XX/2026
+# v4.8.0
+## 10/13/2026
 
+1. [](#new)
+    * Organised by modules by default, as in Grav Helios Course Hub, plus a course blog
+    * Includes the Taxonomy List, Archives and Feed plugins for the blog sidebar
 1. [](#improved)
-    * The Home page links straight to this week's unit (Week 4)
-    * The Home page's Looking Ahead to Next Week part links straight to next week's unit (Week 5)
-    * The Home page's Looking Ahead to Next Week slides link has an icon, as on the Schedule
-    * The Read Me page highlights organising a course by weeks or by modules, and importing a course from an LMS with the Common Cartridge Converter
+    * Home links straight to this week's and next week's modules, and Schedule and Topics link to modules; Weekly Units example removed
+    * Looking Ahead to Next Week slides link has an icon, as on the Schedule
+    * Clearer descriptions for Modules 9, 12 and 13
+    * Read Me page and README updated, including importing a course from an LMS
+    * Update to Bootstrap4 Open Matter 6.4.0
 
 # v4.7.0
 ## 10/12/2026
