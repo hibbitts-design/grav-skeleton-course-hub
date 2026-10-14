@@ -1,3 +1,9 @@
+# v4.8.1
+## 10/15/2026
+
+1. [](#improved)
+    * Update to Bootstrap4 Open Matter 6.4.4: Yes/No switches show their labels in Admin on more hosts, links work in chromeless mode, the site name links to the home page from blog posts, and embedded module pages leave out their Previous and Next buttons
+
 # v4.8.0
 ## 10/13/2026
 
