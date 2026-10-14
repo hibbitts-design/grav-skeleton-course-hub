@@ -24,7 +24,7 @@ Prefer to organise your course by weeks? A blog page can list weekly units inste
 
 ## Bring a Course Over from Your LMS
 
-Have a course in Canvas, Moodle, Brightspace, or Blackboard? Export it as a Common Cartridge file, and the free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) turns it into modules for this site – see [an example conversion](https://demo.hibbittsdesign.org/grav-open-course-hub-it2dda/).
+Have a course in Canvas, Moodle, Brightspace, or Blackboard? Export it as a Common Cartridge file, and the free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) turns it into modules for this site – see [an example conversion](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/).
 
 ## What Else Can the Open Course Hub do for You? ##
 Learn more about the capabilities of the Open Course Hub project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub#readme).
