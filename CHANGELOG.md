@@ -3,6 +3,8 @@
 
 1. [](#new)
     * An unpublished UX News page shows the latest articles from the Twig Feeds settings; enable Twig Feeds and publish the page to use it, as described in the README
+1. [](#improved)
+    * Update to Bootstrap4 Open Matter 6.4.5: RSS Feeds pages show their preview text and images again
 
 # v4.8.1
 ## 10/15/2026
