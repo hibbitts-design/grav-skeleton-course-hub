@@ -7,14 +7,14 @@ pass_headers: false
 silence_security: false
 twig_feeds:
   -
-    source: 'https://alistapart.com/main/feed/'
-    name: 'A List Apart'
+    source: 'https://www.smashingmagazine.com/category/ux/index.xml'
+    name: 'Smashing Magazine'
     start: 0
     end: 3
     cache_time: 3600
   -
-    source: 'http://uxmatters.com/index.xml'
-    name: 'UX Matters'
+    source: 'https://www.nngroup.com/feed/rss/'
+    name: 'Nielsen Norman Group'
     start: 0
     end: 3
     cache_time: 3600
