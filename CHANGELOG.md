@@ -1,3 +1,9 @@
+# v4.8.2
+## XX/XX/2026
+
+1. [](#bugfix)
+    * UX Techniques Guide: the Job Stories page has its own title, not Interviews
+
 # v4.8.1
 ## 10/15/2026
 
