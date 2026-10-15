@@ -1,5 +1,5 @@
 # v4.8.2
-## XX/XX/2026
+## 10/15/2026
 
 1. [](#new)
     * An unpublished UX News page shows the latest articles from the Twig Feeds settings; enable Twig Feeds and publish the page to use it, as described in the README
