@@ -1,8 +1,15 @@
+# v4.8.2
+## XX/XX/2026
+
+1. [](#new)
+    * An unpublished UX News page shows the latest articles from the Twig Feeds settings; enable Twig Feeds and publish the page to use it, as described in the README
+
 # v4.8.1
 ## 10/15/2026
 
 1. [](#improved)
     * Update to Bootstrap4 Open Matter 6.4.4: Yes/No switches show their labels in Admin on more hosts, links work in chromeless mode, the site name links to the home page from blog posts, and embedded module pages leave out their Previous and Next buttons
+    * Twig Feeds settings: Smashing Magazine and Nielsen Norman Group replace A List Apart and UX Matters, whose feed stopped updating in 2024
 
 # v4.8.0
 ## 10/13/2026
