@@ -1,6 +1,8 @@
 # v4.8.2
-## XX/XX/2026
+## 10/16/2026
 
+1. [](#improved)
+    * Update to Bootstrap4 Open Matter 6.4.6: a "Skip to content" link for keyboard users, past the NavBar to the page content
 1. [](#bugfix)
     * UX Techniques Guide: the Job Stories page has its own title, not Interviews
 
