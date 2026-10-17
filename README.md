@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏫 Grav Open Course Hub
+# 🏫 Grav Open Course Hub 2
 
 ### Ready-to-Run Skeleton Package
 
