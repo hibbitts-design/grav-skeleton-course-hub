@@ -1,11 +1,22 @@
 ---
 title: Welcome
 description: 'Welcome to CPT-363 User Interface Design 👋🏼'
+badge_label: 'Start here'
+badge_color: green
 ---
 
 ![Welcome sign](belinda-fewings-6wAGwpsXHE0-unsplash.jpg?cropZoom=800,300)
 
- To help orientate yourself to the course, explore the [course syllabus](https://canvas-old.sfu.ca/courses/44038/assignments/syllabus). You may also want to view a brief tour of [Blackboard Collaborate Ultra](https://www.youtube.com/watch?v=1W4sGpVmJaY).
+*Photo by Belinda Fewings on [Unsplash](https://unsplash.com/photos/6wAGwpsXHE0)*
+
+[hideifembedded]
+To help orientate yourself to the course, explore the [course syllabus](https://canvas-old.sfu.ca/courses/44038/assignments/syllabus). You may also want to view a brief tour of [Blackboard Collaborate Ultra](https://www.youtube.com/watch?v=1W4sGpVmJaY).
+[/hideifembedded]
+
+[showifembedded]
+> [!TIP]
+> You're viewing this page inside the LMS – the course syllabus and announcements are in the LMS menu.
+[/showifembedded]
 
 Is this your first online course? If so, you might find these articles of help:
 
