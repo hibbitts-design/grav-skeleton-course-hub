@@ -1,3 +1,9 @@
+# v4.8.4
+## 10/19/2026
+
+1. [](#improved)
+    * README: the / key for course search
+
 # v4.8.3
 ## 10/18/2026
 
