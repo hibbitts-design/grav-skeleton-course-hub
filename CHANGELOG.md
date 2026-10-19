@@ -2,7 +2,7 @@
 ## XX/XX/2026
 
 1. [](#improved)
-    * Update to Bootstrap4 Open Matter 6.4.7: badges on module cards, captions for images in plain Markdown, an image height limit for presenting, a clearer Topics index, and better contrast for green and purple badges
+    * Update to Bootstrap4 Open Matter 6.4.10: badges on module cards, captions for images in plain Markdown, an image height limit for presenting, a clearer Topics index, better contrast for green and purple badges, tapping an image to see it larger, and complete French and German translations
     * Example content: the Welcome module has a "Start here" badge on its card, a captioned photo, and text shown only on the site or only when embedded ([hideifembedded] and [showifembedded])
 
 # v4.8.2
