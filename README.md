@@ -31,7 +31,7 @@ A complete, pre-configured package that gives a course an open and collaborative
 - **A course-ready structure** – a Home page with "What's Happening This Week" reminders, modules and a course blog, plus schedule, topics, resources, and syllabus pages
 - **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes, and GitHub-style alerts (`> [!NOTE]`) for callouts
 - **Course content shortcodes** – learning objectives, key takeaways, reflections, definitions, examples, case studies, references, and more, with the same shortcodes as Grav Helios Course Hub
-- **Course search** – search the course from the sidebar
+- **Course search** – search the course from the sidebar (the **/** key jumps to it)
 - **Visual styles** – 2026 Modern (with a tinted NavBar), 2026 Refresh or Classic, with optional Dark Mode
 - **Portable by design** – your content is plain Markdown files on your server, ready to move to any tool or host if your needs change
 
