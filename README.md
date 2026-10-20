@@ -122,19 +122,15 @@ To add a post:
 2. Set its **Date**, and its tags under **Taxonomy**
 3. Add the tag `featured` to show it first
 
-### Weekly Units Instead of Modules
+To organise a course by weeks instead of modules, a blog page can list weekly units, newest first, as CPT363-3 in the [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) does. Turn on the blog's **Hide Post Date** and **Hide Post Taxonomy** options, and its sidebar leaves out Popular Tags and Archives.
 
-To organise a course by weeks, a blog page can list weekly units, newest first, as CPT363-3 in the [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) does. Turn on the blog's **Hide Post Date** and **Hide Post Taxonomy** options, and its sidebar leaves out Popular Tags and Archives.
-
-### Menu and Navigation
+### Menu, Sidebar, Footer and Header Image
 
 - Top-level pages (Modules, Blog, Schedule, Topics, Resources, Syllabus, and so on) appear in the NavBar, in folder-number order
 - To leave a page out of the menu, turn off its **Visible** option
 - To add links to other sites, use **Custom Menu Items** under **Themes → My Theme**
 
-### Sidebar, Footer and Header Image
-
-These shared parts are pages too, and don't appear in the menu:
+The shared parts are pages too, and don't appear in the menu:
 
 - **Sidebar** (`sidebar`) – course contacts, office hours and LMS links, shown beside most pages
 - **Footer** (`footer`) – the text at the bottom of every page
@@ -151,6 +147,14 @@ Under **Themes → My Theme** (see the [Bootstrap4 Open Matter README](https://g
 
 > [!TIP]
 > The slim header shows only the middle of the image, so landscapes, textures, or photos with a centred subject work best.
+
+To get the latest My Theme options on a site created before Open Course Hub 4.5.5, replace everything from `form:` in `user/themes/mytheme/blueprints.yaml` with:
+
+```yaml
+extends@:
+  type: bootstrap4-open-matter/blueprints
+  context: 'themes://'
+```
 
 ### Embedding in Your LMS
 
@@ -170,7 +174,7 @@ The included `lms-home` page shows just this week's reminders and preparations, 
 
 To hide the link on one page, add `?edit_link=false` to its address.
 
-### Callouts and Course Content
+### Callouts and Shortcodes
 
 Start a blockquote with `> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, `> [!WARNING]` or `> [!CAUTION]` for a callout; the Home page's announcement shows an example.
 
@@ -194,7 +198,7 @@ For course content, wrap it in one of these shortcodes, such as `[objectives]...
 
 These are the same as in Grav Helios Course Hub, so content moves across unchanged.
 
-### Embeds and Other Shortcodes
+For embeds and more:
 
 | Shortcode | What it adds |
 |---|---|
@@ -210,23 +214,11 @@ These are the same as in Grav Helios Course Hub, so content moves across unchang
 
 Add `title="..."` to the Google Slides, PDF, iframe and H5P shortcodes, so screen readers can say what each embed is. For every shortcode, see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#what-sets-it-apart).
 
-### Search
+### Search and News Feeds
 
 The SimpleSearch plugin adds a "Search course..." box to the sidebar; the **/** key jumps to it. To keep a page out of the results, add `simplesearch: process: false` to its frontmatter, as the included `lms-home` page does.
 
-### News Feeds
-
 The unpublished `ux-news` page lists the latest articles from the feeds set in **Plugins → Twig Feeds**. To use it, enable the plugin, set your feeds, and publish the page.
-
-### Updating an Existing Site
-
-For the latest My Theme options on a site created before Open Course Hub 4.5.5, replace everything from `form:` in `user/themes/mytheme/blueprints.yaml` with:
-
-```yaml
-extends@:
-  type: bootstrap4-open-matter/blueprints
-  context: 'themes://'
-```
 
 ## Requirements
 
