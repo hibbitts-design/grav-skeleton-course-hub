@@ -74,28 +74,159 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 
 ## Course Setup
 
-- **Site name and description** – in the Admin Panel under **Configuration → Site**
-- **Course home** – the Home page shows the announcement, this week's reminders ("What's Happening This Week") and the "Looking Ahead to Next Week" area; edit them in `home/_announcement`, `home/_reminders` and `home/_preparations`
-- **Modules** – the Modules page (`modules`) shows a card for each module (`modules/module-01`, …), and each module can have its own pages. Beside a module page, the module list shows that page's sections (from its headings, with the included Page TOC plugin), and stays in view while reading. Add a module with **Pages → Add** under Modules, or by copying a `module-XX` folder; to bring in a course from your LMS, replace the `03.modules` folder with one converted by the Common Cartridge Converter
-- **Course blog** – the Blog page (`blog`) lists its posts newest first, with Popular Tags, Archives and RSS in its sidebar. Add a post with **Pages → Add** under Blog; give it tags under **Taxonomy**, and the tag `featured` to show it first
-- **News feeds** – the unpublished `ux-news` page lists the latest articles from the feeds set in **Plugins → Twig Feeds**; enable the plugin and publish the page to use it
-- **Organising by weeks instead** – a blog page can list weekly units, newest first, as CPT363-3 in the [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) does; turn on its Hide Post Date and Hide Post Taxonomy options and the sidebar leaves out Popular Tags and Archives
-- **Navigation** – top-level pages (Modules, Blog, Schedule, Topics, Resources, Syllabus, and so on) appear in the menu bar, ordered by their folder number; add extra menu links in the theme's Custom Menu Items
-- **Shared parts** – edit the `sidebar` and `footer` pages, and replace the image in `headerimage` to change the banner
-- **Look and options** – under **Themes → My Theme**: Theme Style, Dark Mode, header image height, NavBar, chromeless site, and Creative Commons license (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for all options)
-- **Updating an existing site** – for the latest My Theme options on a site created before Open Course Hub 4.5.5, replace everything from `form:` in `user/themes/mytheme/blueprints.yaml` with:
+Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `03.modules` start with a number that sets their order in the menu.
 
-  ```yaml
-  extends@:
-    type: bootstrap4-open-matter/blueprints
-    context: 'themes://'
-  ```
+### Site Name and Description
 
-- **LMS embedding** – add `/chromeless:true` or `?embedded=true` to any page URL; the included `lms-home` page shows just this week's reminders and preparations, ready to embed
-- **Git Sync and "Edit this Page"** – set up Git Sync in the Admin Panel (its own menu item in Grav 2, or Plugins → Git Sync in Grav 1.7), then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options; add `?edit_link=false` to a page URL to hide the link on that page
-- **Callouts** – start a blockquote with `> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, `> [!WARNING]`, or `> [!CAUTION]`; the Home page's announcement shows an example
-- **Course content shortcodes** – wrap content in `[objectives]`, `[key-takeaways]`, `[reflection]`, `[definition]`, `[example]`, `[case-study]`, `[project-brief]`, `[process-note]`, `[feedback-requested]`, `[announcement]`, `[exercise]`, `[references]`, or `[excerpt]` (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#what-sets-it-apart))
-- **Search** – the SimpleSearch plugin is included; to keep a page out of results, add `simplesearch: process: false` to its frontmatter (the included `lms-home` page does this)
+1. Open **Configuration → Site**
+2. Set **Site Title** (shown in the NavBar) and **Description**
+
+### Course Home Page
+
+The Home page (`01.home`) is built from three parts, each its own page inside it:
+
+| Part | Page | What it shows |
+|---|---|---|
+| Announcement | `home/_announcement` | A notice at the top, such as a welcome or a change of room |
+| Reminders | `home/_reminders` | "What's Happening This Week": the current module and important reminders |
+| Preparations | `home/_preparations` | "Looking Ahead to Next Week": what to read or do next |
+
+To update them each week, open **Pages**, expand **Home**, and edit each part.
+
+### Modules
+
+The Modules page (`03.modules`) shows its own text, then a card for each module. Each module (`modules/module-01`, …) can have its own pages, with a list of all modules beside them and Previous and Next buttons through every module and page in order.
+
+To add a module:
+
+1. In **Pages**, add a page under **Modules** with the `course-page` template (or copy a `module-XX` folder)
+2. Give it a **Title**, and on its **Module** tab a **Card Description** – both show on its card
+3. Add the module's content, and any pages inside it
+
+On the **Module** tab, a module or page can also have:
+
+- **Group** – shows it under a heading, on the cards and in the module list
+- **Badge Label** and **Badge Color** – a short status, such as "Draft" or "Due Friday", on its card
+
+Beside a module page, the module list also shows that page's sections, from its headings (with the included Page TOC plugin), and stays in view while reading.
+
+To bring a course over from your LMS, export it as a Common Cartridge file, convert it with the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/), and replace the `03.modules` folder with the converted one.
+
+### Course Blog
+
+The Blog page (`04.blog`) lists its posts newest first, with Popular Tags, Archives and RSS in its sidebar.
+
+To add a post:
+
+1. In **Pages**, add a page under **Blog** with the `item` template
+2. Set its **Date**, and its tags under **Taxonomy**
+3. Add the tag `featured` to show it first
+
+### Weekly Units Instead of Modules
+
+To organise a course by weeks, a blog page can list weekly units, newest first, as CPT363-3 in the [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) does. Turn on the blog's **Hide Post Date** and **Hide Post Taxonomy** options, and its sidebar leaves out Popular Tags and Archives.
+
+### Menu and Navigation
+
+- Top-level pages (Modules, Blog, Schedule, Topics, Resources, Syllabus, and so on) appear in the NavBar, in folder-number order
+- To leave a page out of the menu, turn off its **Visible** option
+- To add links to other sites, use **Custom Menu Items** under **Themes → My Theme**
+
+### Sidebar, Footer and Header Image
+
+These shared parts are pages too, and don't appear in the menu:
+
+- **Sidebar** (`sidebar`) – course contacts, office hours and LMS links, shown beside most pages
+- **Footer** (`footer`) – the text at the bottom of every page
+- **Header image** (`headerimage`) – replace its image to change the banner
+
+### Theme Options
+
+Under **Themes → My Theme** (see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#theme-options) for every option):
+
+- **Visual Style** – Theme Style (2026 Modern, 2026 Refresh or Classic) and Dark Mode (off, on, or following the visitor's system)
+- **Header** – Header Image Height (Standard, Slim, Standard on home pages with slim or hidden elsewhere, or Hidden) and the NavBar's look, colour, position and breakpoint
+- **Site options** – a chromeless site (no menu, sidebar or footer), menu dropdowns, and a Creative Commons license
+- **Custom Menu Items** and **Git Sync Link** – see above and below
+
+> [!TIP]
+> The slim header shows only the middle of the image, so landscapes, textures, or photos with a centred subject work best.
+
+### Embedding in Your LMS
+
+Add one of these to any page's address to show only its content, without the menu, sidebar or footer, ready to embed in a Canvas, Moodle, Brightspace or Blackboard page:
+
+| Add to the address | For example |
+|---|---|
+| `/chromeless:true` | `https://yoursite.com/modules/module-01/chromeless:true` |
+| `?embedded=true` | `https://yoursite.com/modules/module-01?embedded=true` (carried forward as you follow links) |
+
+The included `lms-home` page shows just this week's reminders and preparations, ready to embed as your LMS course's home page. For every option, see the theme's [Page URL Parameters](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#page-url-parameters).
+
+### Git Sync and "Edit this Page"
+
+1. Set up Git Sync in the Admin Panel (its own menu item in Grav 2, or **Plugins → Git Sync** in Grav 1.7), with a repository on GitHub, GitLab, Bitbucket or your own server
+2. Under **Themes → My Theme → Git Sync Link**, choose where the link appears and whether it views or edits each page's source
+
+To hide the link on one page, add `?edit_link=false` to its address.
+
+### Callouts and Course Content
+
+Start a blockquote with `> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, `> [!WARNING]` or `> [!CAUTION]` for a callout; the Home page's announcement shows an example.
+
+For course content, wrap it in one of these shortcodes, such as `[objectives]...[/objectives]`. Each one except `[excerpt]` can have its own heading, such as `[objectives title="By the end of this week"]`:
+
+| Shortcode | Default heading |
+|---|---|
+| `[objectives]` | Learning Objectives |
+| `[key-takeaways]` | Key Takeaways |
+| `[reflection]` | Reflection |
+| `[definition]` | Definition |
+| `[example]` | Example |
+| `[case-study]` | Case Study |
+| `[project-brief]` | Project Brief |
+| `[process-note]` | Process Note |
+| `[feedback-requested]` | Feedback Requested |
+| `[exercise]` | Interactive Activity |
+| `[announcement]` | Announcement (styled as Important, or set `type="note"`, `"tip"`, `"warning"` or `"caution"`) |
+| `[references]` | References |
+| `[excerpt]` | – (a quoted passage) |
+
+These are the same as in Grav Helios Course Hub, so content moves across unchanged.
+
+### Embeds and Other Shortcodes
+
+| Shortcode | What it adds |
+|---|---|
+| `[googleslides url="..."]` | Google Slides, 16:9 (add `ratio="4:3"` for 4:3) |
+| `[pdf url="..."]` | A PDF viewer (add `ratio="portrait"` for letter or A4 pages) |
+| `[iframe url="..."]` | Any embeddable page, 16:9 |
+| `[h5p url="..."]` | H5P interactive content |
+| `[embedly url="..."]` | A link card from Embedly |
+| `[linkpreviewcard url="..."]` | A link card made on your own site, without Embedly |
+| `[topics]...[/topics]` | An A–Z topics index of the list inside it |
+| `[badge label="..."]`, `[button label="..." url="..."]` | Badges and buttons |
+| `[showifembedded]`, `[hideifembedded]` | Content shown only, or never, when the page is embedded |
+
+Add `title="..."` to the Google Slides, PDF, iframe and H5P shortcodes, so screen readers can say what each embed is. For every shortcode, see the [Bootstrap4 Open Matter README](https://github.com/hibbitts-design/grav-theme-bootstrap4-open-matter#what-sets-it-apart).
+
+### Search
+
+The SimpleSearch plugin adds a "Search course..." box to the sidebar; the **/** key jumps to it. To keep a page out of the results, add `simplesearch: process: false` to its frontmatter, as the included `lms-home` page does.
+
+### News Feeds
+
+The unpublished `ux-news` page lists the latest articles from the feeds set in **Plugins → Twig Feeds**. To use it, enable the plugin, set your feeds, and publish the page.
+
+### Updating an Existing Site
+
+For the latest My Theme options on a site created before Open Course Hub 4.5.5, replace everything from `form:` in `user/themes/mytheme/blueprints.yaml` with:
+
+```yaml
+extends@:
+  type: bootstrap4-open-matter/blueprints
+  context: 'themes://'
+```
 
 ## Requirements
 
