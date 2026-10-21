@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * Grav's cache is on by default, so pages load faster; Grav still notices edited pages straight away (existing sites can turn it on in Configuration → System → Caching)
+    * README: Course Setup in its own sections, with short how-tos and tables of the Home page parts, course content shortcodes and embeds
 
 # v4.8.4
 ## 10/19/2026
