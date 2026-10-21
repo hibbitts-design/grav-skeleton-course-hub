@@ -76,10 +76,10 @@ Open Course Hub is best suited for authors and educators comfortable with web ho
 
 Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `03.modules` start with a number that sets their order in the menu.
 
-### Site Name and Description
+### Site Name and Home Page
 
-1. Open **Configuration → Site**
-2. Set **Site Title** (shown in the NavBar) and **Description**
+1. Open **Configuration → Site** and set **Site Title** (shown in the NavBar) and **Description**
+2. The course's Home page is the homepage (see below); to use another page, change **Home Page** in **Configuration → System**
 
 ### Course Home Page
 
@@ -124,7 +124,7 @@ To add a post:
 
 To organise a course by weeks instead of modules, a blog page can list weekly units, newest first, as CPT363-3 in the [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) does. Turn on the blog's **Hide Post Date** and **Hide Post Taxonomy** options, and its sidebar leaves out Popular Tags and Archives.
 
-### Menu, Sidebar, Footer and Header Image
+### Pages, Menu, Sidebar and Footer
 
 - Top-level pages (Modules, Blog, Schedule, Topics, Resources, Syllabus, and so on) appear in the NavBar, in folder-number order
 - To leave a page out of the menu, turn off its **Visible** option
@@ -227,14 +227,15 @@ The unpublished `ux-news` page lists the latest articles from the feeds set in *
 
 ## Support
 
-### Contact and Support
+**Contact and Support**
+
 - Share your feedback in the [Open Course Hub Survey](https://docs.google.com/forms/d/e/1FAIpQLSeI6SuJYPyKrhQmlnRVxJI9plUiemu5yTLtLLjwKc9QboR8VQ/viewform)
 - Follow [@hibbittsdesign@mastodon.social](https://mastodon.social/@hibbittsdesign) on Mastodon for updates
 - 👩🏻‍💻🧑🏻‍💻 Join the [Grav Discord](https://chat.getgrav.org) and often find me there
 - Add a ⭐️ [star on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub) to the Open Course Hub project repository
 - For bugs or feature requests, [open an issue](https://github.com/hibbitts-design/grav-skeleton-course-hub/issues) on GitHub
 
-### Professional Services
+**Professional Services**
 
 By leveraging his extensive UX design expertise and systems-oriented approach, Paul helps teams and individuals utilize open content in education and publication settings. Professional services include user experience and workflow consulting, premium support subscriptions, workshops, and custom development. Interested? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
