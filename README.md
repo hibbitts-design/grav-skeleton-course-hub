@@ -2,7 +2,7 @@
 
 # 🏫 Grav Open Course Hub 2
 
-## Ready-to-Run Skeleton Package
+### Ready-to-Run Skeleton Package
 
 <p><em>An open, collaborative home for your course – inside or outside your LMS, with content in portable Markdown files you control.</em></p>
 
