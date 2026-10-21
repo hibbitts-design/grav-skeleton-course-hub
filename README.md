@@ -208,7 +208,7 @@ For embeds and more:
 | `[h5p url="..."]` | H5P interactive content |
 | `[embedly url="..."]` | A link card from Embedly |
 | `[linkpreviewcard url="..."]` | A link card made on your own site, without Embedly |
-| `[topics]...[/topics]` | An A–Z topics index of the list inside it |
+| `[topics]...[/topics]` | An A–Z topics index, from single-letter headings (`## A`, `## B`, …) inside it |
 | `[badge label="..."]`, `[button label="..." url="..."]` | Badges and buttons |
 | `[showifembedded]`, `[hideifembedded]` | Content shown only, or never, when the page is embedded |
 
