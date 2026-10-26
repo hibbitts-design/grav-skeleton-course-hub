@@ -1,3 +1,9 @@
+# v4.8.6
+## XX/XX/2026
+
+1. [](#improved)
+    * Footer: the links to hibbittsdesign.org and Grav use https (the http address for hibbittsdesign.org doesn't load)
+
 # v4.8.5
 ## 10/22/2026
 
