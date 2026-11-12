@@ -45,6 +45,7 @@ Grav Open Course Hub is a good fit when you:
 
 Other options might be better when you:
 
+- Are starting a new course site on Grav 2 – consider its free successor, [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), for one course or many, each with its own course navbar (moving existing courses is covered in [its README](https://github.com/hibbitts-design/grav-skeleton-open-course-space#moving-existing-courses))
 - Want a structured course site with a table of contents on every page and one install that grows from one course to many – consider [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub), built on the premium Helios theme
 - Have several courses – the [Grav Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) manages them in one installation, with each course's own look
 - Want a guide or open textbook-style resource alongside a blog, rather than a course companion – consider [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)

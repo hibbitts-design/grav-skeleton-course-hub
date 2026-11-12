@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * Footer: the links to hibbittsdesign.org and Grav use https (the http address for hibbittsdesign.org doesn't load)
+    * README: points to Grav Open Course Space, the free successor, for new course sites on Grav 2
 
 # v4.8.5
 ## 10/22/2026
