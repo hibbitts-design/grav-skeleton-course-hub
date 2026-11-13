@@ -4,6 +4,8 @@
 1. [](#improved)
     * Footer: the links to hibbittsdesign.org and Grav use https (the http address for hibbittsdesign.org doesn't load)
     * README: points to Grav Open Course Space, the free successor, for new course sites on Grav 2
+1. [](#bugfix)
+    * Module 3 and Module 5 videos, which are no longer on YouTube, are now Nielsen Norman Group's Customer Journey Mapping 101 and AmberlightUX's Usability Testing
 
 # v4.8.5
 ## 10/22/2026

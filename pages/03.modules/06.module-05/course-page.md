@@ -17,8 +17,8 @@ header_image_alt_text: 'Usability testing'
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Supplemental Materials  
-[Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
-[youtube]https://www.youtube.com/watch?v=QckIzHC99Xc[/youtube]  
+[Usability Testing, by AmberlightUX](https://www.youtube.com/watch?v=BrVnBdW6_rE)  
+[youtube]https://www.youtube.com/watch?v=BrVnBdW6_rE[/youtube]  
 
 ### Required Reading  
 [linkpreviewcard url="https://usabilitygeek.com/guerrilla-usability-testing-how-to/"]

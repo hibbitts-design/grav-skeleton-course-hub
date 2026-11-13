@@ -17,8 +17,8 @@ header_image_alt_text: 'Bullseye'
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Supplemental Materials  
-[Customer Journey Mapping](https://www.youtube.com/watch?v=a40QYgO-_aM)  
-[youtube]https://www.youtube.com/watch?v=a40QYgO-_aM[/youtube]  
+[Customer Journey Mapping 101](https://www.youtube.com/watch?v=2W13ext26kQ)  
+[youtube]https://www.youtube.com/watch?v=2W13ext26kQ[/youtube]  
 
 ### Assignments
 [Journey Map](https://canvas.sfu.ca/courses/55288/assignments)  
