@@ -21,7 +21,7 @@
 </div>
 
 > [!NOTE]
-> **Soon in maintenance mode:** Grav Open Course Hub and Open MultiCourse Hub will soon be in maintenance mode – still fixed, but with no new features. For new course sites on Grav 2, see [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), their free successor for one course or many; [existing courses move across](https://github.com/hibbitts-design/grav-skeleton-open-course-space#moving-existing-courses). On Grav 1.7, Open Course Hub remains a free course starter.
+> **Soon in maintenance mode:** Grav Open Course Hub and Open MultiCourse Hub will soon be in maintenance mode – bug fixes will continue, but no new features are planned. For new course sites on Grav 2, see [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), their free successor for one course or many; [existing courses move across](https://github.com/hibbitts-design/grav-skeleton-open-course-space#moving-existing-courses). On Grav 1.7, Open Course Hub remains a free course starter.
 
 A complete, pre-configured package that gives a course an open and collaborative home on the web, inside or outside your LMS. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
 
