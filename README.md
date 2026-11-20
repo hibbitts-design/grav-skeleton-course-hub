@@ -29,7 +29,7 @@ A complete, pre-configured package that gives a course an open and collaborative
 
 - **LMS embedding without LTI** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, or display the whole site without its menu, sidebar, and footer
 - **Course modules and a course blog** – a Modules page with a card for each module, a list of modules (with the current page's sections) beside every module page, and Previous and Next buttons, as in Grav Helios Course Hub, plus a course blog for news, tips and reflections, with Popular Tags, Archives and RSS in its sidebar
-- **Bring a course over from your LMS** – import a Canvas, Moodle, Brightspace, or Blackboard course (a Common Cartridge export) as modules with the free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) – see [an example conversion into Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/)
+- **Bring a course over from your LMS** – import a Canvas, Moodle, Brightspace, or Blackboard course (a Common Cartridge export) as modules with the free [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/) (beta) – see [an example conversion into Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/)
 - **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source
 - **A course-ready structure** – a Home page with "What's Happening This Week" reminders, modules and a course blog, plus schedule, topics, resources, and syllabus pages
 - **Rich embeds** – Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, plus badges and buttons, all with shortcodes, and GitHub-style alerts (`> [!NOTE]`) for callouts
@@ -113,7 +113,7 @@ On the **Module** tab, a module or page can also have:
 
 Beside a module page, the module list also shows that page's sections, from its headings (with the included Page TOC plugin), and stays in view while reading.
 
-To bring a course over from your LMS, export it as a Common Cartridge file, convert it with the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/), and replace the `03.modules` folder with the converted one.
+To bring a course over from your LMS, export it as a Common Cartridge file, convert it with the [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/), and replace the `03.modules` folder with the converted one.
 
 ### Course Blog
 
